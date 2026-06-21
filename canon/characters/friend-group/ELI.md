@@ -9,7 +9,7 @@ Father: Mike, a mechanic who works at the family shop.
 Mother: Julie, works in IT, often from home to help care for Grandma Betty.
 Grandpa: Frank, owns the family mechanic shop and is slowly handing it to Mike, though he still works as an unwanted consultant.
 Grandma: Betty, slowly losing memory.
-Older sister: Sawyer.
+Older sister: Quinn.
 Younger sister: Lily, nickname Lil.
 
 The family lives in an old family home on a large property inherited through generations. There is a rickety old barn that was once the original mechanic shop. Grandpa gifted it to Eli to do whatever he wants with as long as he fixes and maintains it.

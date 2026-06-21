@@ -34,7 +34,7 @@ ELI FAMILY (Sullivan):
 - Julie - mother
 - Frank - grandfather
 - Betty - grandmother
-- Sawyer - older sister
+- Quinn - older sister
 - Lily / Lil - younger sister
 
 ACCORD FOUNDERS:
