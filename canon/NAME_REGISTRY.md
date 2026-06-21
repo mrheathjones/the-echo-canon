@@ -11,25 +11,25 @@ HALE FAMILY:
 - Jack Hale I / Gramps
 - Evelyn Hale / Grams
 
-FRIEND GROUP:
+FRIEND GROUP (surnames locked — proposed; each is a single find-replace to change):
 - Lucas Hale
-- Maya (surname not yet locked)
-- Zoe (surname not yet locked)
-- Mason (surname not yet locked)
-- Eli (surname not yet locked)
+- Maya Sinclair  *(alternatives considered: Calloway, Ashford, Davenport)*
+- Zoe Bennett
+- Mason Reed
+- Eli Sullivan
 
-MASON FAMILY:
+MASON FAMILY (Reed):
 - Ryan - father
-- Sarah - mother
+- Sarah - mother  *(NOTE: shares a first name with founder Sarah Whitmore — watch for confusion; consider renaming. OPEN.)*
 - Carter - older brother
 - Sawyer - older sister
 
-ZOE FAMILY:
+ZOE FAMILY (Bennett):
 - Daniel - father
 - Claire - mother, deceased
 - Aunt Lacey
 
-ELI FAMILY:
+ELI FAMILY (Sullivan):
 - Mike - father
 - Julie - mother
 - Frank - grandfather
@@ -42,3 +42,8 @@ ACCORD FOUNDERS:
 - Sarah Whitmore - The Heart
 - Abigail “Abby/Abs” Whitmore
 - Adrian Mercer - The Architect
+
+ACCORD STAFF / FORCES:
+- Devon Cross - young-adult-track recruiter; Book 1 antagonistic force (surname adjustable)
+- Ben Carter - cohort Primary Mentor
+- Catherine Park - Senior Mentor / inside dissenter (future ally)

@@ -1,4 +1,6 @@
-# Eli
+# Eli Sullivan
+
+> Surname locked (proposed): **Sullivan**. Adjustable via single find-replace.
 
 Eli is a core friend, robotics kid, systems thinker, and seeker of understanding.
 
@@ -38,3 +40,11 @@ Eli and Lucas bond over video games. Lucas's imagination gives Eli project ideas
 
 Relationship with Maya:
 Maya gives Eli room to be brave. They both understand getting trapped in thought loops.
+
+## Engine role & distinct axis (distributed friend-group engine)
+
+Engine role: **READER OF SYSTEMS (READ, mechanism).** Eli maps how an Echo phenomenon *works* — the mechanism, the environment, the structure — and builds grounded tools (the Barn, robotics). He is a second kind of reader, blind exactly where Maya sees: Eli reads *systems*, Maya reads *people*, and the best scenes need both because a manifestation is a feeling behaving like a system. His flaw is over-trusting the model — he'll insist the system explains everything and miss the human truth. See `canon/characters/friend-group/FRIEND_GROUP_ENGINE.md`.
+
+Distinct axis (de-overlap vs Zoe and Maya): Eli's want is control over **understanding / mechanism** — make the world legible so nothing can blindside him (rooted in the helplessness he feels watching Grandma Betty's memory go). Distinct from Zoe (control of *events*) and Maya (fear of the *wrong choice*). Play Eli as the one who needs to *know how it works*, not the one who needs the plan to succeed or the one afraid to decide.
+
+Accord door: complete answers / predictable systems.

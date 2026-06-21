@@ -1,4 +1,6 @@
-# Mason
+# Mason Reed
+
+> Surname locked (proposed): **Reed**. Adjustable via single find-replace. (Note: his mother is currently "Sarah," which collides with founder Sarah Whitmore — flagged in NAME_REGISTRY as OPEN.)
 
 Mason is a core friend, athletic, tech-connected, and performance-driven.
 
@@ -35,3 +37,11 @@ Mason and Eli have been best friends since 2nd grade and are like brothers. They
 
 Relationship with Zoe/Maya:
 Mason, Zoe, and Maya have known each other longest. Zoe calls him “Little Masey” whenever he gets a big head. Mason challenges Zoe but knows she is head honcho. Mason and Maya share sarcastic remarks; he thinks Maya is cool and does not know it.
+
+## Engine role & distinct want (distributed friend-group engine)
+
+Engine role: **ANCHOR & MOVER (HOLD / costly action).** Mason is grounded in a set-piece and unafraid of the brave *social* move (he already protects picked-on kids "because he can do something"). When the costly choice is a socially scary action, Mason models it or makes it possible. His flaw inverts the others': he'll make the brave *external* move precisely to dodge the brave *internal* one — vulnerability, sitting still, admitting he's overwhelmed. See `canon/characters/friend-group/FRIEND_GROUP_ENGINE.md`.
+
+Distinct want (de-overlap vs Nolan, who also "wants freedom"): Mason's freedom is **freedom from the performance/expectation treadmill** — permission to stop proving himself and just be a kid. Nolan's "freedom" is *rebellion* against being cast as the problem. Mason isn't rebelling against authority; he's exhausted by having to perform for it. Keep the two distinct: Nolan pushes against the leash, Mason is tired of running the track.
+
+Accord door: simplicity / one clear lane (stop juggling jock-and-nerd, stop performing).

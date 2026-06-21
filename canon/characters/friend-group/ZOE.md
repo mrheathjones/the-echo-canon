@@ -1,4 +1,6 @@
-# Zoe
+# Zoe Bennett
+
+> Surname locked (proposed): **Bennett**. Adjustable via single find-replace.
 
 Zoe is a core friend and natural leader.
 
@@ -29,3 +31,11 @@ Zoe and Maya are chosen sisters. Zoe protects Maya from the outside world. Maya 
 
 Relationship with Lucas:
 Lucas resists being told what to do. Zoe's plans sometimes conflict with Lucas's ideas. Zoe struggles to stray from the plan, creating tension. Zoe prefers a small manageable circle; Lucas is a people person, which annoys her.
+
+## Engine role & distinct axis (distributed friend-group engine)
+
+Engine role: **DRIVER (CHOOSE / act).** Zoe turns understanding into action and makes a stalled group move — she protects people and executes. Her flaw is the failure mode of choosing: a plan feels safer than uncertainty, so she'll drive the team confidently on a *wrong* read, won't improvise or ask for help, and — her hardest lesson — cannot *force* someone else's costly choice (she can only build the conditions for it). See `canon/characters/friend-group/FRIEND_GROUP_ENGINE.md`.
+
+Distinct axis (de-overlap vs Maya and Eli): Zoe's control is over **events and outcomes** (external, tactical) — make the plan work in the world. Distinct from Eli (who wants to control *knowledge* — to understand the mechanism) and Maya (who isn't controlling at all — she fears the *wrong choice*). Play Zoe as the one who acts to manage the world, not the one who agonizes or theorizes.
+
+Accord door: control / guaranteed outcomes.

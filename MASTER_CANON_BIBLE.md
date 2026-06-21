@@ -1,3 +1,10 @@
+> **SUPERSEDED IN PART** — see `canon/00_SERIES_DECISIONS_LOCKED.md`.
+>
+> The Series Identity / format / age language below is the original v1 direction
+> (graphic novel, ages 8-12). Current direction: **illustrated prose hybrid, upper
+> middle grade, Lucas aged 13**. Where this bible conflicts with the locked decisions
+> or the `canon/` files, the locked decisions win.
+
 # THE ECHO - FULL MASTER CANON BIBLE
 
 Version: Reconstructed Canon Bible v1

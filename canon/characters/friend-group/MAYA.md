@@ -1,4 +1,6 @@
-# Maya
+# Maya Sinclair
+
+> Surname locked (proposed): **Sinclair**. Adjustable via single find-replace. Alternatives considered: Calloway, Ashford, Davenport.
 
 Maya is one of Lucas's closest friends and a core member of the friend group.
 
@@ -40,3 +42,11 @@ Maya is her dad's little golf buddy. She enjoys golf because it is slow, methodi
 
 At the Hale house:
 Maya is family-adjacent. Nolan teases Lucas and Maya about being boyfriend/girlfriend. They deny it. Emma snaps at Nolan, Rachel tells him to leave them alone, Dylan roasts Nolan for not having a girlfriend, and Jack calls him immature.
+
+## Engine role & distinct axis (distributed friend-group engine)
+
+Engine role: **READER OF PEOPLE (READ).** Maya lands the true names — pattern and nuance no one else catches. Her flaw is the failure mode of reading: analysis paralysis and not trusting herself, so the true name often arrives late or stays unspoken until someone forces it out. See `canon/characters/friend-group/FRIEND_GROUP_ENGINE.md`.
+
+Distinct axis (de-overlap vs Zoe and Eli): Maya's struggle is **judgment and the weight of choosing**, not control. Zoe wants to control *outcomes*; Eli wants to understand *mechanisms*; Maya wants to be *sure she won't make the wrong call and fail people.* Her paralysis is fear of a wrong choice, not a need to run the room. Keep her distinct on the page by playing the dread-of-deciding, not a control reflex.
+
+Accord door: certainty / relief from the risk of being wrong.
