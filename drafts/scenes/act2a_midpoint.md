@@ -1,10 +1,7 @@
 # Book 1 — Act 2A Midpoint (proof-of-concept draft)
 
 POV: close third, anchored on Lucas.
-Position: end of Act 2A — the false-victory hinge. Lucas accepts Devon's "just us"
-invitation, gets the seen-ness he's starved for, and the realization detonates
-mid-bliss: Devon's dead-calm = the campus Gray = Nolan's "rest." It lands as shame,
-not deduction, and curdles into the certainty that arms his Act 2B mistake.
+Position: end of Act 2A — the false-victory hinge. Lucas accepts Devon's "just us" invitation, gets the seen-ness he's starved for, and the realization detonates mid-bliss: Devon's dead-calm = the campus Gray = Nolan's "rest." It lands as shame, not deduction, and curdles into the certainty that arms his Act 2B mistake.
 
 ---
 
