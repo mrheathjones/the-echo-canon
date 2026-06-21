@@ -16,13 +16,25 @@
 set -uo pipefail
 
 # --- locate repo root (the dir that contains canon/) -------------------------
-DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-ROOT="$(cd "$DIR/.." && pwd)"
-cd "$ROOT"
-if [ ! -d canon ]; then
-  echo "ERROR: can't find canon/ (looked in $ROOT)." >&2
+# Prefer an ancestor of the current directory that has canon/ (works when run
+# from anywhere inside your clone); fall back to the script's parent (tools/..).
+_find_root() {
+  local d="$PWD"
+  while [ -n "$d" ] && [ "$d" != "/" ]; do
+    [ -d "$d/canon" ] && { printf '%s' "$d"; return 0; }
+    d="$(dirname "$d")"
+  done
+  local sd; sd="$(cd "$(dirname "${BASH_SOURCE[0]}")" 2>/dev/null && pwd)"
+  [ -n "$sd" ] && [ -d "$sd/../canon" ] && { (cd "$sd/.." && pwd); return 0; }
+  return 1
+}
+ROOT="$(_find_root)" || {
+  echo "ERROR: not inside the-echo-canon (no canon/ found)." >&2
+  echo "  Run it from inside your local clone, e.g.:  cd ~/the-echo-canon && bash tools/validate.sh" >&2
+  echo "  (Running the bare file in CodeRunner won't work — there's no repo there.)" >&2
   exit 2
-fi
+}
+cd "$ROOT"
 
 FAILS=0; WARNS=0
 fail(){ echo "  ✗ FAIL: $*"; FAILS=$((FAILS+1)); }
