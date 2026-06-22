@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # persist.sh — "Lock it in" / "Wrap up": validate, commit, and push specific files
-# to review-prep, from the user's local clone.
+# to draft, from the user's local clone.
 # Usage: bash scripts/persist.sh "commit message" path1 [path2 ...]
 set -euo pipefail
 
@@ -8,7 +8,7 @@ MSG="${1:?usage: persist.sh \"commit message\" <path> [<path> ...]}"; shift || t
 [ "$#" -ge 1 ] || { echo "usage: persist.sh \"commit message\" <path> [<path> ...]" >&2; exit 2; }
 
 REPO_URL="https://github.com/mrheathjones/the-echo-canon.git"
-BRANCH="review-prep"
+BRANCH="draft"
 LOCAL_CLONE="${THE_ECHO_CLONE:-/Users/heath/Downloads/the-echo-local}"
 
 if   [ -d "$LOCAL_CLONE/.git" ]; then cd "$LOCAL_CLONE"

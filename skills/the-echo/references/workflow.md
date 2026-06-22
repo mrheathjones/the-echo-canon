@@ -8,7 +8,7 @@ review/scene packets are derived snapshots, not truth.
 
 ## Repo
 - URL: `https://github.com/mrheathjones/the-echo-canon` (public)
-- Branch: **`review-prep`** — do all work here; fold to `main` at milestones.
+- Branch: **`draft`** — do all work here; fold to `main` at milestones.
 - Local clone (default): `/Users/heath/Downloads/the-echo-local` (override with env `THE_ECHO_CLONE`).
 - Run scripts from inside the clone; they operate in place. Running a bare tool from elsewhere
   (e.g. CodeRunner's folder) fails because there's no repo there.
@@ -23,7 +23,7 @@ like the two Sarahs; an ungenerated bible). `scripts/persist.sh` runs this gate 
 Never ask the user for a token or password, and never enter credentials yourself. Cloning a
 public repo needs no auth; pushing uses the user's cached GitHub auth in their own clone. If a
 push fails for auth, tell the user to sign in once via GitHub Desktop or `gh auth login` and run
-`git push -u origin review-prep` themselves.
+`git push -u origin draft` themselves.
 
 ## Persisting work
 **Preferred** (user's local clone with auth): write files into the clone, then
@@ -36,7 +36,7 @@ bash script the user runs. Template:
 #!/usr/bin/env bash
 set -euo pipefail
 REPO_URL="https://github.com/mrheathjones/the-echo-canon.git"
-BRANCH="review-prep"
+BRANCH="draft"
 LOCAL_CLONE="${THE_ECHO_CLONE:-/Users/heath/Downloads/the-echo-local}"
 if   [ -d "$LOCAL_CLONE/.git" ]; then cd "$LOCAL_CLONE"
 elif [ -d "$LOCAL_CLONE" ] && [ -z "$(ls -A "$LOCAL_CLONE" 2>/dev/null)" ]; then git clone "$REPO_URL" "$LOCAL_CLONE"; cd "$LOCAL_CLONE"
@@ -57,4 +57,4 @@ After canon changes: `bash tools/build_bible.sh`, then commit `MASTER_CANON_BIBL
 (The `.docx`/`.pdf` copies are not regenerated.)
 
 ## Branches
-Keep one working branch (`review-prep`). Don't let feature branches accumulate competing truth.
+Keep one working branch (`draft`). Don't let feature branches accumulate competing truth.

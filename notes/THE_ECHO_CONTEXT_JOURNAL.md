@@ -64,7 +64,7 @@ NEXT TO DRAFT (author greenlit):
 ## 6. REPO FACTS
 - URL: https://github.com/mrheathjones/the-echo-canon (public; clone read-only for reference).
 - Real paths (verified): hale folder = `canon/characters/hale-family` (HYPHEN). Friend dossiers in `canon/characters/friend-group/`. Accord in `canon/characters/accord/`. Story in `canon/story/`. Scenes staged under `drafts/scenes/`. Registry = `canon/NAME_REGISTRY.md`.
-- Branches seen: `main`, `canon-redirect`, `review-prep`, `scenes/act2a-midpoint`. **Working branch for new work = `review-prep`.**
+- Branches seen: `main`, `canon-redirect`, `draft`, `scenes/act2a-midpoint`. **Working branch for new work = `draft`.**
 - Canon files created in the redirect (headed with intended repo paths): `00_SERIES_DECISIONS_LOCKED.md`, `ECHO_MECHANICS_RESOLUTION.md`, `FRIEND_GROUP_ENGINE.md`, `BOOK_1_SPINE.md` (replaces old `BOOK_1_FOUNDATION.md`), `NOLAN_LOVABILITY_GUARDRAILS.md`, `DEVON_CROSS.md`, `THE_ECHO_REVIEW_BRIEF.md`, plus the 4 rewritten friend dossiers.
 
 ## 7. THE MASTER BIBLE — STATUS / PLAN
@@ -74,9 +74,9 @@ NEXT TO DRAFT (author greenlit):
 ## 8. WORKFLOW / OPERATING RULES (important)
 - **GitHub auth:** Claude does NOT authenticate as the author and the author must NOT paste tokens in chat (declined on credential hygiene). No GitHub MCP connector available. Pattern: Claude **reads** via public clone; for **writes**, Claude generates a **self-contained one-shot bash script** (file contents embedded via quoted heredocs) that the author runs on their own authenticated machine.
 - **Standing rule:** every repo-touching deliverable ships with a one-shot update script, sandbox-tested end-to-end (idempotent; git-identity self-heal; only the final `git push` should require the author's auth).
-- Current script: **`update_github_brother_scene.sh`** — targets `review-prep`; adds `act1_brother_store_run.md` + applies the Sawyer→Quinn fix to ELI.md & NAME_REGISTRY.md; tested against a fresh clone (commits; push needs auth). Re-running = clean no-op.
-- Prior script: `update_github_review_prep.sh` (the big review-prep build — 21 files; adds canon files + 3 scenes + brief, reconciles identity, banners the bible, rewrites dossiers, removes BOOK_1_FOUNDATION.md).
-- **Review workflow:** `THE_ECHO_REVIEW_PACKET.md` = one upload-ready file (reviewer prompt + 14 materials). Paste/upload whole on any model; point repo-capable models at `review-prep`; **use a different model than the build model** for independence.
+- Current script: **`update_github_brother_scene.sh`** — targets `draft`; adds `act1_brother_store_run.md` + applies the Sawyer→Quinn fix to ELI.md & NAME_REGISTRY.md; tested against a fresh clone (commits; push needs auth). Re-running = clean no-op.
+- Prior script: `update_github_review_prep.sh` (the big draft build — 21 files; adds canon files + 3 scenes + brief, reconciles identity, banners the bible, rewrites dossiers, removes BOOK_1_FOUNDATION.md).
+- **Review workflow:** `THE_ECHO_REVIEW_PACKET.md` = one upload-ready file (reviewer prompt + 14 materials). Paste/upload whole on any model; point repo-capable models at `draft`; **use a different model than the build model** for independence.
 
 ## 9. FILE LOCATIONS (sandbox; reset between sessions)
 - Uploads (read-only): `/mnt/user-data/uploads/` (had `THE_ECHO_Developmental_Review.md`, `Book_Files.zip`).

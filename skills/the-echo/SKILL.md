@@ -28,7 +28,7 @@ goes in `canon/`, not here.
 
 ## Repo facts
 - Repo: `https://github.com/mrheathjones/the-echo-canon` (public)
-- Working branch: **`review-prep`** (do all work here)
+- Working branch: **`draft`** (do all work here)
 - Where-we-left-off journal: `notes/THE_ECHO_CONTEXT_JOURNAL.md`
 - Drift tools (in repo): `tools/validate.sh` (continuity gate), `tools/build_bible.sh` (bible rollup)
 - Author's local clone (default): `/Users/heath/Downloads/the-echo-local` (override with env `THE_ECHO_CLONE`)
@@ -39,7 +39,7 @@ loosely ("where were we?", "save this", "we're done for today").
 
 ### 1. "Let's pick up <book>" — ORIENT (session start)
 Goal: load the world and report exactly where we left off, then get to work.
-1. Run `bash scripts/orient.sh "<book>"`. It clones or pulls the repo on `review-prep` and
+1. Run `bash scripts/orient.sh "<book>"`. It clones or pulls the repo on `draft` and
    prints the journal, the matching book's spine, recent commits, and a continuity-status check.
    If you can't run scripts, fall back: read `notes/THE_ECHO_CONTEXT_JOURNAL.md` and
    `canon/story/BOOK_1_SPINE.md` from the repo, or ask the user to upload the journal.
@@ -57,7 +57,7 @@ Goal: commit whatever we've been working on to the repo, validated.
 2. Mark anything you invented as **PROPOSED** until the author approves; only LOCKED items go in
    as settled. Never quietly canonize a new fact.
 3. Run gate + commit + push: `bash scripts/persist.sh "<commit message>" <path> [<path> …]`
-   (it runs `tools/validate.sh`, aborts on FAIL, commits, pushes to `review-prep`). If you can't
+   (it runs `tools/validate.sh`, aborts on FAIL, commits, pushes to `draft`). If you can't
    push (no clone/auth), instead generate a tested one-shot script for the user — see
    `references/workflow.md`.
 4. If canon changed, regenerate the bible: `bash tools/build_bible.sh` and include

@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
-# orient.sh — "Let's pick up <book>": clone-or-pull the repo on review-prep and
+# orient.sh — "Let's pick up <book>": clone-or-pull the repo on draft and
 # print where we left off (journal + book spine + recent changes + continuity status).
 # Usage: bash scripts/orient.sh ["Book 1" | "The Echo"]
 set -uo pipefail
 
 BOOK="${1:-The Echo}"
 REPO_URL="https://github.com/mrheathjones/the-echo-canon.git"
-BRANCH="review-prep"
+BRANCH="draft"
 LOCAL_CLONE="${THE_ECHO_CLONE:-/Users/heath/Downloads/the-echo-local}"
 
 if   [ -d "$LOCAL_CLONE/.git" ]; then cd "$LOCAL_CLONE"; git fetch origin "$BRANCH" >/dev/null 2>&1 || true
