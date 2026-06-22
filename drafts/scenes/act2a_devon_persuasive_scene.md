@@ -1,17 +1,17 @@
 # Book 1 — Act 2A: Devon's Persuasive Scene (proof-of-concept draft)
 
 POV: close third, anchored on Lucas.
-Position: Act 2A — the loaded gun. Real Nolan (barbed, dimming) immediately before the counterfeit shines. Devon sees Lucas truly (the thing Lucas is starved for), is genuinely right enough that the reader half-agrees, and carries one unsettling tell (no Echo weather; one flicker of buried grief). Sets up the midpoint.
+Position: Act 2A — the loaded gun. Real Nolan (barbed, dimming) immediately before the counterfeit shines. Devon sees Lucas truly (the thing Lucas is starved for) and is genuinely right enough that the reader half-agrees. W5 discipline: the no-weather is PLANTED as a sensory fact but read as magnetic calm — Lucas lands on *centered / calm*, the thing he wants — NOT as a dead-calm tell. The "calm was absence" read is withheld and paid off in the midpoint. Only the faint grief-flicker (a fish under ice) carries forward as an unsettling note, and it deepens the half-agreement rather than warning. The unease in the scene comes from *Nolan* (Devon is wrong that he's "just tired" — Lucas can see the color leaving), not from distrusting Devon's calm. Sets up the midpoint.
 
 ---
 
 Devon Cross stood in the Hale kitchen like he'd always been standing there.
 
-That was the first thing Lucas couldn't get past. Everybody who came to their house got *moved* by it — the noise, Dylan narrating a nature documentary at full volume, the twins bickering, Dad defending the Littles, the dog losing its mind. Everybody bobbed in it like a cork. Devon just stood, easy, hands in his pockets, and the house seemed to lower itself around him, like the room itself took a breath and held it.
+That was the first thing Lucas couldn't get past. Everybody who came to their house got *moved* by it — the noise, Dylan narrating a nature documentary at full volume, Emma and Dad arguing about nothing, the dog losing its mind. Everybody bobbed in it like a cork. Devon just stood, easy, hands in his pockets, and the house seemed to lower itself around him, like the room itself took a breath and held it.
 
 Everywhere else had weather. The kitchen ran warm and gold tonight, frantic at the edges where Mom was doing four things at once. Nolan's corner of it had gone — Lucas didn't have the word — *thin.* Pale. Like a shirt left out in the sun for a season.
 
-And around Devon there was nothing at all. Not warm, not cold. A clean, still circle where a person's weather should be. Lucas had never seen anybody with no weather. It should have scared him. Mostly it made him want to step closer, the way you lean toward a quiet room when the party's gotten too loud.
+And around Devon there was nothing at all. Not warm, not cold — a clean, still circle where everybody else had weather pouring off them in every direction. No-weather. Lucas had never stood next to it before, and he didn't have a word for it. *Centered,* maybe. *Calm.* It made him want to step closer, the way you lean toward a quiet room when the party's gotten too loud — like if he stood near enough, some of it might come off on him.
 
 "You ready or what." Nolan swung through with his jacket, cuffed the back of Lucas's head — not hard, the usual toll. "Move, bug. You're in the door."
 
@@ -43,7 +43,7 @@ And that landed somewhere Lucas kept locked — the exact spot, like Devon had c
 
 And there it was — the cold little flag, down under all the warmth. Because Lucas *had* been seeing something in Nolan, and it wasn't tired. Tired came back after you slept. This didn't come back. This was the color leaving. He almost said it. He had it right there in his mouth.
 
-But Devon was looking at him like he was worth looking at, and nobody with Nolan's kind of cool had ever looked at Lucas that way without making him earn it first or pay for it after — and the wanting was so big it reached right past the cold flag and shut his mouth for him. *Maybe that's just what calm looks like from outside,* the wanting said. *Maybe you're the one who can't tell rest from wrong, because you've never once had any.*
+But Devon was looking at him like he was worth looking at, and nobody with Nolan's kind of cool had ever looked at Lucas that way without making him earn it first or pay for it after — and the wanting was so big it reached right past the cold flag and shut his mouth for him. *Maybe that's just what calm looks like from outside,* the wanting said. *Maybe you only call it wrong because you've never once had five minutes of it yourself.*
 
 "You should come by sometime," Devon said, already drifting toward the door, like it was nothing, like it cost nothing. "Not a whole production. No mentors, no clipboards. Just see the place. Just us." He paused with his hand on the frame. For half a second the house-noise swelled — Dylan, the dog, a cabinet banging shut — and something crossed Devon's clean, still face, there and gone, like a fish moving under ice. Something that might have been missing it. Then it smoothed over, the way water smooths. "It's quiet there," he said, and he said *quiet* the way other people said *home.* "You'd be surprised how much you can hear, once it's quiet."
 

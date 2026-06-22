@@ -10,7 +10,7 @@ Family members:
 - Jack Hale II - oldest child, 21, away at college.
 - Nolan Hale - 19, Emma's twin.
 - Emma Hale - 19, Nolan's twin.
-- Lucas Hale - 11, protagonist.
+- Lucas Hale - 13, protagonist.
 - Dylan Hale - 8, youngest.
 - Gramps - Jack Hale I, David's father.
 - Grams - Evelyn Hale.

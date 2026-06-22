@@ -562,7 +562,7 @@ Family members:
 - Jack Hale II - oldest child, 21, away at college.
 - Nolan Hale - 19, Emma's twin.
 - Emma Hale - 19, Nolan's twin.
-- Lucas Hale - 11, protagonist.
+- Lucas Hale - 13, protagonist.
 - Dylan Hale - 8, youngest.
 - Gramps - Jack Hale I, David's father.
 - Grams - Evelyn Hale.
@@ -1601,7 +1601,7 @@ Suggested repo home: `canon/characters/accord/`
 
 ## Visual signature (hybrid format)
 
-- **No Echo weather** — a clean, still, dead-calm circle where a person's weather should be. Reads as "wrong" to Lucas, "centered" to everyone else.
+- **No Echo weather** — a clean, still, dead-calm circle where a person's weather should be. Dead-calm is the *truth* of it; "centered" to everyone else. **Book-1 staging (W5):** in the Devon persuasive scene Lucas deliberately lands on "centered/calm" too — the *want* corrupts the read — so the "wrong"/absence read is **withheld** until the midpoint, where it reverses and fires as shame (see Plot function below).
 - **One rationed flicker:** a fish-under-ice grief when vivid noise swells, instantly smoothed and relabeled "quiet" / "peace."
 
 ## Plot function
