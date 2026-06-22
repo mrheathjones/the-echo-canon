@@ -2,7 +2,8 @@
 
 POV: close third, anchored on Lucas (13), with one rationed lean into Abby at the moment of choice.
 Position: Act 3 finale set-piece (B-plot), immediately preceding the Nolan climax. The manifestation = Abby's suppressed, unfinished self, pulled to "settle"/harden under the campus Gray. Demonstrates the distributed engine as a *living* team (≥2 kids cross lanes / solve out of role) and Option B (naming reveals; Abby's costly choice resolves; win ≠ calm — the creature flares wilder and the Gray retreats from the mess).
-Revision (2026-06-22): breaks the W1 role-relay (Eli over-trusts his model into the wrong forceful fix — the misfire; Zoe the driver refuses to force and it costs her) and deepens Abby (W3/W9) — what her settled self *buys* her made concrete so the choice costs. Continuity fix: "Catherine" → Adrian (off-page), per `canon/characters/accord/ABIGAIL_ABBY_WHITMORE.md` (mother Sarah is dead). Closing "For once." preserved to keep the locked rhyme with the Act 3 Nolan climax.
+Revision (2026-06-22): breaks the W1 role-relay (Eli over-trusts his model into the wrong forceful fix — the misfire; Zoe the driver refuses to force and it costs her) and deepens Abby (W3/W9) — what her settled self *buys* her made concrete so the choice costs. Continuity fix: "Catherine" → Adrian (off-page), per `canon/characters/accord/ABIGAIL_ABBY_WHITMORE.md` (mother Sarah is dead).
+Review pass (2026-06-22): trimmed the Abby interior lean ~⅓ (dropped the Nathan exposition; kept the slot + dead-mother/only-home); added a self-directed tell so Abby's snuffing reads as fear, not meanness; removed the closing "For once." button and reserved it exclusively for the Act 3 Nolan climax (back-to-back, the identical button was diluting Nolan's more-earned beat). The graduation link to Nolan rides on the "refusing" line, which the Nolan climax explicitly calls back.
 
 ---
 
@@ -38,7 +39,7 @@ And then she didn't.
 
 She made herself look at the bright scared thing instead of at the problem, really look, and Lucas saw the exact second she understood there was no play here — nothing to flank, nothing to pin, nothing to drive at. "You can't grab this one," she said, low, almost to herself. Her jaw worked. "There's nothing to grab. It's not ours to —" She stopped. Her hands came down, open and useless at her sides, and that was harder for Zoe than running into anything would have been. He could see how much she hated it — being the one who, this time, couldn't.
 
-"It's gross," Abby said, fast, from where she'd been standing apart the whole time. Arms crossed in the confident-Accord-girl posture she wore like a backpack, eyes pinned to that half-carved chin, the posture failing at the seams. "It should just settle down. It's embarrassing." She was looking straight at the flicker on the word, and the flicker stuttered and dimmed as if she'd thrown water on it, and the gray crept up another inch.
+"It's gross," Abby said, fast, from where she'd been standing apart the whole time. Arms crossed in the confident-Accord-girl posture she wore like a backpack, eyes pinned to that half-carved chin, the posture failing at the seams. "It should just settle down. It's embarrassing." The word came out with a catch in it, like it cost her something to say, and she was looking straight at the flicker as she said it — the small scared thing she was throwing water on — and it stuttered and dimmed, and the gray crept up another inch.
 
 The flicker pulsed toward Maya, hopeful, then flinched back toward the turtle, toward *stop,* toward the easy gray nothing where it wouldn't have to be afraid. Lucas could feel how easy it was from ten feet off — the way it offered to turn the volume all the way down — and for one ugly second he thought of Nolan at the dinner table, calm, calm, calm, and how much everyone loved him calm.
 
@@ -54,7 +55,7 @@ She looked back at the bright scared thing that was hers.
 
 And here — for one breath — the scene was no longer Lucas's to narrate, because the only person who could feel what came next was Abby, standing in a garden built so that nobody would ever have to admit she didn't know.
 
-Every wood figure on every ledge was a kid who'd already picked an answer. Her father had picked hers before she could talk — Nathan, the Curator, who never once raised his voice, who only ever needed her to not embarrass the movement, to stand up straight at the front of the room and be the proof that the Accord made you whole, and whose face went easy and warm only when she carried it right. She was so hungry for the easy version of his face. And Uncle Adrian, who'd been as close as she had to a second parent — since the mother she actually had was a name and a photograph and a grave she'd been too young to remember being filled — Adrian had sent her here, gentle as he was about everything, *go sit in the garden, Abs, let it quiet you,* and somewhere on his workbench he kept a slot with her name already carved in it, warm and patient and waiting, *I knew what was in there the moment I met you.* All she had to do to keep him looking at her like that was climb in and go still. This was the only home there was. There was nothing on the other side of *not* belonging here — no second family in a backup drawer, no mother to run to. The settled girl got all of it. The settled girl got the warm face, the carved slot, the front of the room.
+Every wood figure on every ledge was a kid who'd already picked an answer. Her father had picked hers before she could talk, and his face only ever went easy when she carried it right; she was so hungry for the easy version of his face. Uncle Adrian had sent her here to settle — *go sit in the garden, Abs, let it quiet you* — Adrian, as close as she had to a parent, since the mother she'd had was a name and a photograph and a grave she'd been too young to remember being filled. On his workbench he kept a slot with her name already carved in it, warm and patient and waiting, and all she had to do to stay in it was go still. This was the only home there was. No second family in a backup drawer, no mother to run to. The settled girl got the warm face, the carved slot, the front of the room.
 
 The not-knowing clawed at her like something drowning. She was so tired of being embarrassed by it. She knew exactly what it would cost.
 
@@ -68,4 +69,4 @@ That was the part Lucas would keep. It didn't go peaceful — it flared, brighte
 
 Nobody won it. Abby just refused to let them finish her, and the refusing was the whole rescue.
 
-Lucas didn't say any of that out loud. For once.
+Lucas didn't say any of that out loud.
