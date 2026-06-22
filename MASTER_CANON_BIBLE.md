@@ -75,7 +75,7 @@ Format: **Illustrated prose hybrid.** Prose carries family, interiority, and the
 
 Target audience: **Upper middle grade** (roughly ages 10–13, reading up). Protagonist Lucas is **13**. Crossover appeal for parents, educators, counselors, neurodivergent readers, and older readers who connect with the family and motivational themes.
 
-Age cascade (from aging Lucas to 13): Jack ~20 · Nolan ~18 · Emma ~18 · Lucas 13 · Dylan ~10. Bigs/Littles intact.
+Age cascade (from aging Lucas to 13): Jack ~20 · Nolan 19 · Emma 19 · Lucas 13 · Dylan ~10. Bigs/Littles intact.
 
 Core positioning: a character-driven hidden-world fantasy whose hero happens to have ADHD and dyslexia. Character first, lesson second — never sold as "an ADHD self-help book."
 
@@ -108,7 +108,7 @@ Suggested repo home: `canon/` (top level, alongside the bible).
 
 1. **Category & age — Upper Middle Grade. Lucas aged 11 → 13.**
    Supersedes the "graphic novel, ages 8–12" vs "MG, ages 10–14" split. Rationale: the material's altitude (founder grief, surveillance, determinism) lives at upper-MG. YA was considered and rejected — YA structurally pushes the teen *away* from family, which would amputate the series' #1 differentiator (the intact Hale family). The fix for "this feels too sophisticated for little kids" was to age the *protagonist*, not the shelf.
-   - **Age cascade:** Jack ~20 · Nolan ~18 (HS senior; prime Accord young-adult-track age) · Emma ~18 (Nolan's twin) · Lucas 13 · Dylan ~10. Bigs/Littles intact.
+   - **Age cascade:** Jack ~20 · Nolan 19 (prime Accord young-adult-track age) · Emma 19 (Nolan's twin) · Lucas 13 · Dylan ~10. Bigs/Littles intact.
 
 2. **Format — Illustrated prose hybrid.**
    Prose carries family, interiority, and the adult-tragedy layer; full-bleed illustration carries the visual metaphors (the Gray, Echo Weather, manifestations) at emotional peaks. Form mirrors theme: the art is where Lucas *sees*. Caution: prose raises the preaching risk vs. a pure GN — discipline required (see THEMES rule "do not preach").
@@ -1841,7 +1841,7 @@ Early versions had a secret double-agent older brother angle. Nolan's current di
 The original direction — **middle-grade graphic novel, ages 8–12** — is archived. Current direction (authoritative: `canon/00_SERIES_DECISIONS_LOCKED.md`):
 
 - Format: **illustrated prose hybrid** (prose for family/interiority/adult tragedy; full-bleed art for the Gray, Echo Weather, manifestations).
-- Audience: **upper middle grade**; Lucas aged **11 → 13** (age cascade applied: Jack ~20, Nolan ~18, Emma ~18, Lucas 13, Dylan ~10).
+- Audience: **upper middle grade**; Lucas aged **11 → 13** (age cascade applied: Jack ~20, Nolan 19, Emma 19, Lucas 13, Dylan ~10).
 - POV: **close third, anchored on Lucas**, with rationed leans.
 - Echo resolution: **Option B (reckoning)** — naming reveals, a costly choice resolves; small Impressions may resolve on naming alone.
 - The Gray: **intended-as-mercy** (supersedes the "blind spots only" softening).
@@ -1879,4 +1879,5 @@ The original sanitized review package (`THE_ECHO_REVIEW_PACKAGE.md`, never commi
 - **Recipe collection name LOCKED:** **Hale's Super Secret Recipes** — David's coinage and the running family joke. Retires the development placeholder. Updated `canon/characters/hale-family/RECIPE_INHERITANCE.md`, `canon/SUPERSEDED_ARCHIVED.md`, `canon/00_SERIES_DECISIONS_LOCKED.md`.
 - **Mason's mother renamed Sarah → Rebecca** to clear the first-name collision with founder **Sarah Whitmore** (who is unchanged). Updated `canon/characters/friend-group/MASON.md`, `canon/NAME_REGISTRY.md`.
 - **Scene draft** added earlier this session: `drafts/scenes/act2b_recoil.md` (Act 2B recoil, Lucas & Nolan).
+- **Nolan & Emma ages corrected to 19** (twins) across the age-cascade lines (`SERIES_IDENTITY.md`, `00_SERIES_DECISIONS_LOCKED.md`, `SUPERSEDED_ARCHIVED.md`) to match their dossiers. Dropped the inconsistent "HS senior" tag on Nolan — his school/post-HS status is OPEN pending author input.
 
