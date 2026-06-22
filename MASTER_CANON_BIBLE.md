@@ -573,7 +573,7 @@ The Hales are a family worth missing. That is the point. If readers fall in love
 
 # Lucas Hale
 
-Lucas Hale is 11 and the protagonist.
+Lucas Hale is 13 and the protagonist.
 
 He is mixed-race, funny, kind, generous, socially interested, imaginative, awkward at times, insecure, and lacking consistent confidence.
 
