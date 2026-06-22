@@ -22,3 +22,10 @@
 - **Mason's mother renamed Sarah → Rebecca** to clear the first-name collision with founder **Sarah Whitmore** (who is unchanged). Updated `canon/characters/friend-group/MASON.md`, `canon/NAME_REGISTRY.md`.
 - **Scene draft** added earlier this session: `drafts/scenes/act2b_recoil.md` (Act 2B recoil, Lucas & Nolan).
 - **Nolan & Emma ages corrected to 19** (twins) across the age-cascade lines (`SERIES_IDENTITY.md`, `00_SERIES_DECISIONS_LOCKED.md`, `SUPERSEDED_ARCHIVED.md`) to match their dossiers. **Nolan's status LOCKED:** recent HS grad, adrift (no clear next step) — prime Accord young-adult-track recruit; replaces the old "HS senior" tag. Recorded in `NOLAN_HALE.md`.
+
+## v4 - Act 2B Maya/Eli correction + W4 discharge (2026-06-22)
+
+- **New scene draft:** `drafts/scenes/act2b_maya_eli_correction.md` — the Act 2B "correction" beat. Discharges the secret-superpower / gifted-seer drift (review item W4): Eli (systems-reader) + Maya correct Lucas on evidence his Echo gift cannot reach, flipping his read of Nolan from *victim* to *chooser*.
+- **Spine canon — new beat LOCKED:** promoted the approved **"Nolan lied and covered his tracks to keep his Accord access"** mechanism into `canon/story/BOOK_1_SPINE.md` as the Act 2B beat *"The correction — victim → chooser"* (rhymes with and inverts the Act 1 store-run "new system / don't tell Mom" intimacy). Previously journal-level PROPOSED scene design.
+- **Continuity fix:** `canon/characters/hale-family/LUCAS_HALE.md` age **11 → 13** — the dossier had been missed by the v2 age cascade; now matches `SERIES_IDENTITY.md` and the spine.
+- Bible regenerated (`MASTER_CANON_BIBLE.md`).

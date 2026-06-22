@@ -519,6 +519,7 @@ One-line premise: **Lucas practices the truth on a near-stranger (Abby) and grad
 ### ACT TWO-B — Bad guys close in → All is lost (50–75%)
 - **Certainty hardens.** Lucas stops listening. Confronts Devon; Devon is kind, sincere, immovable — "villain" won't stick.
 - **The consequential mistake.** To *prove* the Accord harms people, Lucas attacks Abby's manifestation as a "monster." Backfires three ways: the creature (Abby's self) is wounded and driven deep; the cohort sees him attack Abby and turns on him; the blowup spills home and he calls Nolan a *victim* — Nolan recoils (*"you're just like everyone else"*) and commits harder. [set-piece #3][A-plot collision]
+- **The correction — victim → chooser.** Still certain Nolan is a *victim*, Lucas goes to Maya and Eli to mount a rescue — and they break the read on evidence his gift can't reach: **Nolan lied and covered his tracks to keep his Accord access.** Eli the systems-reader finds the trail (Nolan answered the under-21 household-consent code from his own phone and deleted it, then buried the paper trail — the bill switched paper→email, the emergency contact changed Mom→Nolan the day after the recoil); Maya lands the human turn. It **rhymes with the Act 1 store-run intimacy** ("new system / don't tell Mom"), now inverted — Nolan covering for *himself, against them*. The flip makes it *scarier, not safer*: you can't rescue someone from a thing they're choosing. **This is the load-bearing fix to the gifted-seer drift** — Lucas is flatly *wrong about what's true* and corrected on the merits, so the friends are perceptually necessary. [A-plot][LEAD: Maya, w/ Eli] *(drafted — `drafts/scenes/act2b_maya_eli_correction.md`)*
 - **All is lost.** Nolan grayer, pulling away. Lucas exiled. Abby's self nearly gone. Family reads Lucas as jealous/acting out.
 - **Dark night.** An "Own It" reckoning at the table, the value turned on Lucas himself. [POV lean: Nolan — let the reader feel the relief is real]. [A-plot]
 
@@ -1882,4 +1883,11 @@ The original sanitized review package (`THE_ECHO_REVIEW_PACKAGE.md`, never commi
 - **Mason's mother renamed Sarah → Rebecca** to clear the first-name collision with founder **Sarah Whitmore** (who is unchanged). Updated `canon/characters/friend-group/MASON.md`, `canon/NAME_REGISTRY.md`.
 - **Scene draft** added earlier this session: `drafts/scenes/act2b_recoil.md` (Act 2B recoil, Lucas & Nolan).
 - **Nolan & Emma ages corrected to 19** (twins) across the age-cascade lines (`SERIES_IDENTITY.md`, `00_SERIES_DECISIONS_LOCKED.md`, `SUPERSEDED_ARCHIVED.md`) to match their dossiers. **Nolan's status LOCKED:** recent HS grad, adrift (no clear next step) — prime Accord young-adult-track recruit; replaces the old "HS senior" tag. Recorded in `NOLAN_HALE.md`.
+
+## v4 - Act 2B Maya/Eli correction + W4 discharge (2026-06-22)
+
+- **New scene draft:** `drafts/scenes/act2b_maya_eli_correction.md` — the Act 2B "correction" beat. Discharges the secret-superpower / gifted-seer drift (review item W4): Eli (systems-reader) + Maya correct Lucas on evidence his Echo gift cannot reach, flipping his read of Nolan from *victim* to *chooser*.
+- **Spine canon — new beat LOCKED:** promoted the approved **"Nolan lied and covered his tracks to keep his Accord access"** mechanism into `canon/story/BOOK_1_SPINE.md` as the Act 2B beat *"The correction — victim → chooser"* (rhymes with and inverts the Act 1 store-run "new system / don't tell Mom" intimacy). Previously journal-level PROPOSED scene design.
+- **Continuity fix:** `canon/characters/hale-family/LUCAS_HALE.md` age **11 → 13** — the dossier had been missed by the v2 age cascade; now matches `SERIES_IDENTITY.md` and the spine.
+- Bible regenerated (`MASTER_CANON_BIBLE.md`).
 

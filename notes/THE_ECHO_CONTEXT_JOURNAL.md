@@ -86,7 +86,7 @@ NEXT TO DRAFT: see §10.
 - (The old cloud-sandbox paths under `/mnt/…` and `/home/claude/…` are from the original build session and no longer apply.)
 
 ## 10. OPEN ITEMS / DECISIONS PENDING
-- **PENDING author decision (offered at session end):** promote the **"Nolan lied & covered his tracks for Accord access"** mechanism from journal-PROPOSED into `canon/story/BOOK_1_SPINE.md` (Act 2B beat) + a `canon/CHANGELOG.md` line. It survived drafting and is approved as scene content; not yet canon. (See the do-first under THE SINGLE NEXT MOVE.)
+- ✅ **DONE (this session):** promoted the **"Nolan lied & covered his tracks for Accord access"** mechanism into `canon/story/BOOK_1_SPINE.md` as the Act 2B beat *"The correction — victim → chooser"* + `canon/CHANGELOG.md` v4. Now canon (no longer PROPOSED).
 - Lock the §3 second-clock reconciliation into canon (Adrian=design / Nathan=scale) — still pending.
 - Minor: `tools/build_bible.sh` does NOT regenerate `MASTER_CANON_BIBLE.docx/.pdf` — if those are distributed anywhere, they're stale after this session's canon change.
 - Apply the remaining accepted review fixes (§4): de-preach narrator pass across drafted scenes; revise Devon scene (W5 — withhold dead-calm tell); break garden role-relay (W1) + deepen Abby (W3/W9); reweight the post-garden Nolan beat as the true emotional peak (W3). _(W4 superpower-wrong-once is now DONE — see §4/§5.)_
@@ -102,4 +102,4 @@ This is where the recognition we deliberately **withheld** this session finally 
 - **Sits after the garden climax** (`act3_garden_climax.md`, still needs the W1 role-relay break + Abby deepening — but the Nolan beat can be drafted independently).
 - **Win ≠ calm:** preserve aliveness; the final image is Nolan's spark *flickering*, not a full return. Clean wins go to Abby + Lucas's growth + family reconnect; Nolan mostly still in; Devon/the Accord untouched and trusted (series engine).
 - **Guardrails:** close third on Lucas at 13; ≤1 thesis line; Lucas's anger = **grief, not contempt**; no Echo verbs on display in the human beat; show Nolan's cost under the charm.
-- **DO-FIRST (1 small canon edit, pending author OK):** promote the **"Nolan lied & covered his tracks for Accord access"** mechanism into `canon/story/BOOK_1_SPINE.md` (Act 2B beat) + a `canon/CHANGELOG.md` line — it survived drafting and is approved, but is still journal-level PROPOSED. Confirm with author, then make the edit and rebuild the bible.
+- _(The covered-tracks mechanism is now canon in `BOOK_1_SPINE.md` — the Act 3 beat can lean on it directly.)_
