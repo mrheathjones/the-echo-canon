@@ -2,6 +2,8 @@
 
 Nolan Hale is 19 and Emma's twin.
 
+Status (Book 1): a recent high-school graduate with no clear next step — skating, hanging out, "figuring it out." Being untethered and at loose ends is exactly what makes the Accord's young-adult track land: it offers direction, and a place to be, to someone who has neither.
+
 Core role: Lucas's complicated mirror and warning.
 
 Traits:

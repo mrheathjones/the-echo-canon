@@ -108,7 +108,7 @@ Suggested repo home: `canon/` (top level, alongside the bible).
 
 1. **Category & age — Upper Middle Grade. Lucas aged 11 → 13.**
    Supersedes the "graphic novel, ages 8–12" vs "MG, ages 10–14" split. Rationale: the material's altitude (founder grief, surveillance, determinism) lives at upper-MG. YA was considered and rejected — YA structurally pushes the teen *away* from family, which would amputate the series' #1 differentiator (the intact Hale family). The fix for "this feels too sophisticated for little kids" was to age the *protagonist*, not the shelf.
-   - **Age cascade:** Jack ~20 · Nolan 19 (prime Accord young-adult-track age) · Emma 19 (Nolan's twin) · Lucas 13 · Dylan ~10. Bigs/Littles intact.
+   - **Age cascade:** Jack ~20 · Nolan 19 (recent HS grad, adrift; prime Accord young-adult-track recruit) · Emma 19 (Nolan's twin) · Lucas 13 · Dylan ~10. Bigs/Littles intact.
 
 2. **Format — Illustrated prose hybrid.**
    Prose carries family, interiority, and the adult-tragedy layer; full-bleed illustration carries the visual metaphors (the Gray, Echo Weather, manifestations) at emotional peaks. Form mirrors theme: the art is where Lucas *sees*. Caution: prose raises the preaching risk vs. a pure GN — discipline required (see THEMES rule "do not preach").
@@ -622,6 +622,8 @@ Lucas admires and fears Nolan's influence. Nolan is both warning and model.
 # Nolan Hale
 
 Nolan Hale is 19 and Emma's twin.
+
+Status (Book 1): a recent high-school graduate with no clear next step — skating, hanging out, "figuring it out." Being untethered and at loose ends is exactly what makes the Accord's young-adult track land: it offers direction, and a place to be, to someone who has neither.
 
 Core role: Lucas's complicated mirror and warning.
 
@@ -1879,5 +1881,5 @@ The original sanitized review package (`THE_ECHO_REVIEW_PACKAGE.md`, never commi
 - **Recipe collection name LOCKED:** **Hale's Super Secret Recipes** — David's coinage and the running family joke. Retires the development placeholder. Updated `canon/characters/hale-family/RECIPE_INHERITANCE.md`, `canon/SUPERSEDED_ARCHIVED.md`, `canon/00_SERIES_DECISIONS_LOCKED.md`.
 - **Mason's mother renamed Sarah → Rebecca** to clear the first-name collision with founder **Sarah Whitmore** (who is unchanged). Updated `canon/characters/friend-group/MASON.md`, `canon/NAME_REGISTRY.md`.
 - **Scene draft** added earlier this session: `drafts/scenes/act2b_recoil.md` (Act 2B recoil, Lucas & Nolan).
-- **Nolan & Emma ages corrected to 19** (twins) across the age-cascade lines (`SERIES_IDENTITY.md`, `00_SERIES_DECISIONS_LOCKED.md`, `SUPERSEDED_ARCHIVED.md`) to match their dossiers. Dropped the inconsistent "HS senior" tag on Nolan — his school/post-HS status is OPEN pending author input.
+- **Nolan & Emma ages corrected to 19** (twins) across the age-cascade lines (`SERIES_IDENTITY.md`, `00_SERIES_DECISIONS_LOCKED.md`, `SUPERSEDED_ARCHIVED.md`) to match their dossiers. **Nolan's status LOCKED:** recent HS grad, adrift (no clear next step) — prime Accord young-adult-track recruit; replaces the old "HS senior" tag. Recorded in `NOLAN_HALE.md`.
 
