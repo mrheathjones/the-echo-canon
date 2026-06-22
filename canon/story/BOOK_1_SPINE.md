@@ -35,6 +35,7 @@ One-line premise: **Lucas practices the truth on a near-stranger (Abby) and grad
 - **Break into Two.** First day — dropped into the cohort *mid-problem*, not orientation. Meets **Ben Carter** (sincere first-year PM) and **Abby** (flawless Accord-confidence). Catches a faint campus Gray he can't place.
 
 ### ACT TWO-A — Promise of the premise (25–50%)
+- **Abby established — what her settled self *buys* her** [B-plot seed]. Outsider-Lucas watches Abby rewarded for flawless certainty in a Ben Carter cohort exercise — Nathan's approval, Adrian's pre-carved "slot," status, belonging — as she snuffs another kid's not-knowing (and a flicker of her own); Lucas catches a faint, unplaceable gray and feels the pull (*that could be me*). Seeds the cost of her Act 3 garden choice (W9). [POV: Lucas] *(drafted — `drafts/scenes/act2a_abby_seed.md`)*
 - **B-story ignites + verbs (training wheels).** A small manifestation, naming-only tier. [LEAD: Eli][set-piece #1, small]
 - **Home interleave.** Nolan visibly calmer; family relieved and grateful. Lucas sees the Gray thicken on him; no one else can. [A-plot] [POV lean: Rachel — show the mother's genuine relief]
 - **Rising / bonds.** A second small problem [LEAD: Zoe]; Zoe's control-flaw cracks when a plan doesn't survive contact.
