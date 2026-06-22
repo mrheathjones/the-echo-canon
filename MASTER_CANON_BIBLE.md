@@ -539,7 +539,7 @@ One-line premise: **Lucas practices the truth on a near-stranger (Abby) and grad
 1. Small training manifestation — naming-only tier. [LEAD: Eli]
 2. Midpoint revelation (visual). **[OPEN: staging]**
 3. The mistake — Lucas attacks Abby's manifestation. [Echo + A-plot collision]
-4. The garden climax — Maya names, Mason's vulnerability, Abby chooses. [POV lean: Abby] *(drafted — see proof-of-concept scene)*
+4. The garden climax — distributed engine as living mess (Eli's misfire · Zoe refuses to force · Maya names · Mason's vulnerability); Abby chooses; win ≠ calm. [POV lean: Abby] *(drafted & revised — `drafts/scenes/act3_garden_climax.md`)*
 
 ## Open
 - Midpoint staging (the "right-is-what-ruins-him" hinge).
