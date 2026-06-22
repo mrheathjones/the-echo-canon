@@ -5,7 +5,7 @@
 
 _Assembled automatically from the `canon/` source files. **Do not edit by hand** — edit `canon/` and run `tools/build_bible.sh`._
 
-_Generated: 2026-06-22 · 51 source files._
+_Generated: 2026-06-22 · 52 source files._
 
 ## Contents
 
@@ -59,7 +59,8 @@ _Generated: 2026-06-22 · 51 source files._
 48. Open Canon Questions  —  `canon/OPEN_QUESTIONS.md`
 49. Superseded / Archived Development Notes  —  `canon/SUPERSEDED_ARCHIVED.md`
 50. Canon Changelog  —  `canon/CHANGELOG.md`
-51. Accord Enrollment & Consent (the under-21 gate)  —  `canon/world/accord/ENROLLMENT_AND_CONSENT.md`
+51. Nolan's Driving — The Four-MPH Turn (series motif / tuning fork)  —  `canon/characters/hale-family/NOLAN_DRIVING_TELL.md`
+52. Accord Enrollment & Consent (the under-21 gate)  —  `canon/world/accord/ENROLLMENT_AND_CONSENT.md`
 
 
 ---
@@ -690,7 +691,7 @@ Suggested repo home: `canon/characters/hale_family/` (alongside `NOLAN_HALE.md`)
 3. **Bank unbought kindness before withdrawals.** Recurring acts of genuine, costly-to-him generosity with nothing in it for him and no audience (template: bringing Emma back from her self-imposed pressure). These are the moments he *isn't* working anyone — the cracks where real connection leaks through. One per book minimum, placed next to a beat that frustrates us.
 4. **Let him be right, and sharp.** His read on people is genuinely better than the "good" characters'. Let him see a true thing they miss. We don't pity the formidable; we love them.
 5. **Barbs punch up or sideways, never down — and he flinches.** Teasing targets David, Emma, the world. The instant his humor lands on the vulnerable as cruelty he *enjoys* (Dylan, Lucas's insecurity), lovability hemorrhages. He may go too far; he must half-register it ("Nolan notices").
-6. **As he grays: choosing, never puppeted.** A victim is pitiable, and pity dissolves the brother-bond. Nolan keeps choosing, for reasons we understand (exhaustion at being cast as the problem). Stage the graying inside-out — the spark dims at the core while the charismatic surface holds longest, so he stays unmistakably Nolan. Maintain a few "tells" of the real Nolan (*"here we go, back in my day,"* the Gramps rapport, the store-run rhythm) as a heartbeat monitor to flicker, dim, and briefly restore.
+6. **As he grays: choosing, never puppeted.** A victim is pitiable, and pity dissolves the brother-bond. Nolan keeps choosing, for reasons we understand (exhaustion at being cast as the problem). Stage the graying inside-out — the spark dims at the core while the charismatic surface holds longest, so he stays unmistakably Nolan. Maintain a few "tells" of the real Nolan (*"here we go, back in my day,"* the Gramps rapport, the store-run rhythm) as a heartbeat monitor to flicker, dim, and briefly restore. The staged, load-bearing instance of this monitor is **Nolan's driving — the four-mph turn** (see `NOLAN_DRIVING_TELL.md`): its three states (hard / careful / the involuntary flicker) are the tuning fork for his interior graying, and the flicker is rationed — spend it deliberately.
 7. **Lucas's anger stays grief, never contempt.** This protects all the rest: if the protagonist writes Nolan off, the reader gets permission to. Even at his most furious, Lucas's anger reads as *I'm losing you*, never *you're worthless.* The text never stops insisting on Nolan's worth.
 
 ---
@@ -1893,6 +1894,39 @@ The original sanitized review package (`THE_ECHO_REVIEW_PACKAGE.md`, never commi
 - **Continuity fix:** `canon/characters/hale-family/LUCAS_HALE.md` age **11 → 13** — the dossier had been missed by the v2 age cascade; now matches `SERIES_IDENTITY.md` and the spine.
 - **New world canon:** `canon/world/accord/ENROLLMENT_AND_CONSENT.md` — logs the **under-21 household-consent gate** (a confirmation code texted to the family's shared number, read back to authorize, and logged) as the Accord's institutional enrollment rule, so the Act 2B mechanism doesn't evaporate into a one-off plot device. Resolves the parental-enrollment/consent open question in `canon/world/accord/STRUCTURE_OPEN.md` (broader recruitment funnel still open).
 - Bible regenerated (`MASTER_CANON_BIBLE.md`).
+
+## v5 - Act 3 Nolan climax + driving-tell motif canon (2026-06-22)
+
+- **New scene draft:** `drafts/scenes/act3_nolan_climax.md` — the Act 3 A-plot emotional peak (the post-garden Nolan beat). Lucas does the **opposite of a rescue**: owns his part, names without forcing, leaves the door open, accepts he cannot choose for Nolan. Pays off the withheld "it's about Lucas" recognition (felt, not diagnosed), the store-run / list / "don't tell Mom" threads, and the recoil wounds (victim, "I picked it," "with a list," "the rest of them," the one-sided "us"). **Win ≠ calm:** Nolan still leaves Sunday; one *involuntary* flicker; final image kept human (no system "gray" on the page). Built via a generate→judge→synthesize→adversarial-verify workflow + a hand taste pass.
+- **New canon (series motif LOCKED):** `canon/characters/hale-family/NOLAN_DRIVING_TELL.md` — the **four-mph turn** recorded as a load-bearing series motif / tuning fork for Nolan's interior graying, with three states (hard / careful / involuntary flicker) and rules so the flicker isn't spent carelessly in Book 2+. It is the staged instance of the "heartbeat monitor" tell in `NOLAN_LOVABILITY_GUARDRAILS.md` (guardrail 6); cross-linked from that guardrail.
+- Bible regenerated (`MASTER_CANON_BIBLE.md`).
+
+
+---
+
+<!-- source: canon/characters/hale-family/NOLAN_DRIVING_TELL.md -->
+
+# Nolan's Driving — The Four-MPH Turn (series motif / tuning fork)
+
+Suggested repo home: `canon/characters/hale-family/` (alongside `NOLAN_HALE.md` and `NOLAN_LOVABILITY_GUARDRAILS.md`).
+
+**What this is.** How Nolan takes the turn at the bottom of the Hale driveway (and its twin, the corner by the gas station) is the staged, physical readout of his interior graying. It is the load-bearing instance of the "heartbeat monitor" tell named in `NOLAN_LOVABILITY_GUARDRAILS.md` (guardrail 6). Treat it as a **tuning fork**: calibrate every appearance to where Nolan is on the arc, and spend it deliberately — never as set dressing.
+
+**The reference point is Gramps.** The slow, four-mph, both-hands, narrated turn is *Gramps's* turn (Jack Hale I — see `GRAMPS_GRAMS_STORE_RUNS.md`). Nolan driving like Gramps is the alarm, because the reckless brother never drove like Gramps.
+
+## The three states
+
+1. **HARD — the real, pre-gray Nolan.** Takes the corner fast on purpose, tires barking, returnables tipping; a thing he invented *to hear his little brother laugh* ("I'm an incredible driver"). A gift and a bid for connection — aliveness, recklessness, the spark at full. [Act 1 — `drafts/scenes/act1_brother_store_run.md`]
+2. **CAREFUL — the graying Nolan.** Slow, both hands, ~four miles an hour, "the way Gramps did it, the way Nolan never did." The spark dimmed at the core; he drives like a careful stranger and *isn't trying to make anybody laugh.* This is the alarm state. [Act 2B — `drafts/scenes/act2b_recoil.md`, echoed at the close of `drafts/scenes/act2b_maya_eli_correction.md`]
+3. **THE INVOLUNTARY FLICKER — the heartbeat blip.** Mid-careful-turn, for one beat, the wheel "cuts a hair sharper than careful," then the hands clamp back to four miles an hour. The core spark is not fully out; it surfaces *involuntarily* — the body forgetting itself for half a second before re-choosing the gray. [Act 3 — `drafts/scenes/act3_nolan_climax.md`]
+
+## The rules (so it isn't spent carelessly)
+
+- **It reads Nolan's interior, not the plot.** Match the state to where he is on the graying arc; don't move it for convenience or a quick beat.
+- **The flicker (state 3) is rationed.** Rare, one beat, then it closes. Overusing it reads as recovery and sands him — a direct violation of `NOLAN_LOVABILITY_GUARDRAILS.md` guardrail 6 (the spark dims at the core while the surface holds; choosing, never puppeted).
+- **The flicker is involuntary and aimed at no one.** It must never become a wink, a concession, or reciprocal warmth handed to Lucas — that would make the loss feel mutual and dissolve the choice. The ache is precisely that it is *not for anyone* and shuts before it can be.
+- **Direction of travel, Book 1:** hard → careful → (one flicker). It does not resolve back to hard; Nolan does not come back in Book 1.
+- **Book 2+ tuning.** Read deeper graying as *careful with no flicker at all*; read the spark fighting back as the flicker recurring or strengthening. Either way, spend it as the tuning fork for the series question — "does he come back, or all the way gray?" — never as a throwaway driving beat. Pair it with Gramps as the dial (`NOLAN_LOVABILITY_GUARDRAILS.md` guardrail 1).
 
 
 ---
