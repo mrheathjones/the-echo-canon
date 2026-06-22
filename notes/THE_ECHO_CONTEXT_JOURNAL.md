@@ -1,5 +1,5 @@
 # THE ECHO — Context Journal (handoff / rehydration file)
-_Last updated: 2026-06-22 (later session — Maya/Eli W4 correction drafted, choices locked, pushed). Purpose: re-upload this single file at the start of a future session to restore working context fast. It is a state snapshot, not canon. When it conflicts with the repo, the repo's `canon/` files win._
+_Last updated: 2026-06-22 (later session — Maya/Eli W4 correction drafted & locked; covered-tracks mechanism + Accord under-21 consent gate promoted to canon). Purpose: re-upload this single file at the start of a future session to restore working context fast. It is a state snapshot, not canon. When it conflicts with the repo, the repo's `canon/` files win._
 
 ---
 
@@ -87,6 +87,7 @@ NEXT TO DRAFT: see §10.
 
 ## 10. OPEN ITEMS / DECISIONS PENDING
 - ✅ **DONE (this session):** promoted the **"Nolan lied & covered his tracks for Accord access"** mechanism into `canon/story/BOOK_1_SPINE.md` as the Act 2B beat *"The correction — victim → chooser"* + `canon/CHANGELOG.md` v4. Now canon (no longer PROPOSED).
+- ✅ **DONE (this session):** logged the **Accord under-21 enrollment consent-code** as world canon — new `canon/world/accord/ENROLLMENT_AND_CONSENT.md` (household-consent gate; pro-family by design; subverted by an *individual*, not the institution). Resolved the parental-enrollment open question in `canon/world/accord/STRUCTURE_OPEN.md`.
 - Lock the §3 second-clock reconciliation into canon (Adrian=design / Nathan=scale) — still pending.
 - Minor: `tools/build_bible.sh` does NOT regenerate `MASTER_CANON_BIBLE.docx/.pdf` — if those are distributed anywhere, they're stale after this session's canon change.
 - Apply the remaining accepted review fixes (§4): de-preach narrator pass across drafted scenes; revise Devon scene (W5 — withhold dead-calm tell); break garden role-relay (W1) + deepen Abby (W3/W9); reweight the post-garden Nolan beat as the true emotional peak (W3). _(W4 superpower-wrong-once is now DONE — see §4/§5.)_
