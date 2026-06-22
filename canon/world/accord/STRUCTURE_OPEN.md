@@ -10,10 +10,11 @@ Current known:
 - The motto is “Become What You Were Meant To Be.”
 - The organization genuinely helps people and communities.
 - Its danger is the cost of alignment and the hidden endpoint of flattening difference.
+- **Under-21 enrollment requires household consent** — a confirmation code texted to the family's shared number, read back to authorize, and logged/timestamped. The gate is pro-family by design; the Book 1 danger is an *individual* (Nolan) gaming it, not the Accord faking it. See `ENROLLMENT_AND_CONSENT.md`.
 
 OPEN QUESTIONS:
-- How does someone join?
-- Are members recruited, referred, invited, or enrolled by parents?
+- How does someone join? _(The under-21 **consent gate** is now settled — household consent via the text-code; see `ENROLLMENT_AND_CONSENT.md`. The full member journey / weekly life is still open.)_
+- How candidates are first found, invited, or referred — the **recruitment funnel** — is still open. _(Distinct from consent: enrolling an under-21 requires household consent, but who gets approached, and how, is undecided.)_
 - What does membership look like weekly?
 - Does it have retreats, campuses, mentorships, assessments, uniforms, badges, ranks, or ceremonies?
 - What are its paths/factions?

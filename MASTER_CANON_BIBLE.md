@@ -5,7 +5,7 @@
 
 _Assembled automatically from the `canon/` source files. **Do not edit by hand** — edit `canon/` and run `tools/build_bible.sh`._
 
-_Generated: 2026-06-22 · 50 source files._
+_Generated: 2026-06-22 · 51 source files._
 
 ## Contents
 
@@ -59,6 +59,7 @@ _Generated: 2026-06-22 · 50 source files._
 48. Open Canon Questions  —  `canon/OPEN_QUESTIONS.md`
 49. Superseded / Archived Development Notes  —  `canon/SUPERSEDED_ARCHIVED.md`
 50. Canon Changelog  —  `canon/CHANGELOG.md`
+51. Accord Enrollment & Consent (the under-21 gate)  —  `canon/world/accord/ENROLLMENT_AND_CONSENT.md`
 
 
 ---
@@ -456,10 +457,11 @@ Current known:
 - The motto is “Become What You Were Meant To Be.”
 - The organization genuinely helps people and communities.
 - Its danger is the cost of alignment and the hidden endpoint of flattening difference.
+- **Under-21 enrollment requires household consent** — a confirmation code texted to the family's shared number, read back to authorize, and logged/timestamped. The gate is pro-family by design; the Book 1 danger is an *individual* (Nolan) gaming it, not the Accord faking it. See `ENROLLMENT_AND_CONSENT.md`.
 
 OPEN QUESTIONS:
-- How does someone join?
-- Are members recruited, referred, invited, or enrolled by parents?
+- How does someone join? _(The under-21 **consent gate** is now settled — household consent via the text-code; see `ENROLLMENT_AND_CONSENT.md`. The full member journey / weekly life is still open.)_
+- How candidates are first found, invited, or referred — the **recruitment funnel** — is still open. _(Distinct from consent: enrolling an under-21 requires household consent, but who gets approached, and how, is undecided.)_
 - What does membership look like weekly?
 - Does it have retreats, campuses, mentorships, assessments, uniforms, badges, ranks, or ceremonies?
 - What are its paths/factions?
@@ -1889,5 +1891,41 @@ The original sanitized review package (`THE_ECHO_REVIEW_PACKAGE.md`, never commi
 - **New scene draft:** `drafts/scenes/act2b_maya_eli_correction.md` — the Act 2B "correction" beat. Discharges the secret-superpower / gifted-seer drift (review item W4): Eli (systems-reader) + Maya correct Lucas on evidence his Echo gift cannot reach, flipping his read of Nolan from *victim* to *chooser*.
 - **Spine canon — new beat LOCKED:** promoted the approved **"Nolan lied and covered his tracks to keep his Accord access"** mechanism into `canon/story/BOOK_1_SPINE.md` as the Act 2B beat *"The correction — victim → chooser"* (rhymes with and inverts the Act 1 store-run "new system / don't tell Mom" intimacy). Previously journal-level PROPOSED scene design.
 - **Continuity fix:** `canon/characters/hale-family/LUCAS_HALE.md` age **11 → 13** — the dossier had been missed by the v2 age cascade; now matches `SERIES_IDENTITY.md` and the spine.
+- **New world canon:** `canon/world/accord/ENROLLMENT_AND_CONSENT.md` — logs the **under-21 household-consent gate** (a confirmation code texted to the family's shared number, read back to authorize, and logged) as the Accord's institutional enrollment rule, so the Act 2B mechanism doesn't evaporate into a one-off plot device. Resolves the parental-enrollment/consent open question in `canon/world/accord/STRUCTURE_OPEN.md` (broader recruitment funnel still open).
 - Bible regenerated (`MASTER_CANON_BIBLE.md`).
+
+
+---
+
+<!-- source: canon/world/accord/ENROLLMENT_AND_CONSENT.md -->
+
+# Accord Enrollment & Consent (the under-21 gate)
+
+How a person actually gets *in*. Established in play by the Act 2B "correction" scene
+(`drafts/scenes/act2b_maya_eli_correction.md`) and the Book 1 spine beat ("The correction —
+victim → chooser"). Logged here as the institutional rule so it stays consistent across scenes
+and books and doesn't evaporate into a one-off plot device.
+
+## The rule (LOCKED)
+
+- **Anyone under 21 cannot be enrolled on the Accord's own say-so.** To take a minor / under-21 candidate into any of its under-21 tracks (middle-school, high-school, college-age, young-adult), the Accord requires **household consent**. It will not "just take you."
+- **Consent mechanism:** at enrollment a **confirmation code is texted to the household's shared number** — the family-plan number that rings every phone on the account — and **someone reads/keys it back** to authorize. That read-back *is* the yes.
+- **It leaves a record.** The handshake is logged and timestamped (code sent → answered → from which device). This is what lets a systems-minded outsider reconstruct after the fact whether consent was real and who actually gave it.
+- The gate is specifically an **under-21 protection.** Recruits at the top of the 8–25 band (21+) enroll on their own consent; no household handshake is required of them.
+
+## Why it exists (design — keeps the Accord non-cartoonish)
+
+- The gate is **pro-family by design.** The Accord *wants* parents in the loop — household buy-in is easier, more durable, and more legitimate for the institution, not something it routes around. (Cf. Maya in the correction scene: "they *want* parents — it's better for them when she knows.") This is consistent with the series rule that **the threat is method, not malice**: the Accord does not abduct; people are brought, or they come.
+- Because the gate is real and pro-family, **subverting it is an individual act, not an institutional one.** In Book 1 the danger isn't the Accord faking consent — it's **Nolan** answering and deleting his own household consent code to keep his access. The institution's rule is clean; the *person* gamed it. That distinction is what lets the Book 1 read flip from victim → chooser without making the Accord a kidnapper.
+
+## Subversion vector (as used in Book 1)
+
+- A candidate who controls a household phone can **answer the consent code themselves and delete the message** before a parent sees it, then bury the paper trail (e.g., switch billing to email-only so statements stop arriving in the mail; reassign the account's emergency contact away from the parent). Consent *looks* given; no parent ever actually said yes.
+- Plot use: Nolan does exactly this; **Eli's systems-read** catches the timestamped gap and the buried changes (his Echo perception could never see it — see the gifted-seer / W4 fix). Do not let later books quietly retcon this into "the Accord forged the consent" — the whole point is that the rule held and a person beat it.
+
+## OPEN / PROPOSED
+
+- Whether enrollment also produces a **physical/paper consent artifact** a parent would normally counter-sign, on top of the text-code. PROPOSED: the code is the primary gate; paper is optional / region-dependent. Decide only if a later beat needs it.
+- Handling for candidates with **no shared family plan or non-traditional households** — unspecified. Flag if a future character's situation requires it.
+- The **broader recruitment funnel** (how candidates are first found, invited, or referred *before* enrollment) is still open — see `STRUCTURE_OPEN.md`. This file settles the *consent gate*, not the whole join journey.
 
