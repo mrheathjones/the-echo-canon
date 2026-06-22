@@ -89,5 +89,5 @@ NEXT TO DRAFT (author greenlit):
 - Apply the accepted review fixes (§4): superpower-wrong-once; de-preach narrator; revise Devon scene (withhold tell); break garden role-relay; deepen Abby + visible stakes; reweight Nolan beat as emotional peak.
 - Draft Act 2B recoil scene (next up).
 - Regenerate the bible as a rollup (§7); move lesson-matrix to private note.
-- Naming/continuity: Mason's-mom **Sarah** vs founder **Sarah Whitmore** (consider rename — OPEN); Devon surname/track-role detail (OPEN); recipe-collection name "Jonesepies" replacement (OPEN).
+- Naming/continuity: Mason's mom renamed **Rebecca** (was Sarah; clears the founder Sarah Whitmore collision) — DONE; recipe collection titled **Hale's Super Secret Recipes** — DONE; Devon surname/track-role detail (OPEN).
 - Style guardrails to hold in all new prose: narrator at 13 (feel, don't diagnose); ≤1 thesis line/scene; no Echo machinery in pure family beats; Lucas not always perceptually right; show Nolan's cost under the charm.

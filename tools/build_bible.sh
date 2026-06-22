@@ -91,15 +91,19 @@ ORDER=(
   canon/CHANGELOG.md
 )
 
-# build final ordered list: known order first, then any remaining canon/*.md
-declare -A SEEN=()
+# build final ordered list: known order first, then any remaining canon/*.md.
+# Dedup via a newline-delimited string set so this runs on stock macOS bash 3.2
+# (no associative arrays). Canon paths contain no spaces or newlines.
+SEEN=$'\n'
 FINAL=()
-for f in "${ORDER[@]}"; do
-  if [ -f "$f" ] && [ -z "${SEEN[$f]:-}" ]; then FINAL+=("$f"); SEEN[$f]=1; fi
-done
-while IFS= read -r f; do
-  if [ -z "${SEEN[$f]:-}" ]; then FINAL+=("$f"); SEEN[$f]=1; fi
-done < <(find canon -type f -name '*.md' | sort)
+_add(){  # append "$1" to FINAL unless already present in SEEN
+  case "$SEEN" in
+    *$'\n'"$1"$'\n'*) : ;;
+    *) FINAL+=("$1"); SEEN="${SEEN}$1"$'\n' ;;
+  esac
+}
+for f in "${ORDER[@]}"; do [ -f "$f" ] && _add "$f"; done
+while IFS= read -r f; do _add "$f"; done < <(find canon -type f -name '*.md' | sort)
 
 # write the bible
 {

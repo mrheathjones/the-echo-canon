@@ -20,7 +20,7 @@ FRIEND GROUP (surnames locked — proposed; each is a single find-replace to cha
 
 MASON FAMILY (Reed):
 - Ryan - father
-- Sarah - mother  *(NOTE: shares a first name with founder Sarah Whitmore — watch for confusion; consider renaming. OPEN.)*
+- Rebecca - mother
 - Carter - older brother
 - Sawyer - older sister
 

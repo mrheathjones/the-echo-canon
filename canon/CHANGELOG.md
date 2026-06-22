@@ -14,4 +14,10 @@
 - **Friend group:** wants de-overlapped (distinct axes + engine roles); surnames locked (proposed): Maya Sinclair, Zoe Bennett, Mason Reed, Eli Sullivan.
 - **Scene drafts** added under `drafts/scenes/`: Devon persuasive scene, Act 2A midpoint, Act 3 garden climax (all close third).
 - **Review brief** added: `review/THE_ECHO_REVIEW_BRIEF.md` (replaces the retired, sanitized review package as the document for external review).
-- **Open items:** Maya/friend surnames are proposals; Mason's mother "Sarah" vs founder Sarah Whitmore; Devon surname & track role; series endgame shape (reform/schism/faction); recipe-collection name.
+- **Open items:** Maya/friend surnames are proposals; Devon surname & track role; series endgame shape (reform/schism/faction).
+
+## v3 - Naming locks (2026-06-22)
+
+- **Recipe collection name LOCKED:** **Hale's Super Secret Recipes** — David's coinage and the running family joke. Retires the development placeholder. Updated `canon/characters/hale-family/RECIPE_INHERITANCE.md`, `canon/SUPERSEDED_ARCHIVED.md`, `canon/00_SERIES_DECISIONS_LOCKED.md`.
+- **Mason's mother renamed Sarah → Rebecca** to clear the first-name collision with founder **Sarah Whitmore** (who is unchanged). Updated `canon/characters/friend-group/MASON.md`, `canon/NAME_REGISTRY.md`.
+- **Scene draft** added earlier this session: `drafts/scenes/act2b_recoil.md` (Act 2B recoil, Lucas & Nolan).

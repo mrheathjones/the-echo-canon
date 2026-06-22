@@ -43,4 +43,3 @@ Suggested repo home: `canon/` (top level, alongside the bible).
 - **Maya's surname** — must NOT be "Whitmore" (collides with the founding family). Currently unlocked; needs a new surname.
 - **Devon Cross** — sincere Accord young-adult-track recruiter; Book 1's active antagonistic force. Full build in progress.
 - **Midpoint staging** — the "Lucas is finally *right*, and being right is what ruins him" hinge. Needs staging so his certainty reads as earned and sympathetic. In progress.
-- **Recipe-collection name** (legacy "Jonesepies") — still open.

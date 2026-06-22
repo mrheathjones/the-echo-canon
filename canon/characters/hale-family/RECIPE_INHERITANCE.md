@@ -2,7 +2,7 @@
 
 David has specialty recipes inherited from his mother, grandmother, grandfather, and family history.
 
-Originally called “Jonesepies” during development; after the surname changed, this needs a final Hale-family recipe title. OPEN NAME.
+LOCKED: The recipe collection is titled **Hale's Super Secret Recipes** — David's own coinage, which the rest of the family finds deeply uncool (this is the running joke below).
 
 LOCKED: David secretly starts writing the recipes down before anyone knows.
 

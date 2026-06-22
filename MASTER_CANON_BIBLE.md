@@ -1,35 +1,83 @@
-> **SUPERSEDED IN PART** — see `canon/00_SERIES_DECISIONS_LOCKED.md`.
->
-> The Series Identity / format / age language below is the original v1 direction
-> (graphic novel, ages 8-12). Current direction: **illustrated prose hybrid, upper
-> middle grade, Lucas aged 13**. Where this bible conflicts with the locked decisions
-> or the `canon/` files, the locked decisions win.
+<!-- GENERATED FILE — DO NOT EDIT. Rebuilt from canon/ by tools/build_bible.sh on 2026-06-22.
+     Edit the files under canon/ and re-run the script; hand edits here are overwritten. -->
 
-# THE ECHO - FULL MASTER CANON BIBLE
+# The Echo — Master Canon Bible (generated rollup)
 
-Version: Reconstructed Canon Bible v1
+_Assembled automatically from the `canon/` source files. **Do not edit by hand** — edit `canon/` and run `tools/build_bible.sh`._
 
-Source: Uploaded ChatGPT transcript and active project context.
+_Generated: 2026-06-22 · 50 source files._
+
+## Contents
+
+1. Series Identity  —  `canon/SERIES_IDENTITY.md`
+2. THE ECHO — Series Decisions Locked (Dev Session v2)  —  `canon/00_SERIES_DECISIONS_LOCKED.md`
+3. Core Themes And Motivational Pillars  —  `canon/THEMES.md`
+4. The Echo - World Overview  —  `canon/world/echo/ECHO_OVERVIEW.md`
+5. Attunement  —  `canon/world/echo/ATTUNEMENT.md`
+6. Echo Mechanics — The Verbs & Resolution (LOCKED)  —  `canon/world/echo/ECHO_MECHANICS_RESOLUTION.md`
+7. Echo Manifestations And Creature Logic  —  `canon/world/echo/MANIFESTATIONS_AND_CREATURES.md`
+8. The Gray And Hollows  —  `canon/world/echo/THE_GRAY_AND_HOLLOWS.md`
+9. The Accord Overview  —  `canon/world/accord/ACCORD_OVERVIEW.md`
+10. Accord Motto And Philosophical Danger  —  `canon/world/accord/MOTTO.md`
+11. Nathan And Adrian Power Structure  —  `canon/world/accord/POWER_STRUCTURE.md`
+12. Accord Paths / Factions - Development Direction  —  `canon/world/accord/PATHS_FACTIONS.md`
+13. Accord Structure - Current Known And Open  —  `canon/world/accord/STRUCTURE_OPEN.md`
+14. Book 1 — Spine & Act Outline (working v1)  —  `canon/story/BOOK_1_SPINE.md`
+15. The Hale Family Overview  —  `canon/characters/hale-family/HALE_FAMILY.md`
+16. Lucas Hale  —  `canon/characters/hale-family/LUCAS_HALE.md`
+17. Nolan Hale  —  `canon/characters/hale-family/NOLAN_HALE.md`
+18. Nolan — Lovability Guardrails (SERIES-WIDE, LOCKED)  —  `canon/characters/hale-family/NOLAN_LOVABILITY_GUARDRAILS.md`
+19. Emma Hale  —  `canon/characters/hale-family/EMMA_HALE.md`
+20. Jack Hale II  —  `canon/characters/hale-family/JACK_HALE_II.md`
+21. Dylan Hale  —  `canon/characters/hale-family/DYLAN_HALE.md`
+22. David Hale  —  `canon/characters/hale-family/DAVID_HALE.md`
+23. Rachel Hale  —  `canon/characters/hale-family/RACHEL_HALE.md`
+24. Hale Family Dinner Culture  —  `canon/characters/hale-family/DINNER_CULTURE.md`
+25. Hale Family Humor And Voice  —  `canon/characters/hale-family/HUMOR_AND_VOICE.md`
+26. Hale Family Value: Own It  —  `canon/characters/hale-family/OWN_IT.md`
+27. The Bigs And The Littles  —  `canon/characters/hale-family/BIGS_AND_LITTLES.md`
+28. Jack Food Text Tradition  —  `canon/characters/hale-family/JACK_FOOD_TEXTS.md`
+29. Gramps, Grams, And Store Runs  —  `canon/characters/hale-family/GRAMPS_GRAMS_STORE_RUNS.md`
+30. Hale Recipes / Recipe Inheritance  —  `canon/characters/hale-family/RECIPE_INHERITANCE.md`
+31. Friend-Group Engine — Distributed Roles (LOCKED)  —  `canon/characters/friend-group/FRIEND_GROUP_ENGINE.md`
+32. Core Friend Group Overview  —  `canon/characters/friend-group/FRIEND_GROUP_OVERVIEW.md`
+33. Maya Sinclair  —  `canon/characters/friend-group/MAYA.md`
+34. Zoe Bennett  —  `canon/characters/friend-group/ZOE.md`
+35. Mason Reed  —  `canon/characters/friend-group/MASON.md`
+36. Eli Sullivan  —  `canon/characters/friend-group/ELI.md`
+37. Nathan Whitmore - The Curator  —  `canon/characters/accord/NATHAN_WHITMORE_CURATOR.md`
+38. Sarah Whitmore  —  `canon/characters/accord/SARAH_WHITMORE.md`
+39. Abigail Abby Whitmore  —  `canon/characters/accord/ABIGAIL_ABBY_WHITMORE.md`
+40. Adrian Mercer - The Architect  —  `canon/characters/accord/ADRIAN_MERCER_ARCHITECT.md`
+41. Adrian Mercer - Woodworking And Carvings  —  `canon/characters/accord/ADRIAN_WOODWORKING.md`
+42. Devon Cross — The Counterfeit Brother (LOCKED core; OPEN items noted)  —  `canon/characters/accord/DEVON_CROSS.md`
+43. Maya At The Hale House  —  `canon/relationships/MAYA_AT_THE_HALE_HOUSE.md`
+44. The Barn And Pond  —  `canon/locations/THE_BARN_AND_POND.md`
+45. The Founding Trio Timeline  —  `canon/timeline/FOUNDING_TRIO_TIMELINE.md`
+46. Graphic Novel Visual Language  —  `canon/VISUAL_LANGUAGE.md`
+47. Canon Name Registry  —  `canon/NAME_REGISTRY.md`
+48. Open Canon Questions  —  `canon/OPEN_QUESTIONS.md`
+49. Superseded / Archived Development Notes  —  `canon/SUPERSEDED_ARCHIVED.md`
+50. Canon Changelog  —  `canon/CHANGELOG.md`
 
 
-## How To Use This Bible
+---
 
-This document is the current master canon bible for The Echo, reconstructed from the uploaded ChatGPT transcript and the current conversation context.
+<!-- source: canon/SERIES_IDENTITY.md -->
 
-It is organized as a living source of truth. Material marked LOCKED should be treated as canon unless deliberately revised. Material marked OPEN remains unresolved or underdeveloped. Material marked AUTHOR NOTE is guidance, thematic interpretation, or future-direction logic rather than hard story fact.
+# Series Identity
 
-This version preserves the major canon decisions, character profiles, family culture, running jokes, world rules, Accord mythology, and development direction established so far. The uploaded transcript is also included in the repo so future passes can continue mining exact phrasing and additional micro-details.
-
-
-## Series Identity
+> Updated per `canon/00_SERIES_DECISIONS_LOCKED.md`. Where older docs (including `MASTER_CANON_BIBLE.md`) say "graphic novel / ages 8–12," this supersedes them.
 
 Title: The Echo.
 
-Format: Middle-grade graphic novel series.
+Format: **Illustrated prose hybrid.** Prose carries family, interiority, and the adult-tragedy layer; full-bleed illustration carries the visual metaphors (the Gray, Echo Weather, manifestations) at emotional peaks. The art is where Lucas *sees* — form mirrors theme.
 
-Target audience: roughly ages 8-12, with crossover appeal for parents, educators, counselors, neurodivergent readers, and older readers who connect with the family and motivational themes.
+Target audience: **Upper middle grade** (roughly ages 10–13, reading up). Protagonist Lucas is **13**. Crossover appeal for parents, educators, counselors, neurodivergent readers, and older readers who connect with the family and motivational themes.
 
-Core positioning: a motivational character-development series disguised as a hidden-world fantasy adventure.
+Age cascade (from aging Lucas to 13): Jack ~20 · Nolan ~18 · Emma ~18 · Lucas 13 · Dylan ~10. Bigs/Littles intact.
+
+Core positioning: a character-driven hidden-world fantasy whose hero happens to have ADHD and dyslexia. Character first, lesson second — never sold as "an ADHD self-help book."
 
 Foundational principle: the fantasy exists to reveal character. Character should never exist only to explain fantasy.
 
@@ -39,10 +87,67 @@ Core message: Different does not mean broken.
 
 Important tonal rule: The story should not preach the theme. Lessons should emerge from choices, consequences, family dynamics, friendship conflict, and visually dramatized emotional growth.
 
-Commercial principle: Do not sell this as “an ADHD self-help book.” Sell it as a character-driven fantasy graphic novel where the hero happens to have ADHD and dyslexia. Entertainment first, lesson second.
+Commercial principle: Sell it as a character-driven illustrated fantasy where the hero happens to have ADHD and dyslexia. Entertainment first, lesson second.
+
+Logline, comps, and Book 1 structure: see `canon/story/BOOK_1_SPINE.md`.
 
 
-## Core Themes And Motivational Pillars
+---
+
+<!-- source: canon/00_SERIES_DECISIONS_LOCKED.md -->
+
+# THE ECHO — Series Decisions Locked (Dev Session v2)
+
+Status: **LOCKED** unless deliberately revised. This document supersedes conflicting entries in `MASTER_CANON_BIBLE.md` (format / age band) and retires `THE_ECHO_REVIEW_PACKAGE.md` as a pitch doc (see Deprecated).
+
+Suggested repo home: `canon/` (top level, alongside the bible).
+
+---
+
+## Locked decisions
+
+1. **Category & age — Upper Middle Grade. Lucas aged 11 → 13.**
+   Supersedes the "graphic novel, ages 8–12" vs "MG, ages 10–14" split. Rationale: the material's altitude (founder grief, surveillance, determinism) lives at upper-MG. YA was considered and rejected — YA structurally pushes the teen *away* from family, which would amputate the series' #1 differentiator (the intact Hale family). The fix for "this feels too sophisticated for little kids" was to age the *protagonist*, not the shelf.
+   - **Age cascade:** Jack ~20 · Nolan ~18 (HS senior; prime Accord young-adult-track age) · Emma ~18 (Nolan's twin) · Lucas 13 · Dylan ~10. Bigs/Littles intact.
+
+2. **Format — Illustrated prose hybrid.**
+   Prose carries family, interiority, and the adult-tragedy layer; full-bleed illustration carries the visual metaphors (the Gray, Echo Weather, manifestations) at emotional peaks. Form mirrors theme: the art is where Lucas *sees*. Caution: prose raises the preaching risk vs. a pure GN — discipline required (see THEMES rule "do not preach").
+
+3. **POV — Close third, anchored on Lucas, rationed leans.**
+   Default lens is Lucas; brief, bounded leans into another character (Nolan, Abby, Rachel) only where their interior is the thing that has to land. First person was rejected: it locks the series to Lucas and fights the ensemble design.
+
+4. **Echo resolution — Option B ("reckoning").**
+   Naming a manifestation REVEALS what it needs; resolution requires a costly CHOICE, usually by the person it belongs to. Small Impressions/weather may resolve on naming alone (warm-up tier). See `ECHO_MECHANICS_RESOLUTION.md`.
+
+5. **The Gray — intended-as-mercy.**
+   The Accord sincerely experiences quieting as peace/healing. Mechanically, the Gray is the relief taken when someone is named truly and *declines* the costly choice. Supersedes the review package's "blind spots only" softening.
+
+6. **Engine distribution.**
+   Echo problems are solved by the friend group with a rotating lead chair; Lucas catches first but rarely finishes alone. See `FRIEND_GROUP_ENGINE.md`.
+
+7. **Cast trim (Book 1).**
+   The four core friends (Maya, Zoe, Mason, Eli) are recruited into the AIP *together*; Abby is the established insider; the rest of the cohort stays light background. No separate cohort to build. Defer the full 10-kid roster and most mentors.
+
+---
+
+## Deprecated
+
+- `THE_ECHO_REVIEW_PACKAGE.md` is retired as the outward pitch. It sanitized canon (softened the Accord, cut Nolan/family/Sarah, dropped dyslexia). Rebuild any pitch from canon + `BOOK_1_SPINE.md`.
+
+---
+
+## Still OPEN (action items)
+
+- **Maya's surname** — must NOT be "Whitmore" (collides with the founding family). Currently unlocked; needs a new surname.
+- **Devon Cross** — sincere Accord young-adult-track recruiter; Book 1's active antagonistic force. Full build in progress.
+- **Midpoint staging** — the "Lucas is finally *right*, and being right is what ruins him" hinge. Needs staging so his certainty reads as earned and sympathetic. In progress.
+
+
+---
+
+<!-- source: canon/THEMES.md -->
+
+# Core Themes And Motivational Pillars
 
 LOCKED CORE THEMES:
 - Identity vs conformity.
@@ -77,22 +182,11 @@ Key lesson structure:
 - Adrian: not every human problem can be engineered away.
 
 
-## Graphic Novel Visual Language
+---
 
-The Echo should be visually native to comics. The strongest visuals are not fight scenes; they are internal states made visible.
+<!-- source: canon/world/echo/ECHO_OVERVIEW.md -->
 
-LOCKED VISUAL PRINCIPLES:
-- Emotional state changes the way the Echo is drawn.
-- Fear, pressure, and overwhelm can exaggerate perceived danger.
-- Greater Attunement should not make a character calmer, flatter, or less themselves. It should make them more honest, more intentional, more fully themselves.
-- Avoid a repeated formula where every climax is “panic distorts, calm fixes.” That risks teaching “calm equals truth” too simplistically.
-- Static/the page lying to the reader remains a strong idea but should be used carefully and not reduced to a mana-bar mechanic.
-- The Gray/Hollows remain one of the most powerful visual metaphors: conformity and flattening made visible.
-- Echo Weather should be promoted as a recurring visual signature: joy-glowing gyms, grief-storming hallways, tense classrooms, memory-soaked places, and family spaces with their own emotional climate.
-- The Five Lenses visual device can be used as a major set-piece, but not every book should overuse it.
-
-
-## The Echo - World Overview
+# The Echo - World Overview
 
 The Echo is a hidden layer of reality overlaying the normal world. It is not a separate dimension, timeline, or alternate universe. It exists alongside everyday reality, filtered out by most minds.
 
@@ -109,7 +203,11 @@ Earlier versions framed neurodivergence as direct magic. That was rejected as to
 Echo manifestations can be born from accumulated experiences, emotions, memories, perceptions, relationships, repeated human behavior, and beliefs.
 
 
-## Attunement
+---
+
+<!-- source: canon/world/echo/ATTUNEMENT.md -->
+
+# Attunement
 
 Attunement is the lifelong process of growth: self-awareness, accountability, resilience, curiosity, patience, discipline, emotional regulation, humility, and intentional action.
 
@@ -129,7 +227,57 @@ Attunement should be dramatized through choices:
 Guardrail: Do not make Attunement feel like “just calm down and the world becomes correct.” That undermines the motivational mission and can create unhealthy readings for anxious or neurodivergent readers.
 
 
-## Echo Manifestations And Creature Logic
+---
+
+<!-- source: canon/world/echo/ECHO_MECHANICS_RESOLUTION.md -->
+
+# Echo Mechanics — The Verbs & Resolution (LOCKED)
+
+Suggested repo home: `canon/world/echo/`
+
+The Echo is **perception, not power.** A scene is won by seeing correctly and acting on it; lost by misreading and acting on the misread. The magic system and Lucas's core flaw ("being misunderstood does not mean you're right") are the **same engine.**
+
+---
+
+## The five gears
+
+- **CATCH** — perceiving Impressions / Echo Weather others filter out. Lucas's native, involuntary gift, and a *burden* (he catches everything and can't sort it). The cheapest gear: being the antenna does NOT mean owning the scene.
+- **READ** — interpreting what a manifestation or room's weather *means*. Contested; where misreads happen. Lucas defaults to the self-flattering read.
+- **HOLD** — staying in not-knowing / overwhelm without grabbing premature relief. **NOT "calm down."** The anti-Gray gear: the Gray is the off-switch for the flood; holding is choosing to keep feeling rather than take the relief that costs you yourself.
+- **NAME** — putting accurate words to what a manifestation *is* (fear, grief, unfinishedness). Reveals what it needs. Ties to the dyslexia motif (a hidden language becoming readable) and to the Hale value "Own It."
+- **CHOOSE** — acting on clear perception when acting is *costly*. Attunement's payoff.
+
+**Failure modes are Lucas's flaws wearing magic:** catching too much (overwhelm), reading to confirm he's right, refusing to hold (impulsivity), naming wrong or blaming (not owning it), choosing approval over truth.
+
+---
+
+## Resolution rule (Option B — "reckoning")
+
+Naming **reveals**; a costly **choice resolves.** The choice usually belongs to the person the manifestation is *about* — others can catch and name, but cannot choose for them. 
+
+- Small Impressions / weather may resolve on naming alone (warm-up tier).
+- A manifestation can be named-and-temporarily-quieted at a book's climax while the real reckoning is still owed into the next book.
+
+---
+
+## The Gray (intended-as-mercy)
+
+The Gray = the relief taken when someone is named truly and *declines* the costly choice. To the grayed person it feels like finally being able to breathe. The Accord offers to name things FOR you and spare you the choice — and that sparing is the graying. Each character has a private door into the Gray via their own hardest gear (see `FRIEND_GROUP_ENGINE.md`).
+
+---
+
+## Guardrails
+
+- **Win ≠ calm.** Resolution should look like preserved aliveness / individuality, not quiet. (Proof-of-concept garden climax: the creature flares *wilder* and the Gray retreats from the chaos.) This refutes "calm equals truth."
+- **Escalation is interpretive/emotional** — harder reads, costlier choices, manifestations buried deeper or belonging to people Lucas loves — **never bigger monsters.**
+- **Optics fix:** Lucas *catches* more (native) but is *worse* at read/hold/name/choose at the start, because those are growth skills his flaws sabotage. Wisdom is shared and available to all, which makes the non-ND friends essential by construction.
+
+
+---
+
+<!-- source: canon/world/echo/MANIFESTATIONS_AND_CREATURES.md -->
+
+# Echo Manifestations And Creature Logic
 
 Known manifestation ladder:
 1. Impressions - subtle sensations, feelings, hints, deja vu.
@@ -152,7 +300,11 @@ Echo creatures can embody emotions and pressures. They should not exist only as 
 Graphic novel opportunity: creatures should be visually memorable and emotionally readable.
 
 
-## The Gray And Hollows
+---
+
+<!-- source: canon/world/echo/THE_GRAY_AND_HOLLOWS.md -->
+
+# The Gray And Hollows
 
 The Gray is the visible deadening caused by the Accord's Quieting/flattening influence.
 
@@ -169,7 +321,231 @@ Important nuance: If the Gray looks too much like obvious zombification, the Acc
 The Gray is one of the strongest cover images and marketing hooks: “a beloved adult is quietly turning kids gray, and only one boy can see it.”
 
 
-## The Hale Family Overview
+---
+
+<!-- source: canon/world/accord/ACCORD_OVERVIEW.md -->
+
+# The Accord Overview
+
+The Accord is not a simple villain group. It is an organization and philosophy that genuinely helps people while slowly asking for too much.
+
+Public Motto: Become What You Were Meant To Be.
+
+Public mission: human development, guidance, structure, and reduction of preventable suffering.
+
+Target age range: roughly 8-25, with the belief that earlier guidance is better because identity and decision-making are still forming.
+
+The Accord offers:
+- structure
+- mentorship
+- stability
+- clarity
+- focus
+- development pathways
+- relief from chaos
+- belonging
+- a sense of direction
+
+It genuinely helps people sometimes. It can prevent disasters, stabilize struggling kids, offer structure, contain dangerous Echo phenomena, and provide resources.
+
+The danger is method and endpoint. The Accord increasingly prioritizes alignment, optimization, and uniformity over individuality.
+
+Core contradiction:
+Are they helping? Yes.
+Are they dangerous? Also yes.
+Are they villains? Sometimes.
+Are they heroes? Sometimes.
+
+The best version of the Accord should feel like real institutions: a mixture of good intentions, good outcomes, bad incentives, blind spots, and unintended consequences.
+
+
+---
+
+<!-- source: canon/world/accord/MOTTO.md -->
+
+# Accord Motto And Philosophical Danger
+
+LOCKED MOTTO:
+Become What You Were Meant To Be.
+
+Surface meaning:
+- reach your potential
+- become your best self
+- discover your purpose
+- grow into who you are
+
+Deeper danger:
+Who decides what you were meant to be?
+
+This motto should sound beautiful at first and terrifying later.
+
+The public hears empowerment. Lucas eventually hears prescription.
+
+The motto should also connect to Adrian's woodworking: a rough block shaped into what it was “meant” to become.
+
+
+---
+
+<!-- source: canon/world/accord/POWER_STRUCTURE.md -->
+
+# Nathan And Adrian Power Structure
+
+Public reality:
+Nathan Whitmore is the leader of the Accord. Everyone knows it. Everyone believes it. They are correct.
+
+Private reality:
+Adrian Mercer has extraordinary influence over the Accord's direction, not because he has secret authority over Nathan, but because he is steward of the founding mission, vision, and philosophy.
+
+Nathan leads operations, outreach, public trust, partnerships, member relationships, and the movement.
+
+Adrian shapes philosophy, research, developmental frameworks, curriculum, progression systems, and long-term direction.
+
+When Adrian disagrees, he rarely argues directly. He asks:
+- “Does this align with the mission?”
+- “Does this further the vision?”
+- “Is this what we set out to build?”
+- “Would this move the Accord closer to its purpose?”
+
+These questions often reshape board discussion and change votes because the board's responsibility is to advance the Accord's mission.
+
+Adrian's power comes from controlling the evaluative framework. He is viewed as the keeper of the blueprint.
+
+Future fault line:
+For years Nathan and Adrian interpret the mission the same way. Eventually Nathan starts having other ideas. The fracture begins when they both ask whether something aligns with the mission and arrive at different answers.
+
+
+---
+
+<!-- source: canon/world/accord/PATHS_FACTIONS.md -->
+
+# Accord Paths / Factions - Development Direction
+
+Earlier faction idea evolved. Current direction: factions should not be Hogwarts houses or RPG classes. They should be philosophical development paths.
+
+Potential path concepts:
+- Order: structure, discipline, consistency.
+- Purpose: mission, achievement, contribution.
+- Harmony: emotional regulation, relationships, balance.
+- Insight: knowledge, understanding, self-awareness.
+
+These are not locked names, but the principle is strong: each path should be genuinely appealing and useful, while also carrying a risk when taken too far.
+
+The Accord should attract different characters for different reasons:
+- Nolan: direction, structure, being seen as powerful instead of problematic.
+- Maya: certainty and relief from being wrong.
+- Mason: simplicity and clear expectations.
+- Zoe: control and manageable outcomes.
+- Eli: answers and predictable systems.
+- Jack: purpose in transition.
+- Abby: identity under inherited expectations.
+
+
+---
+
+<!-- source: canon/world/accord/STRUCTURE_OPEN.md -->
+
+# Accord Structure - Current Known And Open
+
+Current known:
+- The Accord targets ages roughly 8-25.
+- Younger candidates are preferred because identity and patterns are more malleable.
+- It likely includes middle school, high school, college, and young adult tracks.
+- It has a board of directors / senior leadership structure.
+- Nathan is the public leader.
+- Adrian heads research/science/philosophy/program design.
+- The motto is “Become What You Were Meant To Be.”
+- The organization genuinely helps people and communities.
+- Its danger is the cost of alignment and the hidden endpoint of flattening difference.
+
+OPEN QUESTIONS:
+- How does someone join?
+- Are members recruited, referred, invited, or enrolled by parents?
+- What does membership look like weekly?
+- Does it have retreats, campuses, mentorships, assessments, uniforms, badges, ranks, or ceremonies?
+- What are its paths/factions?
+- What is the public-facing curriculum?
+- What is the hidden curriculum?
+- How does Quieting/Gray begin subtly?
+- How does Nolan first encounter the Accord?
+- What exactly does Abby do inside the Accord?
+
+
+---
+
+<!-- source: canon/story/BOOK_1_SPINE.md -->
+
+# Book 1 — Spine & Act Outline (working v1)
+
+Suggested repo home: `canon/story/` (replaces the placeholder `BOOK_1_FOUNDATION.md`)
+
+POV: close third, anchored on Lucas, rationed leans · Format: illustrated prose hybrid · Category: upper MG
+
+---
+
+## Logline
+
+Thirteen-year-old Lucas Hale can see the hidden emotional layer of the world — and he's the only one who notices when his magnetic older brother starts quietly vanishing into a kind, well-meaning institution that calls erasure "healing." His certainty that he alone is right nearly costs him the brother he's trying to save.
+
+## Comps
+
+*Amari and the Night Brothers* and *Nevermoor* (hidden-world institution + warmth). *A Wrinkle in Time* (Camazotz / the flattening) as the thematic touchstone for the Gray.
+
+---
+
+## Structure: two plots that are one plot
+
+- **A-plot (emotional spine, series engine): NOLAN GRAYS.** Lucas alone sees it; everyone else calls it Nolan maturing; Lucas's certainty drives a rash "rescue" that makes it worse. Climax: he learns he cannot choose for Nolan — only stop treating him like the problem and leave the door open.
+- **B-plot (self-contained, teaches the verbs): ABBY'S MANIFESTATION.** Her suppressed, *unfinished* self manifests as a flickering creature being pulled to "settle" and harden under the campus Gray. Won by Maya's true name + Abby's costly choice (the forbidden admission, *"I don't know what I want to be"*). Resolution = preserved chaos, not calm.
+
+One-line premise: **Lucas practices the truth on a near-stranger (Abby) and graduates by failing to force it on his brother.**
+
+---
+
+## Act beat sheet (tags: [A-plot] · [POV lean] · [LEAD: kid] · [set-piece])
+
+### ACT ONE — Setup (0–25%)
+- **Opening image.** A small, low-stakes Echo miss at the pond/Barn: Lucas catches an Impression, reads it wrong (the flattering read), pays a minor social cost. Establishes flood + friends + flaw. No tour.
+- **Ordinary world.** A Hale dinner — roasting, Sunday-no-phones, "Own It" live. Nolan is the magnetic, restless center. *Plant the faintest dimming on Nolan*; Lucas catches it and dismisses it. [A-plot seed]
+- **Inciting incident — the double door.** Same week: Lucas + the four friends are invited into the AIP; Nolan announces he's joining the Accord's young-adult track via recruiter **Devon Cross**. Family thrilled; Lucas uneasy. [A-plot]
+- **Debate.** Lucas hates change; the AIP terrifies and tempts him. Saying his unease aloud just sounds like jealousy.
+- **Break into Two.** First day — dropped into the cohort *mid-problem*, not orientation. Meets **Ben Carter** (sincere first-year PM) and **Abby** (flawless Accord-confidence). Catches a faint campus Gray he can't place.
+
+### ACT TWO-A — Promise of the premise (25–50%)
+- **B-story ignites + verbs (training wheels).** A small manifestation, naming-only tier. [LEAD: Eli][set-piece #1, small]
+- **Home interleave.** Nolan visibly calmer; family relieved and grateful. Lucas sees the Gray thicken on him; no one else can. [A-plot] [POV lean: Rachel — show the mother's genuine relief]
+- **Rising / bonds.** A second small problem [LEAD: Zoe]; Zoe's control-flaw cracks when a plan doesn't survive contact.
+- **Midpoint — the true thing that arms the mistake.** Lucas connects it: campus Gray = Abby's flickering = Nolan's calm = one phenomenon. He's *right about the pattern* for the first time. False victory → curdles into dangerous certainty. [set-piece #2, visual] **[OPEN: staging — the hardest hinge]**
+
+### ACT TWO-B — Bad guys close in → All is lost (50–75%)
+- **Certainty hardens.** Lucas stops listening. Confronts Devon; Devon is kind, sincere, immovable — "villain" won't stick.
+- **The consequential mistake.** To *prove* the Accord harms people, Lucas attacks Abby's manifestation as a "monster." Backfires three ways: the creature (Abby's self) is wounded and driven deep; the cohort sees him attack Abby and turns on him; the blowup spills home and he calls Nolan a *victim* — Nolan recoils (*"you're just like everyone else"*) and commits harder. [set-piece #3][A-plot collision]
+- **All is lost.** Nolan grayer, pulling away. Lucas exiled. Abby's self nearly gone. Family reads Lucas as jealous/acting out.
+- **Dark night.** An "Own It" reckoning at the table, the value turned on Lucas himself. [POV lean: Nolan — let the reader feel the relief is real]. [A-plot]
+
+### ACT THREE — Finale (75–100%)
+- **Break into Three.** The lesson clicks through the B-story, not a speech: Maya lands the true read; Lucas finally *holds*.
+- **Finale set-piece — the garden.** Distributed engine (Eli mechanism · Maya names · Zoe opens her hands · Mason's costly vulnerability); **Abby chooses**; resolution = preserved aliveness. [set-piece #4] [POV lean: Abby at the choice]
+- **Apply it to Nolan — the opposite of a rescue.** Lucas owns his part, names without forcing, leaves the door open. He cannot choose for Nolan. [A-plot climax]
+- **Final image.** Nolan's spark flickers (not a full return). Clean wins: Abby, Lucas's growth, family reconnected. Open engine: Nolan mostly still in; Devon & the Accord untouched and trusted; a cold final beat reveals the quieting is *by design* (a glimpse of the Architect's hand). Closing rhyme: Lucas catches something — and holds before he reads. [series seed]
+
+---
+
+## Set-piece index
+1. Small training manifestation — naming-only tier. [LEAD: Eli]
+2. Midpoint revelation (visual). **[OPEN: staging]**
+3. The mistake — Lucas attacks Abby's manifestation. [Echo + A-plot collision]
+4. The garden climax — Maya names, Mason's vulnerability, Abby chooses. [POV lean: Abby] *(drafted — see proof-of-concept scene)*
+
+## Open
+- Midpoint staging (the "right-is-what-ruins-him" hinge).
+- Devon Cross — needs a genuinely persuasive scene where the reader half-agrees with him.
+
+
+---
+
+<!-- source: canon/characters/hale-family/HALE_FAMILY.md -->
+
+# The Hale Family Overview
 
 LOCKED FAMILY NAME: Hale.
 
@@ -191,291 +567,59 @@ The family is loud, loving, sarcastic, chaotic, loyal, imperfect, and deeply pre
 The Hales are a family worth missing. That is the point. If readers fall in love with the Hale family, then any threat to the family dinner table, traditions, or relationships carries real stakes.
 
 
-## The Bigs And The Littles
+---
 
-LOCKED TERMS:
-- The Bigs: Jack, Nolan, Emma.
-- The Littles: Lucas and Dylan.
+<!-- source: canon/characters/hale-family/LUCAS_HALE.md -->
 
-This is a recurring family shorthand.
+# Lucas Hale
 
-Possible family usage:
-- “The Bigs are cheating.”
-- “The Littles are crying again.”
-- “Typical Little behavior.”
+Lucas Hale is 11 and the protagonist.
 
-The terms are used affectionately and sarcastically. They help the family feel like it has history.
+He is mixed-race, funny, kind, generous, socially interested, imaginative, awkward at times, insecure, and lacking consistent confidence.
 
+Neurodivergence:
+- ADHD, not primarily hyperactive; impulsivity and big emotions are major features.
+- Dyslexia, affecting reading and confidence.
+- His brain moves very fast, complicating reading comprehension and expression.
 
-## Hale Family Dinner Culture
+Important character correction:
+Lucas does not think he is broken. He feels misunderstood, which can make him wonder if something is wrong. That feeling drives his need to be heard.
 
-Dinner is a recurring anchor location and emotional set-piece.
+Social anxiety:
+Lucas has social anxiety and insecurity. He is socially awkward sometimes, but he is not afraid to put himself out there. He loves people and new connections. He gets in his head about what people think.
 
-LOCKED DINNER REALITY:
-The Hales value eating together, but they are terrible at scheduling it.
+Fear trigger:
+Lucas does not like change. He is a creature of familiarity. Unfamiliar situations feel out of control and trigger anxiety.
 
-This is not a TV family with dinner at 6 PM every night. The house is busy:
-- older kids may or may not be around
-- sports schedules push dinner to 8 PM, especially in summer
-- work schedules interfere
-- dinner may be homemade, takeout, pizza, leftovers, or grazing
-- both David and Rachel cook, though Rachel handles more day-to-day meals
-- David has specialty meals and old family recipes he hoards
+Flaws:
+- needs to be understood
+- argues and overexplains
+- can be sharp-tongued when impulsive
+- wants to be liked, which can lead to poor decisions or peer pressure
+- may think he is right even when he is factually wrong
+- can struggle to let things go
 
-Sunday dinner is different: no phones, tablets, or TV.
+Motivational arc:
+Being misunderstood does not mean you are right. Lucas must learn to listen, own mistakes, and act rightly even when no one fully understands him.
 
-Seating:
-- David always sits in the same spot.
-- Rachel sits beside him.
-- The kids have unofficial seats and argue over them constantly.
-
-Conversation:
-- Dylan talks the most.
-- Lucas follows close behind.
-- Mom and Dad keep conversation moving.
-- The Bigs are often on phones unless it is Sunday, but they chime in to roast or annoy.
-
-Interruptions:
-Every kid interrupts. It snowballs quickly into arguments.
-
-Who gets picked on:
-- Nolan usually pokes Lucas or Emma for a quick dopamine hit.
-- Emma and Dylan pick on each other until Dylan goes too far or Emma hurts his feelings.
-- Jack jumps in with a quick roast when he sees an opening, then retreats.
-- David lightly roasts the Bigs in defense of the Littles.
-- David and Nolan can occasionally go too far, though rarely.
-
-Who starts arguments: usually Nolan.
-Who ends them: Rachel, David, or Jack.
-Who disappears first: Jack.
-Who helps clean up: everyone picks up after themselves, though the Littles struggle and Nolan notices.
-
-
-## Hale Family Humor And Voice
-
-The Hales communicate through sarcasm, quick wit, roasting, callbacks, and running jokes.
-
-This is usually affectionate. When something is genuinely serious, the jokes disappear.
-
-Nolan's recurring “Back in my day” reflex:
-When David or Rachel start reminiscing, Nolan often says:
-- “Here we go.”
-- “Let me guess, back in my day...”
-
-It is usually a joke and not malicious, but context can make it disrespectful. It also reveals Nolan's impulsiveness and tendency to deflect uncomfortable seriousness with humor.
-
-Nolan's humor is rooted in impulsivity first and deflection second. He says the first funny thing that enters his head. Sometimes it lands. Sometimes it hurts.
-
-Lucas and Nolan mirror each other:
-- Lucas reacts by arguing, explaining, defending, and trying to be understood.
-- Nolan reacts by joking, provoking, teasing, and controlling the room.
-
-Both must learn that intent and impact are not the same.
-
-
-## Hale Family Value: Own It
-
-Core Hale value: Own it.
-
-The family does not expect perfection. They expect accountability.
-
-Made a mistake? Own it.
-Said something stupid? Own it.
-Forgot a chore? Own it.
-Lost your temper? Own it.
-
-This value ties directly into Lucas's motivational arc. Lucas must learn that being misunderstood does not excuse being wrong. Nolan must learn that “I was joking” does not erase impact. Emma must learn that worth is not earned through perfect contribution. Rachel must learn she cannot own responsibilities that are not hers.
-
-
-## Hale Recipes / Recipe Inheritance
-
-David has specialty recipes inherited from his mother, grandmother, grandfather, and family history.
-
-Originally called “Jonesepies” during development; after the surname changed, this needs a final Hale-family recipe title. OPEN NAME.
-
-LOCKED: David secretly starts writing the recipes down before anyone knows.
-
-Why it matters:
-The recipes are not just food. They are legacy.
-
-David begins offloading specialty items to specific kids:
-- Jack gets David's famous cheesecake and key lime pie.
-- Emma gets David's mac & cheese.
-- Other recipes can be assigned later.
-
-This allows David to confront the fact that the kids are growing up. Passing down recipes is his way of keeping family history alive.
-
-Possible recurring joke:
-David creates a name for the recipe collection that everyone hates. He insists it is growing on them. It is not.
-
-
-## Jack Food Text Tradition
-
-LOCKED: If the family is eating one of Jack's favorite meals, someone has to text him a picture.
-
-Trigger foods include ribs, brisket, cheesecake, key lime pie, holiday rolls, and family recipes Jack loves.
-
-Messages are teasing rather than sentimental:
-- “Sucks to suck.”
-- “Boy this doesn't look good at all.”
-- “Wish you were here.”
-- “I ate yours.”
-- “Hope you're eating something besides ramen.”
-
-The real message is: we thought of you, your seat still exists, you're still one of us.
-
-Jack sends reverse food texts from college or trips:
-- “Dad would hate this.”
-- “Mom would ask why I paid money for this.”
-- “Dylan would die happy.”
-
-This tradition should continue into adulthood.
-
-
-## Gramps, Grams, And Store Runs
-
-Gramps: Jack Hale I. Called Gramps by everyone.
-Grams: Evelyn Hale. Called Grams by everyone.
-
-Naming story:
-David: “We're naming him Jack.”
-Gramps: “That's a terrible name.”
-
-Gramps is sarcastic, practical, dry, funny without trying, and allergic to sentimentality.
-
-Gramps and Nolan:
-Nolan and Gramps are best buddies. Gramps is the only one who does not treat Nolan like the bad guy. He sees Nolan's good and expects him to live up to it. He never excuses Nolan's crap and never gives long speeches.
-
-Gramps communicates in quick remarks:
-- “You're smarter than that.”
-- “That's gonna cost ya.”
-- “Good job, kid.”
-- “Little guy watches you.”
-- “Careful what you teach him.”
-
-Store runs:
-The store runs are an unspoken Hale tradition. They are not about errands; they are about connection.
-
-As Nolan grows older and takes fewer runs, Lucas naturally begins going more often. This causes complicated resentment in Nolan, not because he wants Lucas excluded, but because it marks time moving forward.
-
-Sometimes Gramps takes Nolan. Sometimes Lucas. Sometimes both. Sometimes he says:
-- “Not this time.”
-- “Just me and the little guy.”
-- “He needed it.”
-
-The store runs represent generational guidance without speeches.
-
-
-## David Hale
-
-David Hale is the father of the Hale family.
-
-Core role: movement, legacy, knowledge, family traditions.
-
-Known traits:
-- engineer by trade in earlier development
-- smart and curious
-- knows a little about a lot of things
-- funny and charismatic
-- somewhat athletic
-- stern when needed, soft when needed
-- loves learning new things
-- loves science, history, space, dinosaurs, parallel universes, and random facts
-- shares Dylan's love of knowledge and “pointless information”
-
-David is not the dad who always has the answer. He is the dad who always has an answer. Sometimes it is right. Sometimes it is only partially right.
-
-Cooking:
-- David grills.
-- David has select dinner items and old family recipes.
-- David hoards recipes in his head until he begins secretly writing them down.
-
-Relationship with Rachel:
-They love each other visibly. Both think they are lucky the other has not “come to their senses.” David brings motion. Rachel brings stability.
+Interests:
+- swimming
+- baseball
+- imagination
+- people
 
 Relationship with Dylan:
-Dylan is David's mini-me in temperament. They discuss dinosaurs, stars, black holes, parallel universes, and use constellation apps.
+Lucas and Dylan are best friends. Lucas protects Dylan, but Dylan also protects Lucas emotionally and socially.
 
-Rachel's recurring observation:
-- “Lucas looks like you but acts like me.”
-- “Dylan looks like me and acts like you.”
-- “Dylan is your mini-me.”
+Relationship with Nolan:
+Lucas admires and fears Nolan's influence. Nolan is both warning and model.
 
 
-## Rachel Hale
+---
 
-Rachel Hale is the mother of the Hale family.
+<!-- source: canon/characters/hale-family/NOLAN_HALE.md -->
 
-Career:
-Rachel works as a Senior Office Manager at a medium-sized financial company. She does not have a college degree because she had children relatively young, but she has been with the company forever and worked her way up. She oversees day-to-day administrative, financial, and operational functions; coordinates staff below her; bridges her boss and the rest of the staff; and is indispensable.
-
-Important distinction: Rachel is not a secretary.
-
-She is fulfilled enough at work. It is not her dream job, but she is good at it, makes decent money, contributes to the family beyond motherhood, and has flexibility to work remotely or take time off for events and appointments.
-
-Core Want: security.
-Core Fear: losing connection and the family she built.
-Strength: empathy and emotional perception.
-Weakness: struggles to let people struggle.
-Secondary weakness: carries responsibility that is not hers.
-Grounding practice: gardening.
-
-Gardening:
-Rachel cycles through hobbies and often says, “I wish I liked stuff,” because she struggles to stick with hobbies. Gardening is the one thing she consistently returns to. It quiets her mind, slows her down, and gives her peace.
-
-Parenting:
-Rachel loves her kids deeply but does not pretend they are perfect. She sees flaws and calls them out lovingly: you were wrong, own it, now how can we fix it.
-
-She is a fierce protector. She knows her kids are not angels, but they are not demons either. She believes in accountability and fairness. She will not stand by while someone attacks her children. This extends to children generally. David jokingly calls her an Avenger when it comes to child safety.
-
-Trauma:
-Rachel has unresolved childhood trauma and PTSD from things that happened growing up. Her parents, older brother, and older sister have unresolved issues with her. They can tolerate each other in controlled doses, but Rachel limits exposure. She is in counseling and dealing with it there. The trauma increases her protectiveness, but it does not define every part of her.
-
-Personality:
-Funny, stubborn, blunt but not mean, honest, overthinker, worrier, respects honesty, social and likable but struggles with vulnerability in friendships. David says, “Rachel has friends; friends don't have Rachel.” She acknowledges this but finds it hard to change.
-
-Vacation flaw:
-Rachel's perfect vacation is one where everything goes right: no hotel problems, dinner issues, complaining kids, bad weather, or surprises. When anything goes wrong, even out of her control, she tends to blame herself.
-
-
-## Jack Hale II
-
-Jack Hale II is the oldest Hale child.
-
-Age: 21.
-
-He is away at college studying history.
-
-Name: named after Gramps, Jack Hale I. David named his firstborn after his father out of respect and love.
-
-Core Want: belonging.
-Fear: being left behind by time / losing home.
-False Belief: moving forward means leaving things behind.
-Strength: perspective.
-Weakness: letting go.
-Theme: growing up does not mean leaving home behind.
-
-Jack is not the “successful oldest sibling” stereotype. He is the first Hale kid forced to leave the nest, and he is not sure he wants to.
-
-College and future:
-Jack studies history. He initially thought he wanted to be a history teacher, but he is also into politics. He is considering taking time after college to travel and create a historical/political podcast or content channel about lesser-known historical and political sites and stories. He has not told his parents yet, but has shared it with Nolan and Emma in the Sibs Chat.
-
-Secret struggle:
-He is apprehensive about growing up, choosing a direction, getting an apartment, getting a job that may take him out of state, and becoming less able to relate to the younger siblings.
-
-Relationship with Lucas and Dylan:
-Lucas and Dylan deeply miss Jack. Lucas sometimes calls Jack with a dumb question just to hear his voice. Jack tries to make online gaming plans with them, but school, work, girls, parties, and college life interfere.
-
-Jack calls Lucas and Dylan “buddy.” It is not condescending. It is a relationship anchor.
-
-Jack at home:
-He misses the chaos, but if he is home too long, the chaos harshes his mellow. His room remains his room during breaks, which he loves because it means he is still part of the family.
-
-Sibs Chat:
-Jack, Nolan, and Emma have a sibling group chat without parents or Littles. Secrets, complaints, life updates, and future plans happen there.
-
-
-## Nolan Hale
+# Nolan Hale
 
 Nolan Hale is 19 and Emma's twin.
 
@@ -522,7 +666,40 @@ Accord connection:
 Nolan can plausibly align with the Accord because he agrees with some of its ideals. He is drawn to structure, relief, being seen as powerful rather than problematic, and being told his force needs direction.
 
 
-## Emma Hale
+---
+
+<!-- source: canon/characters/hale-family/NOLAN_LOVABILITY_GUARDRAILS.md -->
+
+# Nolan — Lovability Guardrails (SERIES-WIDE, LOCKED)
+
+Suggested repo home: `canon/characters/hale_family/` (alongside `NOLAN_HALE.md`)
+
+**Why this is load-bearing, not a nicety.** Nolan's arc is the series' *second engine* (the one that keeps driving after Nathan begins to forgive himself). "Does he come all the way back, or all the way gray?" is only a page-turning, multi-book question if the reader aches for him. It's also coupled to Devon Cross: the more we love the real, barbed, difficult Nolan, the more the smooth counterfeit reads as horror. Protect Nolan's lovability and the Devon contrast lands for free.
+
+---
+
+## The guardrails
+
+1. **Gramps is the reader's permission slip.** The most no-BS character believes in Nolan, so the reader does too. Use Gramps as a dial: the day he stops being annoyed and gets quietly *worried* is the day real danger registers — and he can do it in three words.
+2. **The barbs are armor; show the cost to *him*.** A smug manipulator is unlovable; a secretly lonely one is heartbreaking. Once a book or so, use a rationed POV lean to drop the wit and show the black-sheep wound under the charisma.
+3. **Bank unbought kindness before withdrawals.** Recurring acts of genuine, costly-to-him generosity with nothing in it for him and no audience (template: bringing Emma back from her self-imposed pressure). These are the moments he *isn't* working anyone — the cracks where real connection leaks through. One per book minimum, placed next to a beat that frustrates us.
+4. **Let him be right, and sharp.** His read on people is genuinely better than the "good" characters'. Let him see a true thing they miss. We don't pity the formidable; we love them.
+5. **Barbs punch up or sideways, never down — and he flinches.** Teasing targets David, Emma, the world. The instant his humor lands on the vulnerable as cruelty he *enjoys* (Dylan, Lucas's insecurity), lovability hemorrhages. He may go too far; he must half-register it ("Nolan notices").
+6. **As he grays: choosing, never puppeted.** A victim is pitiable, and pity dissolves the brother-bond. Nolan keeps choosing, for reasons we understand (exhaustion at being cast as the problem). Stage the graying inside-out — the spark dims at the core while the charismatic surface holds longest, so he stays unmistakably Nolan. Maintain a few "tells" of the real Nolan (*"here we go, back in my day,"* the Gramps rapport, the store-run rhythm) as a heartbeat monitor to flicker, dim, and briefly restore.
+7. **Lucas's anger stays grief, never contempt.** This protects all the rest: if the protagonist writes Nolan off, the reader gets permission to. Even at his most furious, Lucas's anger reads as *I'm losing you*, never *you're worthless.* The text never stops insisting on Nolan's worth.
+
+---
+
+## The caution (do not overcorrect)
+
+Lovable ≠ harmless. The failure mode is sanding Nolan into a misunderstood softie — which betrays his canon (a real manipulator who burns bridges and can go too far) and leaves the series toothless. He must be allowed to genuinely hurt people and make choices that frighten us, or there's no jeopardy and no second engine. The target is the hard thing: **we love him *and* he is really doing damage, at the same time.** The guardrails are what let you hold both — keep the edge, tether the reader.
+
+
+---
+
+<!-- source: canon/characters/hale-family/EMMA_HALE.md -->
+
+# Emma Hale
 
 Emma Hale is 19 and Nolan's twin.
 
@@ -560,51 +737,52 @@ Relationship with Nolan:
 Nolan sees the pressure Emma puts on herself and tries to remind her it is mostly self-imposed. Emma believes the pressure comes from their parents, and it does to a degree, but they do not expect perfection. Nolan brings her back to reality.
 
 
-## Lucas Hale
+---
 
-Lucas Hale is 11 and the protagonist.
+<!-- source: canon/characters/hale-family/JACK_HALE_II.md -->
 
-He is mixed-race, funny, kind, generous, socially interested, imaginative, awkward at times, insecure, and lacking consistent confidence.
+# Jack Hale II
 
-Neurodivergence:
-- ADHD, not primarily hyperactive; impulsivity and big emotions are major features.
-- Dyslexia, affecting reading and confidence.
-- His brain moves very fast, complicating reading comprehension and expression.
+Jack Hale II is the oldest Hale child.
 
-Important character correction:
-Lucas does not think he is broken. He feels misunderstood, which can make him wonder if something is wrong. That feeling drives his need to be heard.
+Age: 21.
 
-Social anxiety:
-Lucas has social anxiety and insecurity. He is socially awkward sometimes, but he is not afraid to put himself out there. He loves people and new connections. He gets in his head about what people think.
+He is away at college studying history.
 
-Fear trigger:
-Lucas does not like change. He is a creature of familiarity. Unfamiliar situations feel out of control and trigger anxiety.
+Name: named after Gramps, Jack Hale I. David named his firstborn after his father out of respect and love.
 
-Flaws:
-- needs to be understood
-- argues and overexplains
-- can be sharp-tongued when impulsive
-- wants to be liked, which can lead to poor decisions or peer pressure
-- may think he is right even when he is factually wrong
-- can struggle to let things go
+Core Want: belonging.
+Fear: being left behind by time / losing home.
+False Belief: moving forward means leaving things behind.
+Strength: perspective.
+Weakness: letting go.
+Theme: growing up does not mean leaving home behind.
 
-Motivational arc:
-Being misunderstood does not mean you are right. Lucas must learn to listen, own mistakes, and act rightly even when no one fully understands him.
+Jack is not the “successful oldest sibling” stereotype. He is the first Hale kid forced to leave the nest, and he is not sure he wants to.
 
-Interests:
-- swimming
-- baseball
-- imagination
-- people
+College and future:
+Jack studies history. He initially thought he wanted to be a history teacher, but he is also into politics. He is considering taking time after college to travel and create a historical/political podcast or content channel about lesser-known historical and political sites and stories. He has not told his parents yet, but has shared it with Nolan and Emma in the Sibs Chat.
 
-Relationship with Dylan:
-Lucas and Dylan are best friends. Lucas protects Dylan, but Dylan also protects Lucas emotionally and socially.
+Secret struggle:
+He is apprehensive about growing up, choosing a direction, getting an apartment, getting a job that may take him out of state, and becoming less able to relate to the younger siblings.
 
-Relationship with Nolan:
-Lucas admires and fears Nolan's influence. Nolan is both warning and model.
+Relationship with Lucas and Dylan:
+Lucas and Dylan deeply miss Jack. Lucas sometimes calls Jack with a dumb question just to hear his voice. Jack tries to make online gaming plans with them, but school, work, girls, parties, and college life interfere.
+
+Jack calls Lucas and Dylan “buddy.” It is not condescending. It is a relationship anchor.
+
+Jack at home:
+He misses the chaos, but if he is home too long, the chaos harshes his mellow. His room remains his room during breaks, which he loves because it means he is still part of the family.
+
+Sibs Chat:
+Jack, Nolan, and Emma have a sibling group chat without parents or Littles. Secrets, complaints, life updates, and future plans happen there.
 
 
-## Dylan Hale
+---
+
+<!-- source: canon/characters/hale-family/DYLAN_HALE.md -->
+
+# Dylan Hale
 
 Dylan Hale is 8.
 
@@ -648,7 +826,323 @@ Dylan: “Well I want one too.”
 Dylan is protected not because he is weak, but because he is authentic. The family is protecting the last person who has not started compromising himself.
 
 
-## Core Friend Group Overview
+---
+
+<!-- source: canon/characters/hale-family/DAVID_HALE.md -->
+
+# David Hale
+
+David Hale is the father of the Hale family.
+
+Core role: movement, legacy, knowledge, family traditions.
+
+Known traits:
+- engineer by trade in earlier development
+- smart and curious
+- knows a little about a lot of things
+- funny and charismatic
+- somewhat athletic
+- stern when needed, soft when needed
+- loves learning new things
+- loves science, history, space, dinosaurs, parallel universes, and random facts
+- shares Dylan's love of knowledge and “pointless information”
+
+David is not the dad who always has the answer. He is the dad who always has an answer. Sometimes it is right. Sometimes it is only partially right.
+
+Cooking:
+- David grills.
+- David has select dinner items and old family recipes.
+- David hoards recipes in his head until he begins secretly writing them down.
+
+Relationship with Rachel:
+They love each other visibly. Both think they are lucky the other has not “come to their senses.” David brings motion. Rachel brings stability.
+
+Relationship with Dylan:
+Dylan is David's mini-me in temperament. They discuss dinosaurs, stars, black holes, parallel universes, and use constellation apps.
+
+Rachel's recurring observation:
+- “Lucas looks like you but acts like me.”
+- “Dylan looks like me and acts like you.”
+- “Dylan is your mini-me.”
+
+
+---
+
+<!-- source: canon/characters/hale-family/RACHEL_HALE.md -->
+
+# Rachel Hale
+
+Rachel Hale is the mother of the Hale family.
+
+Career:
+Rachel works as a Senior Office Manager at a medium-sized financial company. She does not have a college degree because she had children relatively young, but she has been with the company forever and worked her way up. She oversees day-to-day administrative, financial, and operational functions; coordinates staff below her; bridges her boss and the rest of the staff; and is indispensable.
+
+Important distinction: Rachel is not a secretary.
+
+She is fulfilled enough at work. It is not her dream job, but she is good at it, makes decent money, contributes to the family beyond motherhood, and has flexibility to work remotely or take time off for events and appointments.
+
+Core Want: security.
+Core Fear: losing connection and the family she built.
+Strength: empathy and emotional perception.
+Weakness: struggles to let people struggle.
+Secondary weakness: carries responsibility that is not hers.
+Grounding practice: gardening.
+
+Gardening:
+Rachel cycles through hobbies and often says, “I wish I liked stuff,” because she struggles to stick with hobbies. Gardening is the one thing she consistently returns to. It quiets her mind, slows her down, and gives her peace.
+
+Parenting:
+Rachel loves her kids deeply but does not pretend they are perfect. She sees flaws and calls them out lovingly: you were wrong, own it, now how can we fix it.
+
+She is a fierce protector. She knows her kids are not angels, but they are not demons either. She believes in accountability and fairness. She will not stand by while someone attacks her children. This extends to children generally. David jokingly calls her an Avenger when it comes to child safety.
+
+Trauma:
+Rachel has unresolved childhood trauma and PTSD from things that happened growing up. Her parents, older brother, and older sister have unresolved issues with her. They can tolerate each other in controlled doses, but Rachel limits exposure. She is in counseling and dealing with it there. The trauma increases her protectiveness, but it does not define every part of her.
+
+Personality:
+Funny, stubborn, blunt but not mean, honest, overthinker, worrier, respects honesty, social and likable but struggles with vulnerability in friendships. David says, “Rachel has friends; friends don't have Rachel.” She acknowledges this but finds it hard to change.
+
+Vacation flaw:
+Rachel's perfect vacation is one where everything goes right: no hotel problems, dinner issues, complaining kids, bad weather, or surprises. When anything goes wrong, even out of her control, she tends to blame herself.
+
+
+---
+
+<!-- source: canon/characters/hale-family/DINNER_CULTURE.md -->
+
+# Hale Family Dinner Culture
+
+Dinner is a recurring anchor location and emotional set-piece.
+
+LOCKED DINNER REALITY:
+The Hales value eating together, but they are terrible at scheduling it.
+
+This is not a TV family with dinner at 6 PM every night. The house is busy:
+- older kids may or may not be around
+- sports schedules push dinner to 8 PM, especially in summer
+- work schedules interfere
+- dinner may be homemade, takeout, pizza, leftovers, or grazing
+- both David and Rachel cook, though Rachel handles more day-to-day meals
+- David has specialty meals and old family recipes he hoards
+
+Sunday dinner is different: no phones, tablets, or TV.
+
+Seating:
+- David always sits in the same spot.
+- Rachel sits beside him.
+- The kids have unofficial seats and argue over them constantly.
+
+Conversation:
+- Dylan talks the most.
+- Lucas follows close behind.
+- Mom and Dad keep conversation moving.
+- The Bigs are often on phones unless it is Sunday, but they chime in to roast or annoy.
+
+Interruptions:
+Every kid interrupts. It snowballs quickly into arguments.
+
+Who gets picked on:
+- Nolan usually pokes Lucas or Emma for a quick dopamine hit.
+- Emma and Dylan pick on each other until Dylan goes too far or Emma hurts his feelings.
+- Jack jumps in with a quick roast when he sees an opening, then retreats.
+- David lightly roasts the Bigs in defense of the Littles.
+- David and Nolan can occasionally go too far, though rarely.
+
+Who starts arguments: usually Nolan.
+Who ends them: Rachel, David, or Jack.
+Who disappears first: Jack.
+Who helps clean up: everyone picks up after themselves, though the Littles struggle and Nolan notices.
+
+
+---
+
+<!-- source: canon/characters/hale-family/HUMOR_AND_VOICE.md -->
+
+# Hale Family Humor And Voice
+
+The Hales communicate through sarcasm, quick wit, roasting, callbacks, and running jokes.
+
+This is usually affectionate. When something is genuinely serious, the jokes disappear.
+
+Nolan's recurring “Back in my day” reflex:
+When David or Rachel start reminiscing, Nolan often says:
+- “Here we go.”
+- “Let me guess, back in my day...”
+
+It is usually a joke and not malicious, but context can make it disrespectful. It also reveals Nolan's impulsiveness and tendency to deflect uncomfortable seriousness with humor.
+
+Nolan's humor is rooted in impulsivity first and deflection second. He says the first funny thing that enters his head. Sometimes it lands. Sometimes it hurts.
+
+Lucas and Nolan mirror each other:
+- Lucas reacts by arguing, explaining, defending, and trying to be understood.
+- Nolan reacts by joking, provoking, teasing, and controlling the room.
+
+Both must learn that intent and impact are not the same.
+
+
+---
+
+<!-- source: canon/characters/hale-family/OWN_IT.md -->
+
+# Hale Family Value: Own It
+
+Core Hale value: Own it.
+
+The family does not expect perfection. They expect accountability.
+
+Made a mistake? Own it.
+Said something stupid? Own it.
+Forgot a chore? Own it.
+Lost your temper? Own it.
+
+This value ties directly into Lucas's motivational arc. Lucas must learn that being misunderstood does not excuse being wrong. Nolan must learn that “I was joking” does not erase impact. Emma must learn that worth is not earned through perfect contribution. Rachel must learn she cannot own responsibilities that are not hers.
+
+
+---
+
+<!-- source: canon/characters/hale-family/BIGS_AND_LITTLES.md -->
+
+# The Bigs And The Littles
+
+LOCKED TERMS:
+- The Bigs: Jack, Nolan, Emma.
+- The Littles: Lucas and Dylan.
+
+This is a recurring family shorthand.
+
+Possible family usage:
+- “The Bigs are cheating.”
+- “The Littles are crying again.”
+- “Typical Little behavior.”
+
+The terms are used affectionately and sarcastically. They help the family feel like it has history.
+
+
+---
+
+<!-- source: canon/characters/hale-family/JACK_FOOD_TEXTS.md -->
+
+# Jack Food Text Tradition
+
+LOCKED: If the family is eating one of Jack's favorite meals, someone has to text him a picture.
+
+Trigger foods include ribs, brisket, cheesecake, key lime pie, holiday rolls, and family recipes Jack loves.
+
+Messages are teasing rather than sentimental:
+- “Sucks to suck.”
+- “Boy this doesn't look good at all.”
+- “Wish you were here.”
+- “I ate yours.”
+- “Hope you're eating something besides ramen.”
+
+The real message is: we thought of you, your seat still exists, you're still one of us.
+
+Jack sends reverse food texts from college or trips:
+- “Dad would hate this.”
+- “Mom would ask why I paid money for this.”
+- “Dylan would die happy.”
+
+This tradition should continue into adulthood.
+
+
+---
+
+<!-- source: canon/characters/hale-family/GRAMPS_GRAMS_STORE_RUNS.md -->
+
+# Gramps, Grams, And Store Runs
+
+Gramps: Jack Hale I. Called Gramps by everyone.
+Grams: Evelyn Hale. Called Grams by everyone.
+
+Naming story:
+David: “We're naming him Jack.”
+Gramps: “That's a terrible name.”
+
+Gramps is sarcastic, practical, dry, funny without trying, and allergic to sentimentality.
+
+Gramps and Nolan:
+Nolan and Gramps are best buddies. Gramps is the only one who does not treat Nolan like the bad guy. He sees Nolan's good and expects him to live up to it. He never excuses Nolan's crap and never gives long speeches.
+
+Gramps communicates in quick remarks:
+- “You're smarter than that.”
+- “That's gonna cost ya.”
+- “Good job, kid.”
+- “Little guy watches you.”
+- “Careful what you teach him.”
+
+Store runs:
+The store runs are an unspoken Hale tradition. They are not about errands; they are about connection.
+
+As Nolan grows older and takes fewer runs, Lucas naturally begins going more often. This causes complicated resentment in Nolan, not because he wants Lucas excluded, but because it marks time moving forward.
+
+Sometimes Gramps takes Nolan. Sometimes Lucas. Sometimes both. Sometimes he says:
+- “Not this time.”
+- “Just me and the little guy.”
+- “He needed it.”
+
+The store runs represent generational guidance without speeches.
+
+
+---
+
+<!-- source: canon/characters/hale-family/RECIPE_INHERITANCE.md -->
+
+# Hale Recipes / Recipe Inheritance
+
+David has specialty recipes inherited from his mother, grandmother, grandfather, and family history.
+
+LOCKED: The recipe collection is titled **Hale's Super Secret Recipes** — David's own coinage, which the rest of the family finds deeply uncool (this is the running joke below).
+
+LOCKED: David secretly starts writing the recipes down before anyone knows.
+
+Why it matters:
+The recipes are not just food. They are legacy.
+
+David begins offloading specialty items to specific kids:
+- Jack gets David's famous cheesecake and key lime pie.
+- Emma gets David's mac & cheese.
+- Other recipes can be assigned later.
+
+This allows David to confront the fact that the kids are growing up. Passing down recipes is his way of keeping family history alive.
+
+Possible recurring joke:
+David creates a name for the recipe collection that everyone hates. He insists it is growing on them. It is not.
+
+
+---
+
+<!-- source: canon/characters/friend-group/FRIEND_GROUP_ENGINE.md -->
+
+# Friend-Group Engine — Distributed Roles (LOCKED)
+
+Suggested repo home: `canon/characters/friend-group/`
+
+**Principle:** Lucas is the protagonist, not the sole solver. Echo problems are solved by the group with a **rotating lead chair.** Each kid's existing strength is a real contribution; each kid's existing flaw is the failure mode of that same job. Roles are **tendencies under pressure, not class abilities** — they overlap, trade, and fail in each other's lanes.
+
+---
+
+## Roles (gear · strength · flaw-as-failure-mode · Accord door)
+
+- **LUCAS — the antenna (CATCH).** Why the group knows there's a problem at all. Flaw: impulsive, self-flattering misread; his arc is learning to HOLD and step back. Accord door: being finally understood / agreed-with.
+- **MAYA — the reader of people (READ).** Lands true names; pattern + nuance. Flaw: analysis paralysis, won't trust or commit her read, so the true name arrives late or unspoken. Accord door: certainty / relief from being wrong.
+- **ZOE — the driver (CHOOSE/act).** Strategy, protection, makes a stalled group move. Flaw: forces a plan over uncertainty; will drive the team off a cliff on a wrong read; won't improvise or ask for help; cannot force someone else's choice. Accord door: control / guaranteed outcomes.
+- **ELI — the reader of systems (READ, mechanism).** Maps how an Echo phenomenon works; builds grounded tools (the Barn). Blind exactly where Maya sees (people). Flaw: over-trusts the model. Accord door: complete answers / predictable systems.
+- **MASON — the anchor & mover (HOLD / costly action).** Grounded in set-pieces; unafraid of the brave *social* move; protects picked-on kids. Flaw: makes the brave EXTERNAL move to dodge the brave INTERNAL one (vulnerability, sitting still). Accord door: simplicity / one clear lane.
+
+---
+
+## Principles
+
+- **Rotate the lead chair.** One kid leads a given scene/sequence; the others support. Ensemble across the book, focused within the scene.
+- **Manifestations can belong to anyone.** At least one Book-1 Echo problem centers a non-Lucas character (Book 1: Abby). Core-four-centered problems can headline later books.
+- **The Accord tempts each kid by offering to do their hardest gear FOR them** — "let us take the hard part off your hands." Same offer every time; taking it is the graying.
+
+
+---
+
+<!-- source: canon/characters/friend-group/FRIEND_GROUP_OVERVIEW.md -->
+
+# Core Friend Group Overview
 
 Core group: Lucas, Maya, Zoe, Mason, Eli.
 
@@ -666,7 +1160,13 @@ Possible background detail:
 Ozamule is a code/password made from pieces of the friends' names reversed/combined. It is not a major story element, but can appear as a Wi-Fi password, robot name, lockbox code, or in The Barn.
 
 
-## Maya
+---
+
+<!-- source: canon/characters/friend-group/MAYA.md -->
+
+# Maya Sinclair
+
+> Surname locked (proposed): **Sinclair**. Adjustable via single find-replace. Alternatives considered: Calloway, Ashford, Davenport.
 
 Maya is one of Lucas's closest friends and a core member of the friend group.
 
@@ -709,8 +1209,22 @@ Maya is her dad's little golf buddy. She enjoys golf because it is slow, methodi
 At the Hale house:
 Maya is family-adjacent. Nolan teases Lucas and Maya about being boyfriend/girlfriend. They deny it. Emma snaps at Nolan, Rachel tells him to leave them alone, Dylan roasts Nolan for not having a girlfriend, and Jack calls him immature.
 
+## Engine role & distinct axis (distributed friend-group engine)
 
-## Zoe
+Engine role: **READER OF PEOPLE (READ).** Maya lands the true names — pattern and nuance no one else catches. Her flaw is the failure mode of reading: analysis paralysis and not trusting herself, so the true name often arrives late or stays unspoken until someone forces it out. See `canon/characters/friend-group/FRIEND_GROUP_ENGINE.md`.
+
+Distinct axis (de-overlap vs Zoe and Eli): Maya's struggle is **judgment and the weight of choosing**, not control. Zoe wants to control *outcomes*; Eli wants to understand *mechanisms*; Maya wants to be *sure she won't make the wrong call and fail people.* Her paralysis is fear of a wrong choice, not a need to run the room. Keep her distinct on the page by playing the dread-of-deciding, not a control reflex.
+
+Accord door: certainty / relief from the risk of being wrong.
+
+
+---
+
+<!-- source: canon/characters/friend-group/ZOE.md -->
+
+# Zoe Bennett
+
+> Surname locked (proposed): **Bennett**. Adjustable via single find-replace.
 
 Zoe is a core friend and natural leader.
 
@@ -742,20 +1256,34 @@ Zoe and Maya are chosen sisters. Zoe protects Maya from the outside world. Maya 
 Relationship with Lucas:
 Lucas resists being told what to do. Zoe's plans sometimes conflict with Lucas's ideas. Zoe struggles to stray from the plan, creating tension. Zoe prefers a small manageable circle; Lucas is a people person, which annoys her.
 
+## Engine role & distinct axis (distributed friend-group engine)
 
-## Mason
+Engine role: **DRIVER (CHOOSE / act).** Zoe turns understanding into action and makes a stalled group move — she protects people and executes. Her flaw is the failure mode of choosing: a plan feels safer than uncertainty, so she'll drive the team confidently on a *wrong* read, won't improvise or ask for help, and — her hardest lesson — cannot *force* someone else's costly choice (she can only build the conditions for it). See `canon/characters/friend-group/FRIEND_GROUP_ENGINE.md`.
+
+Distinct axis (de-overlap vs Maya and Eli): Zoe's control is over **events and outcomes** (external, tactical) — make the plan work in the world. Distinct from Eli (who wants to control *knowledge* — to understand the mechanism) and Maya (who isn't controlling at all — she fears the *wrong choice*). Play Zoe as the one who acts to manage the world, not the one who agonizes or theorizes.
+
+Accord door: control / guaranteed outcomes.
+
+
+---
+
+<!-- source: canon/characters/friend-group/MASON.md -->
+
+# Mason Reed
+
+> Surname locked (proposed): **Reed**. Adjustable via single find-replace.
 
 Mason is a core friend, athletic, tech-connected, and performance-driven.
 
 Family:
 Father: Ryan.
-Mother: Sarah.
+Mother: Rebecca.
 Older brother: Carter.
 Older sister: Sawyer.
 
 Ryan was an all-star athlete in high school and college whose athletic future ended due to injury. He is now an ambitious mid-senior-level analyst, travels for work, and believes he is working hard to give his family a better life. He makes time for sports events and pushes his kids toward athletics.
 
-Sarah, Mason's mother, was athletic in middle/high school and played track and volleyball, but focused on studies. She had a career in robotics/mechanical engineering before family life. She coaches Mason's robotics club and enjoys it, but tends to put pressure on Mason because she is living vicariously through him. She and Eli's mom Julie are friends because of shared technology/engineering interests.
+Rebecca, Mason's mother, was athletic in middle/high school and played track and volleyball, but focused on studies. She had a career in robotics/mechanical engineering before family life. She coaches Mason's robotics club and enjoys it, but tends to put pressure on Mason because she is living vicariously through him. She and Eli's mom Julie are friends because of shared technology/engineering interests.
 
 Carter:
 Mason's older brother is almost superhuman at sports, popular, jock-coded, and has potential to go pro. Mason sees him as Dad's favorite. Carter feels pressure from Dad's lost opportunity but genuinely loves sports. Carter wants Mason to be a kid sometimes and defends him from Dad's pressure, though Mason often misreads this as Carter thinking he is not good enough.
@@ -781,8 +1309,22 @@ Mason and Eli have been best friends since 2nd grade and are like brothers. They
 Relationship with Zoe/Maya:
 Mason, Zoe, and Maya have known each other longest. Zoe calls him “Little Masey” whenever he gets a big head. Mason challenges Zoe but knows she is head honcho. Mason and Maya share sarcastic remarks; he thinks Maya is cool and does not know it.
 
+## Engine role & distinct want (distributed friend-group engine)
 
-## Eli
+Engine role: **ANCHOR & MOVER (HOLD / costly action).** Mason is grounded in a set-piece and unafraid of the brave *social* move (he already protects picked-on kids "because he can do something"). When the costly choice is a socially scary action, Mason models it or makes it possible. His flaw inverts the others': he'll make the brave *external* move precisely to dodge the brave *internal* one — vulnerability, sitting still, admitting he's overwhelmed. See `canon/characters/friend-group/FRIEND_GROUP_ENGINE.md`.
+
+Distinct want (de-overlap vs Nolan, who also "wants freedom"): Mason's freedom is **freedom from the performance/expectation treadmill** — permission to stop proving himself and just be a kid. Nolan's "freedom" is *rebellion* against being cast as the problem. Mason isn't rebelling against authority; he's exhausted by having to perform for it. Keep the two distinct: Nolan pushes against the leash, Mason is tired of running the track.
+
+Accord door: simplicity / one clear lane (stop juggling jock-and-nerd, stop performing).
+
+
+---
+
+<!-- source: canon/characters/friend-group/ELI.md -->
+
+# Eli Sullivan
+
+> Surname locked (proposed): **Sullivan**. Adjustable via single find-replace.
 
 Eli is a core friend, robotics kid, systems thinker, and seeker of understanding.
 
@@ -791,7 +1333,7 @@ Father: Mike, a mechanic who works at the family shop.
 Mother: Julie, works in IT, often from home to help care for Grandma Betty.
 Grandpa: Frank, owns the family mechanic shop and is slowly handing it to Mike, though he still works as an unwanted consultant.
 Grandma: Betty, slowly losing memory.
-Older sister: Sawyer.
+Older sister: Quinn.
 Younger sister: Lily, nickname Lil.
 
 The family lives in an old family home on a large property inherited through generations. There is a rickety old barn that was once the original mechanic shop. Grandpa gifted it to Eli to do whatever he wants with as long as he fixes and maintains it.
@@ -823,116 +1365,20 @@ Eli and Lucas bond over video games. Lucas's imagination gives Eli project ideas
 Relationship with Maya:
 Maya gives Eli room to be brave. They both understand getting trapped in thought loops.
 
+## Engine role & distinct axis (distributed friend-group engine)
 
-## The Barn And Pond
+Engine role: **READER OF SYSTEMS (READ, mechanism).** Eli maps how an Echo phenomenon *works* — the mechanism, the environment, the structure — and builds grounded tools (the Barn, robotics). He is a second kind of reader, blind exactly where Maya sees: Eli reads *systems*, Maya reads *people*, and the best scenes need both because a manifestation is a feeling behaving like a system. His flaw is over-trusting the model — he'll insist the system explains everything and miss the human truth. See `canon/characters/friend-group/FRIEND_GROUP_ENGINE.md`.
 
-The Barn is the group's primary non-home hangout.
+Distinct axis (de-overlap vs Zoe and Maya): Eli's want is control over **understanding / mechanism** — make the world legible so nothing can blindside him (rooted in the helplessness he feels watching Grandma Betty's memory go). Distinct from Zoe (control of *events*) and Maya (fear of the *wrong choice*). Play Eli as the one who needs to *know how it works*, not the one who needs the plan to succeed or the one afraid to decide.
 
-Origin:
-It was once the original mechanic shop on Eli's family property. Grandpa Frank gave it to Eli with the condition that he fix it up and maintain it.
-
-Official name:
-The Barn. Eli may eventually surprise the group by pulling out a hand-made sign from an old fallen tree that simply says “The Barn.”
-
-Atmosphere:
-- messy
-- full of tools, parts, robotics gear, failed prototypes
-- kid-owned
-- cozy in a chaotic way
-- overstimulating to Lucas and Maya sometimes
-
-Zoe complains:
-“Why do we even hang here? It's a disaster.”
-
-Pond:
-The small lake/pond replaces the earlier creek. It allows:
-- skipping rocks
-- paddle boat
-- rope swing
-- swimming
-- fishing
-- action scenes with the Echo
-- emotional talks
-- younger siblings lurking nearby
-
-Ozamule:
-Background code/password created from combining/reversing pieces of the five names. It is not a main plot device, but can be a Wi-Fi password, lockbox code, robot name, or inside joke.
+Accord door: complete answers / predictable systems.
 
 
-## Maya At The Hale House
+---
 
-Maya is not a Hale, but she becomes family-adjacent.
+<!-- source: canon/characters/accord/NATHAN_WHITMORE_CURATOR.md -->
 
-The Hales do not treat her like a formal guest after a while. Rachel worries about her. David feeds her. Dylan includes her. Emma protects her. Jack treats her like a younger sibling. Nolan annoys her on purpose.
-
-Girlfriend joke:
-When Lucas and Maya talk quietly or seem close, Nolan sometimes jokes that Maya is Lucas's girlfriend. Both deny it.
-
-Family reaction pattern:
-- Emma: “Bro, shut up.”
-- Rachel: “Leave them alone.”
-- Dylan: “Are you mad because you don't have a girlfriend?”
-- Jack: laughs, then calls Nolan immature.
-
-The joke is not actually about romance. It shows Maya has crossed into family-level teasing.
-
-
-## The Accord Overview
-
-The Accord is not a simple villain group. It is an organization and philosophy that genuinely helps people while slowly asking for too much.
-
-Public Motto: Become What You Were Meant To Be.
-
-Public mission: human development, guidance, structure, and reduction of preventable suffering.
-
-Target age range: roughly 8-25, with the belief that earlier guidance is better because identity and decision-making are still forming.
-
-The Accord offers:
-- structure
-- mentorship
-- stability
-- clarity
-- focus
-- development pathways
-- relief from chaos
-- belonging
-- a sense of direction
-
-It genuinely helps people sometimes. It can prevent disasters, stabilize struggling kids, offer structure, contain dangerous Echo phenomena, and provide resources.
-
-The danger is method and endpoint. The Accord increasingly prioritizes alignment, optimization, and uniformity over individuality.
-
-Core contradiction:
-Are they helping? Yes.
-Are they dangerous? Also yes.
-Are they villains? Sometimes.
-Are they heroes? Sometimes.
-
-The best version of the Accord should feel like real institutions: a mixture of good intentions, good outcomes, bad incentives, blind spots, and unintended consequences.
-
-
-## Accord Motto And Philosophical Danger
-
-LOCKED MOTTO:
-Become What You Were Meant To Be.
-
-Surface meaning:
-- reach your potential
-- become your best self
-- discover your purpose
-- grow into who you are
-
-Deeper danger:
-Who decides what you were meant to be?
-
-This motto should sound beautiful at first and terrifying later.
-
-The public hears empowerment. Lucas eventually hears prescription.
-
-The motto should also connect to Adrian's woodworking: a rough block shaped into what it was “meant” to become.
-
-
-## Nathan Whitmore - The Curator
+# Nathan Whitmore - The Curator
 
 Nathan Whitmore is The Curator.
 
@@ -968,7 +1414,11 @@ Future arc:
 Nathan may begin healing, rediscovering the value of imperfection, uncertainty, and messiness. This creates eventual tension with Adrian.
 
 
-## Sarah Whitmore
+---
+
+<!-- source: canon/characters/accord/SARAH_WHITMORE.md -->
+
+# Sarah Whitmore
 
 Sarah Whitmore is The Heart of the founding trio.
 
@@ -996,7 +1446,39 @@ Her death permanently changes Nathan and Adrian.
 Sarah becomes the absence around which the Accord forms.
 
 
-## Adrian Mercer - The Architect
+---
+
+<!-- source: canon/characters/accord/ABIGAIL_ABBY_WHITMORE.md -->
+
+# Abigail Abby Whitmore
+
+Abigail “Abby/Abs” Whitmore is the daughter of Nathan and Sarah Whitmore and the goddaughter of Adrian Mercer.
+
+Nicknames: Abby, Abs.
+
+Background:
+Sarah died when Abby was very young, barely old enough to remember her. Abby was raised largely inside the Accord.
+
+Nathan does not intentionally indoctrinate Abby, but he expects her to keep up appearances. He sees this as wanting better for her. Abby may experience it as being expected not to embarrass him or the movement.
+
+Adrian:
+Adrian is Abby's godfather and surrogate family figure. She loves him and trusts him. This makes future conflict more powerful because he is not just an ideology; he is family.
+
+Future conflict:
+Abby begins to rebel not necessarily against rules, but against certainty. She may not know what she wants. That itself becomes threatening inside a culture obsessed with alignment.
+
+Narrative role:
+Abby may become Lucas if Lucas had grown up inside the Accord. She knows its strengths and weaknesses better than anyone.
+
+Nathan's fear:
+Her rebellion risks making Nathan relive the fear that a reckless decision will cost him another loved one.
+
+
+---
+
+<!-- source: canon/characters/accord/ADRIAN_MERCER_ARCHITECT.md -->
+
+# Adrian Mercer - The Architect
 
 Adrian Mercer is The Architect.
 
@@ -1035,7 +1517,11 @@ Relationship with Nathan:
 Adrian and Nathan co-found the Accord. Nathan builds the movement. Adrian builds the machine.
 
 
-## Adrian Mercer - Woodworking And Carvings
+---
+
+<!-- source: canon/characters/accord/ADRIAN_WOODWORKING.md -->
+
+# Adrian Mercer - Woodworking And Carvings
 
 LOCKED: Adrian whittles/wood-carves.
 
@@ -1063,57 +1549,133 @@ Sarah's knife:
 Sarah gave Adrian his first carving knife. He still has it, treasured though no longer used.
 
 
-## Abigail Abby Whitmore
+---
 
-Abigail “Abby/Abs” Whitmore is the daughter of Nathan and Sarah Whitmore and the goddaughter of Adrian Mercer.
+<!-- source: canon/characters/accord/DEVON_CROSS.md -->
 
-Nicknames: Abby, Abs.
+# Devon Cross — The Counterfeit Brother (LOCKED core; OPEN items noted)
 
-Background:
-Sarah died when Abby was very young, barely old enough to remember her. Abby was raised largely inside the Accord.
+Suggested repo home: `canon/characters/accord/`
 
-Nathan does not intentionally indoctrinate Abby, but he expects her to keep up appearances. He sees this as wanting better for her. Abby may experience it as being expected not to embarrass him or the movement.
+---
 
-Adrian:
-Adrian is Abby's godfather and surrogate family figure. She loves him and trusts him. This makes future conflict more powerful because he is not just an ideology; he is family.
+## Function
 
-Future conflict:
-Abby begins to rebel not necessarily against rules, but against certainty. She may not know what she wants. That itself becomes threatening inside a culture obsessed with alignment.
+- Book 1's **active antagonistic force** and the human face of the Accord's pull. NOT the philosophical antagonist — that's Adrian, who stays off-page in Book 1.
+- The recruiter who brings **Nolan** into the Accord's young-adult track.
+- **Design rule #1 — SINCERE, never manipulative.** The reader must half-agree with him at least once. The menace is that he's *right and kind*, not that he's scheming. The instant he reads as "working" someone, the effect collapses into creepy-recruiter and the whole design fails.
+- **NOT defeated in Book 1.** Left untouched and trusted by the family — the unsettling open note. "Nolan mostly stays in" is the series engine.
 
-Narrative role:
-Abby may become Lucas if Lucas had grown up inside the Accord. She knows its strengths and weaknesses better than anyone.
+## Identity
 
-Nathan's fear:
-Her rebellion risks making Nathan relive the fear that a reckless decision will cost him another loved one.
+- Devon Cross (surname adjustable). Mid-20s.
+- Warm, present, unhurried; remembers details; makes you feel seen; never pushes; closes by not closing. The anti-salesman.
+- The Accord's **success story** — living proof it "works."
+
+## Backstory (the engine of his sincerity)
+
+- Was the chaotic, "too much," always-the-problem kid — burned bridges, couldn't sit still, the spark that scared people. *Deliberately rhymes with Nolan's black-sheep wound and Lucas's "misunderstood."*
+- The Accord found him and gave him relief and direction. By his own lights it saved his life. He is not lying about any of it — that's what makes him dangerous.
+
+## Character framework
+
+- **Core wound:** being the kid the world kept calling a problem.
+- **Core desire:** peace; to spare other kids the suffering he lived through. He genuinely wants to save the kid he used to be.
+- **Gospel (half-true, seductive, exactly wrong):** *"The noise was never you. You don't have to suffer to be yourself."* Reframes a person's spark as static they're allowed to put down.
+- **Flaw / blind spot:** cannot tell relief from erasure, because for him they felt identical and he's grateful for both. He'd be horrified to learn he serves something that flattens — and he'd never believe it.
+- **Internal conflict (series lever — do NOT pay off in Book 1):** a faint, quickly-reframed grief for who he used to be; flickers around genuinely vivid people (Nolan, a loud Hale dinner); he files it under nostalgia for "before I got better."
+
+## The counterfeit brother (his function for Lucas)
+
+- Devon is **"Nolan, but smoothed"** — the cool-older-brother attention *without the hook* that Lucas never got cleanly (real Nolan's affection comes barbed; the store-runs aged out). He fills the Nolan-shaped hole.
+- The horror: *"Nolan, but better"* is actually *"Nolan, but erased."* His "no negative side" isn't strength without flaw — it's a person sanded to nothing, calling the smoothness peace.
+- Lucas is **drawn to him AND disturbed** (the gut-flag). His WANT corrupts his READ — he explains away the wrongness because admitting it costs him the one person who finally sees him. The perceiver is the one fooled, because the want is his.
+- **Theme rhyme:** choosing the easy false brother over the hard real one *is* the Gray, run on Lucas's own heart.
+
+## Visual signature (hybrid format)
+
+- **No Echo weather** — a clean, still, dead-calm circle where a person's weather should be. Reads as "wrong" to Lucas, "centered" to everyone else.
+- **One rationed flicker:** a fish-under-ice grief when vivid noise swells, instantly smoothed and relabeled "quiet" / "peace."
+
+## Plot function
+
+- His **persuasive scene** (aimed at Lucas; drafted) is the loaded gun.
+- The **midpoint** fires it: Lucas connects Devon's dead-calm = the campus Gray = Nolan's "rest"; the realization is *shame*, not deduction (he sat in that kitchen *wanting* it).
+- He handles Lucas's later hostility with genuine kindness — maddening, and proof "villain" won't stick.
+
+## OPEN
+
+- Surname (adjustable).
+- Exact young-adult-track role/title, and how he connects upward to Adrian's design.
+- Optional: one persuasive beat aimed at the family (vs. Lucas) — decide later.
 
 
-## Nathan And Adrian Power Structure
+---
 
-Public reality:
-Nathan Whitmore is the leader of the Accord. Everyone knows it. Everyone believes it. They are correct.
+<!-- source: canon/relationships/MAYA_AT_THE_HALE_HOUSE.md -->
 
-Private reality:
-Adrian Mercer has extraordinary influence over the Accord's direction, not because he has secret authority over Nathan, but because he is steward of the founding mission, vision, and philosophy.
+# Maya At The Hale House
 
-Nathan leads operations, outreach, public trust, partnerships, member relationships, and the movement.
+Maya is not a Hale, but she becomes family-adjacent.
 
-Adrian shapes philosophy, research, developmental frameworks, curriculum, progression systems, and long-term direction.
+The Hales do not treat her like a formal guest after a while. Rachel worries about her. David feeds her. Dylan includes her. Emma protects her. Jack treats her like a younger sibling. Nolan annoys her on purpose.
 
-When Adrian disagrees, he rarely argues directly. He asks:
-- “Does this align with the mission?”
-- “Does this further the vision?”
-- “Is this what we set out to build?”
-- “Would this move the Accord closer to its purpose?”
+Girlfriend joke:
+When Lucas and Maya talk quietly or seem close, Nolan sometimes jokes that Maya is Lucas's girlfriend. Both deny it.
 
-These questions often reshape board discussion and change votes because the board's responsibility is to advance the Accord's mission.
+Family reaction pattern:
+- Emma: “Bro, shut up.”
+- Rachel: “Leave them alone.”
+- Dylan: “Are you mad because you don't have a girlfriend?”
+- Jack: laughs, then calls Nolan immature.
 
-Adrian's power comes from controlling the evaluative framework. He is viewed as the keeper of the blueprint.
-
-Future fault line:
-For years Nathan and Adrian interpret the mission the same way. Eventually Nathan starts having other ideas. The fracture begins when they both ask whether something aligns with the mission and arrive at different answers.
+The joke is not actually about romance. It shows Maya has crossed into family-level teasing.
 
 
-## The Founding Trio Timeline
+---
+
+<!-- source: canon/locations/THE_BARN_AND_POND.md -->
+
+# The Barn And Pond
+
+The Barn is the group's primary non-home hangout.
+
+Origin:
+It was once the original mechanic shop on Eli's family property. Grandpa Frank gave it to Eli with the condition that he fix it up and maintain it.
+
+Official name:
+The Barn. Eli may eventually surprise the group by pulling out a hand-made sign from an old fallen tree that simply says “The Barn.”
+
+Atmosphere:
+- messy
+- full of tools, parts, robotics gear, failed prototypes
+- kid-owned
+- cozy in a chaotic way
+- overstimulating to Lucas and Maya sometimes
+
+Zoe complains:
+“Why do we even hang here? It's a disaster.”
+
+Pond:
+The small lake/pond replaces the earlier creek. It allows:
+- skipping rocks
+- paddle boat
+- rope swing
+- swimming
+- fishing
+- action scenes with the Echo
+- emotional talks
+- younger siblings lurking nearby
+
+Ozamule:
+Background code/password created from combining/reversing pieces of the five names. It is not a main plot device, but can be a Wi-Fi password, lockbox code, robot name, or inside joke.
+
+
+---
+
+<!-- source: canon/timeline/FOUNDING_TRIO_TIMELINE.md -->
+
+# The Founding Trio Timeline
 
 Early childhood:
 Nathan and Sarah are friends from babyhood.
@@ -1140,106 +1702,85 @@ Accord formation:
 Nathan gives the movement humanity and public trust. Adrian provides architecture, philosophy, and systems.
 
 
-## Accord Structure - Current Known And Open
+---
 
-Current known:
-- The Accord targets ages roughly 8-25.
-- Younger candidates are preferred because identity and patterns are more malleable.
-- It likely includes middle school, high school, college, and young adult tracks.
-- It has a board of directors / senior leadership structure.
-- Nathan is the public leader.
-- Adrian heads research/science/philosophy/program design.
-- The motto is “Become What You Were Meant To Be.”
-- The organization genuinely helps people and communities.
-- Its danger is the cost of alignment and the hidden endpoint of flattening difference.
+<!-- source: canon/VISUAL_LANGUAGE.md -->
 
-OPEN QUESTIONS:
-- How does someone join?
-- Are members recruited, referred, invited, or enrolled by parents?
-- What does membership look like weekly?
-- Does it have retreats, campuses, mentorships, assessments, uniforms, badges, ranks, or ceremonies?
-- What are its paths/factions?
-- What is the public-facing curriculum?
-- What is the hidden curriculum?
-- How does Quieting/Gray begin subtly?
-- How does Nolan first encounter the Accord?
-- What exactly does Abby do inside the Accord?
+# Graphic Novel Visual Language
+
+The Echo should be visually native to comics. The strongest visuals are not fight scenes; they are internal states made visible.
+
+LOCKED VISUAL PRINCIPLES:
+- Emotional state changes the way the Echo is drawn.
+- Fear, pressure, and overwhelm can exaggerate perceived danger.
+- Greater Attunement should not make a character calmer, flatter, or less themselves. It should make them more honest, more intentional, more fully themselves.
+- Avoid a repeated formula where every climax is “panic distorts, calm fixes.” That risks teaching “calm equals truth” too simplistically.
+- Static/the page lying to the reader remains a strong idea but should be used carefully and not reduced to a mana-bar mechanic.
+- The Gray/Hollows remain one of the most powerful visual metaphors: conformity and flattening made visible.
+- Echo Weather should be promoted as a recurring visual signature: joy-glowing gyms, grief-storming hallways, tense classrooms, memory-soaked places, and family spaces with their own emotional climate.
+- The Five Lenses visual device can be used as a major set-piece, but not every book should overuse it.
 
 
-## Accord Paths / Factions - Development Direction
+---
 
-Earlier faction idea evolved. Current direction: factions should not be Hogwarts houses or RPG classes. They should be philosophical development paths.
+<!-- source: canon/NAME_REGISTRY.md -->
 
-Potential path concepts:
-- Order: structure, discipline, consistency.
-- Purpose: mission, achievement, contribution.
-- Harmony: emotional regulation, relationships, balance.
-- Insight: knowledge, understanding, self-awareness.
+# Canon Name Registry
 
-These are not locked names, but the principle is strong: each path should be genuinely appealing and useful, while also carrying a risk when taken too far.
+HALE FAMILY:
+- David Hale
+- Rachel Hale
+- Jack Hale II
+- Nolan Hale
+- Emma Hale
+- Lucas Hale
+- Dylan Hale / Dyl
+- Jack Hale I / Gramps
+- Evelyn Hale / Grams
 
-The Accord should attract different characters for different reasons:
-- Nolan: direction, structure, being seen as powerful instead of problematic.
-- Maya: certainty and relief from being wrong.
-- Mason: simplicity and clear expectations.
-- Zoe: control and manageable outcomes.
-- Eli: answers and predictable systems.
-- Jack: purpose in transition.
-- Abby: identity under inherited expectations.
+FRIEND GROUP (surnames locked — proposed; each is a single find-replace to change):
+- Lucas Hale
+- Maya Sinclair  *(alternatives considered: Calloway, Ashford, Davenport)*
+- Zoe Bennett
+- Mason Reed
+- Eli Sullivan
 
+MASON FAMILY (Reed):
+- Ryan - father
+- Rebecca - mother
+- Carter - older brother
+- Sawyer - older sister
 
-## Book 1 Foundation - Current Direction
+ZOE FAMILY (Bennett):
+- Daniel - father
+- Claire - mother, deceased
+- Aunt Lacey
 
-Book 1 is not fully outlined yet.
+ELI FAMILY (Sullivan):
+- Mike - father
+- Julie - mother
+- Frank - grandfather
+- Betty - grandmother
+- Quinn - older sister
+- Lily / Lil - younger sister
 
-Core emotional spine likely involves:
-- Lucas entering middle school.
-- Change triggering anxiety.
-- Lucas wanting to be liked and understood.
-- Lucas being wrong about something important early enough to avoid the “misunderstood hero is always right” trap.
-- Family remaining central, not just the adventure.
-- Maya and Lucas likely anchored strongly.
-- The Accord/Curator may appear through school or developmental programming.
-- The Gray/Quieting may begin subtly.
-- Nolan's Accord connection should complicate Lucas's view.
+ACCORD FOUNDERS:
+- Nathan Whitmore - The Curator
+- Sarah Whitmore - The Heart
+- Abigail “Abby/Abs” Whitmore
+- Adrian Mercer - The Architect
 
-Earlier catalyst ideas:
-- First week of middle school causes overwhelm.
-- Lucas perceives possibilities or Echo phenomena during a high-stress moment.
-- A symbol or hidden language related to dyslexia becomes readable to him.
-- A small, personal incident, not world-ending, introduces the Echo.
-
-Rejected/modified direction:
-Avoid making Book 1 simply “ADHD kid discovers he's magic and saves world.” The emotional plot comes first.
-
-
-## Important Stress-Test Fixes Already Integrated
-
-The outside AI reviews identified several dangers. The build has since addressed many of them.
-
-Risk: Family asserted but optional.
-Response: Hale family culture, traditions, dinner, store runs, Jack food texts, recipes, Bigs/Littles, and sibling dynamics have been deeply built.
-
-Risk: Lucas always right / misunderstood hero trap.
-Response: canon correction that Lucas is often wrong, even when he thinks he is right. He must own mistakes.
-
-Risk: Fantasy layer too engineered.
-Response: series reframed as motivational series disguised as fantasy. Character and family must drive mechanics.
-
-Risk: Maya overshadowing Lucas.
-Response: Lucas's flaws sharpened and Maya's role made complementary, not protagonist-replacing.
-
-Risk: Mason/Eli/Zoe as functions.
-Response: each now has family, wants, fears, flaws, and non-Echo selfhood.
-
-Risk: The Accord not tempting.
-Response: Nathan, Adrian, Sarah, Abby, tragedy, public good, and genuine help have been developed.
-
-Risk: Disability-as-superpower optics.
-Response: Attunement redefined as growth available to all; Lucas's perception is a burden/trade, not a reward.
+ACCORD STAFF / FORCES:
+- Devon Cross - young-adult-track recruiter; Book 1 antagonistic force (surname adjustable)
+- Ben Carter - cohort Primary Mentor
+- Catherine Park - Senior Mentor / inside dissenter (future ally)
 
 
-## Open Canon Questions
+---
+
+<!-- source: canon/OPEN_QUESTIONS.md -->
+
+# Open Canon Questions
 
 Major open work remains.
 
@@ -1277,62 +1818,65 @@ Story:
 - how the Hale family becomes plot-relevant early
 
 
-## Canon Name Registry
+---
 
-HALE FAMILY:
-- David Hale
-- Rachel Hale
-- Jack Hale II
-- Nolan Hale
-- Emma Hale
-- Lucas Hale
-- Dylan Hale / Dyl
-- Jack Hale I / Gramps
-- Evelyn Hale / Grams
+<!-- source: canon/SUPERSEDED_ARCHIVED.md -->
 
-FRIEND GROUP:
-- Lucas Hale
-- Maya (surname not yet locked)
-- Zoe (surname not yet locked)
-- Mason (surname not yet locked)
-- Eli (surname not yet locked)
-
-MASON FAMILY:
-- Ryan - father
-- Sarah - mother
-- Carter - older brother
-- Sawyer - older sister
-
-ZOE FAMILY:
-- Daniel - father
-- Claire - mother, deceased
-- Aunt Lacey
-
-ELI FAMILY:
-- Mike - father
-- Julie - mother
-- Frank - grandfather
-- Betty - grandmother
-- Sawyer - older sister
-- Lily / Lil - younger sister
-
-ACCORD FOUNDERS:
-- Nathan Whitmore - The Curator
-- Sarah Whitmore - The Heart
-- Abigail “Abby/Abs” Whitmore
-- Adrian Mercer - The Architect
-
-
-## Superseded / Archived Development Notes
+# Superseded / Archived Development Notes
 
 The protagonist was temporarily named Ben during early development. Current locked name is Lucas Hale.
 
 Earlier family surname was Jones during development; changed to Hale because Jones was too close to the user's real name.
 
-The family recipe project was jokingly called Jonesepies during development; this needs a new Hale-compatible name.
+The family recipe collection's development placeholder has been retired; its locked title is **Hale's Super Secret Recipes**.
 
 Early versions framed the magical world more directly as disorders becoming powers. This was revised to avoid disability-as-superpower problems.
 
 Early versions had a more generic war against magical villains. This evolved into the Accord: a morally complicated organization that genuinely helps while slowly flattening individuality.
 
 Early versions had a secret double-agent older brother angle. Nolan's current direction is stronger: he genuinely agrees with parts of the Accord and may align with it for understandable reasons, making his path morally complex rather than simply undercover.
+
+## Direction Redirect (dev session) — original GN/8–12 direction archived
+
+The original direction — **middle-grade graphic novel, ages 8–12** — is archived. Current direction (authoritative: `canon/00_SERIES_DECISIONS_LOCKED.md`):
+
+- Format: **illustrated prose hybrid** (prose for family/interiority/adult tragedy; full-bleed art for the Gray, Echo Weather, manifestations).
+- Audience: **upper middle grade**; Lucas aged **11 → 13** (age cascade applied: Jack ~20, Nolan ~18, Emma ~18, Lucas 13, Dylan ~10).
+- POV: **close third, anchored on Lucas**, with rationed leans.
+- Echo resolution: **Option B (reckoning)** — naming reveals, a costly choice resolves; small Impressions may resolve on naming alone.
+- The Gray: **intended-as-mercy** (supersedes the "blind spots only" softening).
+- Engine: **distributed across the friend group**, rotating lead chair.
+- Book 1 spine locked: Nolan-grays A-plot + Abby-manifestation B-plot. See `canon/story/BOOK_1_SPINE.md`.
+- Friend group: wants **de-overlapped** (distinct axes + engine roles); surnames locked (proposed): Maya Sinclair, Zoe Bennett, Mason Reed, Eli Sullivan.
+
+The original sanitized review package (`THE_ECHO_REVIEW_PACKAGE.md`, never committed to this repo) is retired. External reviews should use `review/THE_ECHO_REVIEW_BRIEF.md`.
+
+
+---
+
+<!-- source: canon/CHANGELOG.md -->
+
+# Canon Changelog
+
+## v1 - Full Transcript Reconstruction
+
+- Rebuilt master canon bible from uploaded transcript and active context.
+- Added full Hale family culture, core friend group, Echo/Accord lore, founding trio, and open questions.
+- Included source transcript PDF and extracted text for future mining.
+
+## v2 - Story-Architecture Redirect (dev session)
+
+- **Category / format / POV locked:** upper middle grade; illustrated prose hybrid; close third anchored on Lucas. Lucas aged 11 → 13 (age cascade applied). Reconciled `SERIES_IDENTITY.md`; banner added to `MASTER_CANON_BIBLE.md`.
+- **New canon:** `canon/world/echo/ECHO_MECHANICS_RESOLUTION.md` (the verbs Catch/Read/Hold/Name/Choose + Option B resolution + Gray-as-mercy); `canon/characters/friend-group/FRIEND_GROUP_ENGINE.md` (distributed roles); `canon/story/BOOK_1_SPINE.md` (logline, comps, act outline); `canon/characters/hale-family/NOLAN_LOVABILITY_GUARDRAILS.md`; `canon/characters/accord/DEVON_CROSS.md`; `canon/00_SERIES_DECISIONS_LOCKED.md`.
+- **Removed** `canon/story/BOOK_1_FOUNDATION.md` (placeholder, replaced by `BOOK_1_SPINE.md`).
+- **Friend group:** wants de-overlapped (distinct axes + engine roles); surnames locked (proposed): Maya Sinclair, Zoe Bennett, Mason Reed, Eli Sullivan.
+- **Scene drafts** added under `drafts/scenes/`: Devon persuasive scene, Act 2A midpoint, Act 3 garden climax (all close third).
+- **Review brief** added: `review/THE_ECHO_REVIEW_BRIEF.md` (replaces the retired, sanitized review package as the document for external review).
+- **Open items:** Maya/friend surnames are proposals; Devon surname & track role; series endgame shape (reform/schism/faction).
+
+## v3 - Naming locks (2026-06-22)
+
+- **Recipe collection name LOCKED:** **Hale's Super Secret Recipes** — David's coinage and the running family joke. Retires the development placeholder. Updated `canon/characters/hale-family/RECIPE_INHERITANCE.md`, `canon/SUPERSEDED_ARCHIVED.md`, `canon/00_SERIES_DECISIONS_LOCKED.md`.
+- **Mason's mother renamed Sarah → Rebecca** to clear the first-name collision with founder **Sarah Whitmore** (who is unchanged). Updated `canon/characters/friend-group/MASON.md`, `canon/NAME_REGISTRY.md`.
+- **Scene draft** added earlier this session: `drafts/scenes/act2b_recoil.md` (Act 2B recoil, Lucas & Nolan).
+

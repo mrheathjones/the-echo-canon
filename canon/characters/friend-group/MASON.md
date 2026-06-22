@@ -1,18 +1,18 @@
 # Mason Reed
 
-> Surname locked (proposed): **Reed**. Adjustable via single find-replace. (Note: his mother is currently "Sarah," which collides with founder Sarah Whitmore — flagged in NAME_REGISTRY as OPEN.)
+> Surname locked (proposed): **Reed**. Adjustable via single find-replace.
 
 Mason is a core friend, athletic, tech-connected, and performance-driven.
 
 Family:
 Father: Ryan.
-Mother: Sarah.
+Mother: Rebecca.
 Older brother: Carter.
 Older sister: Sawyer.
 
 Ryan was an all-star athlete in high school and college whose athletic future ended due to injury. He is now an ambitious mid-senior-level analyst, travels for work, and believes he is working hard to give his family a better life. He makes time for sports events and pushes his kids toward athletics.
 
-Sarah, Mason's mother, was athletic in middle/high school and played track and volleyball, but focused on studies. She had a career in robotics/mechanical engineering before family life. She coaches Mason's robotics club and enjoys it, but tends to put pressure on Mason because she is living vicariously through him. She and Eli's mom Julie are friends because of shared technology/engineering interests.
+Rebecca, Mason's mother, was athletic in middle/high school and played track and volleyball, but focused on studies. She had a career in robotics/mechanical engineering before family life. She coaches Mason's robotics club and enjoys it, but tends to put pressure on Mason because she is living vicariously through him. She and Eli's mom Julie are friends because of shared technology/engineering interests.
 
 Carter:
 Mason's older brother is almost superhuman at sports, popular, jock-coded, and has potential to go pro. Mason sees him as Dad's favorite. Carter feels pressure from Dad's lost opportunity but genuinely loves sports. Carter wants Mason to be a kid sometimes and defends him from Dad's pressure, though Mason often misreads this as Carter thinking he is not good enough.

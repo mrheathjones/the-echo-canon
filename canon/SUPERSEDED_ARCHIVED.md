@@ -4,7 +4,7 @@ The protagonist was temporarily named Ben during early development. Current lock
 
 Earlier family surname was Jones during development; changed to Hale because Jones was too close to the user's real name.
 
-The family recipe project was jokingly called Jonesepies during development; this needs a new Hale-compatible name.
+The family recipe collection's development placeholder has been retired; its locked title is **Hale's Super Secret Recipes**.
 
 Early versions framed the magical world more directly as disorders becoming powers. This was revised to avoid disability-as-superpower problems.
 
