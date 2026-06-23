@@ -10,6 +10,9 @@ Gramps: “That's a terrible name.”
 
 Gramps is sarcastic, practical, dry, funny without trying, and allergic to sentimentality.
 
+Grams and Rachel (handle with care):
+The complicated family history is on **Grams's** side, not Gramps's. Rachel's childhood trauma traces mainly to her relationship with her mother (Grams) growing up — see `RACHEL_HALE.md`. They've mended some of it and are genuinely affectionate on the surface, but it runs in controlled doses; Rachel bites her tongue to keep the peace, and too much consecutive time frays. Gramps is unentangled from this and stays the family's warm anchor. (Don't paint Grams as a villain — the warmth is real; the history just sits underneath it.)
+
 Gramps and Nolan:
 Nolan and Gramps are best buddies. Gramps is the only one who does not treat Nolan like the bad guy. He sees Nolan's good and expects him to live up to it. He never excuses Nolan's crap and never gives long speeches.
 

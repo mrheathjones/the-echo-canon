@@ -4,7 +4,7 @@ Suggested repo home: `canon/characters/hale-family/` (alongside `NOLAN_HALE.md` 
 
 **What this is.** How Nolan takes the turn at the bottom of the Hale driveway (and its twin, the corner by the gas station) is the staged, physical readout of his interior graying. It is the load-bearing instance of the "heartbeat monitor" tell named in `NOLAN_LOVABILITY_GUARDRAILS.md` (guardrail 6). Treat it as a **tuning fork**: calibrate every appearance to where Nolan is on the arc, and spend it deliberately — never as set dressing.
 
-**The reference point is Gramps.** The slow, four-mph, both-hands, narrated turn is *Gramps's* turn (Jack Hale I — see `GRAMPS_GRAMS_STORE_RUNS.md`). Nolan driving like Gramps is the alarm, because the reckless brother never drove like Gramps.
+**The reference point is Gramps.** The slow, four-mph, both-hands, narrated turn is *Gramps's* turn (Jack Miller — see `GRAMPS_GRAMS_STORE_RUNS.md`). Nolan driving like Gramps is the alarm, because the reckless brother never drove like Gramps.
 
 ## The three states
 
