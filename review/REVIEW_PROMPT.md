@@ -1,9 +1,10 @@
 # THE ECHO — Reviewer Prompt
 
 Paste the prompt below into a capable AI (ideally a *different* model than the one used to
-build the project), then attach or paste `review/THE_ECHO_REVIEW_BRIEF.md` and the files it
-names (at minimum the three `drafts/scenes/` files, `canon/story/BOOK_1_SPINE.md`,
-`canon/world/echo/ECHO_MECHANICS_RESOLUTION.md`, `canon/characters/friend-group/FRIEND_GROUP_ENGINE.md`,
+build the project), then attach or paste `review/THE_ECHO_REVIEW_BRIEF.md` (v3) and the files it
+names (at minimum the eight `drafts/scenes/` files, `canon/00_SERIES_DECISIONS_LOCKED.md`,
+`canon/story/BOOK_1_SPINE.md`, `canon/world/echo/ECHO_MECHANICS_RESOLUTION.md`,
+`canon/world/accord/POWER_STRUCTURE.md`, `canon/characters/friend-group/FRIEND_GROUP_ENGINE.md`,
 `canon/characters/accord/DEVON_CROSS.md`, `canon/characters/hale-family/NOLAN_LOVABILITY_GUARDRAILS.md`).
 
 ---
@@ -20,13 +21,14 @@ and recommend stronger alternatives — and always explain WHY something works o
 Be brutally honest. Do not protect my feelings. Prioritize story quality over everything.
 
 WHAT YOU'RE REVIEWING
-A Book 1 story architecture plus three proof-of-concept scenes for an UPPER-MIDDLE-GRADE,
-illustrated-prose-hybrid fantasy called "The Echo." This is not a finished manuscript.
-An earlier review judged that the project had "an extraordinary bible and no story";
-that gap has since been closed — there is now a locked spine, a defined magic system, a
-Book 1 antagonist, and early prose. Judge the STRENGTH AND EXECUTION of the current
-direction, not the absence of a finished draft. The attached REVIEW BRIEF is
-authoritative and supersedes any older summary. Where source files conflict, the
+A Book 1 story architecture plus its 8-scene load-bearing skeleton for an UPPER-MIDDLE-GRADE,
+illustrated-prose-hybrid fantasy called "The Echo." This is not a finished manuscript (the book
+is ~1/3 drafted; Act 1 and most connective tissue are unwritten by plan). An earlier review
+judged that the project had "an extraordinary bible and no story"; that gap is now closed —
+there is a locked spine, a defined magic system, a Book 1 antagonist, a locked multi-book
+series engine + endgame, and the full set of pivotal scenes drafted. Judge the STRENGTH AND
+EXECUTION of the current direction, not the absence of a finished draft. The attached REVIEW
+BRIEF (v3) is authoritative and supersedes any older summary. Where source files conflict, the
 locked-decisions file wins.
 
 THINK AT THREE LEVELS, and tag which level each note addresses:
@@ -53,10 +55,12 @@ SCRUTINIZE THESE SEVEN AREAS HARD — I want pressure here, not reassurance:
 	scent escape in the scenes?
 6. ADHD/DYSLEXIA REP: perception-as-burden, hero-is-often-wrong — handled with care, or is
 	there any shaming or secret-superpower drift?
-7. SERIES ENDGAME (genuinely unresolved — argue it out): a non-evil institution can't take
-	a final battle. Make the strongest case for the endgame shape — reform, schism, or a
-	faction breaking bad — and name the "second clock" that drives the series once the
-	founding grief resolves.
+7. SERIES ENGINE + ENDGAME (now LOCKED — pressure-test, don't re-propose): the "second clock"
+	is a lever-split (Adrian = the Gray's design, Nathan = its scale/reach) where Nathan's
+	*healing* accelerates the spread — "the healed founder is more dangerous" — and the endgame
+	is a SCHISM between those who can hold not-knowing and those who can't. Is this engine sound
+	and dramatizable across multiple books, or clever-on-paper? Where is it weakest? (see
+	`canon/00_SERIES_DECISIONS_LOCKED.md` 8-9 and `canon/world/accord/POWER_STRUCTURE.md`)
 
 DELIVER, in this order:
 1. A 3-5 sentence overall assessment — the honest headline.
@@ -72,4 +76,4 @@ consistency, theme execution, and long-term viability. If something is genuinely
 say so briefly and spend your words on what to improve.
 
 If you can only review a subset of the materials, prioritize in this order: the REVIEW
-BRIEF, the three scene drafts, the Book 1 spine, and the Echo mechanics file.
+BRIEF, the scene drafts, the Book 1 spine, the series-decisions file, and the Echo mechanics file.
