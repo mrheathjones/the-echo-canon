@@ -1,4 +1,4 @@
-# Devon Cross — The Counterfeit Brother (LOCKED core; OPEN items noted)
+# Devon Cross — The Counterfeit Brother (LOCKED; one optional beat deferred)
 
 Suggested repo home: `canon/characters/accord/`
 
@@ -11,9 +11,15 @@ Suggested repo home: `canon/characters/accord/`
 - **Design rule #1 — SINCERE, never manipulative.** The reader must half-agree with him at least once. The menace is that he's *right and kind*, not that he's scheming. The instant he reads as "working" someone, the effect collapses into creepy-recruiter and the whole design fails.
 - **NOT defeated in Book 1.** Left untouched and trusted by the family — the unsettling open note. "Nolan mostly stays in" is the series engine.
 
+## Role & place in the structure (LOCKED)
+
+- Title: a young-adult-track **Guide** — the Accord's word, not "recruiter" (too corporate for a sincere institution). The first human contact for a prospective young-adult-track member: the one who "walked the path and came back" for the kid he used to be.
+- He sits on the **outreach / reach** side of the Accord — **Nathan's lever** in the second clock (`canon/00_SERIES_DECISIONS_LOCKED.md` decision 8; `canon/world/accord/POWER_STRUCTURE.md`). How far the Gray spreads runs through Guides like him; as Nathan heals and the reach accelerates (Phase 1), they are the edge of that spread.
+- **No line to Adrian.** Devon doesn't know the Architect exists. He is shaped by a design he can't see and would never believe flattens anyone — he connects "upward" only through outreach, a fingerprint of Adrian's design (like the campus carvings), never a confidant of it. This is what keeps Adrian off-page in Book 1.
+
 ## Identity
 
-- Devon Cross (surname adjustable). Mid-20s.
+- Devon Cross — surname **locked** (the crossing-over / crossroads / double-cross resonance fits the counterfeit brother). Mid-20s.
 - Warm, present, unhurried; remembers details; makes you feel seen; never pushes; closes by not closing. The anti-salesman.
 - The Accord's **success story** — living proof it "works."
 
@@ -50,6 +56,4 @@ Suggested repo home: `canon/characters/accord/`
 
 ## OPEN
 
-- Surname (adjustable).
-- Exact young-adult-track role/title, and how he connects upward to Adrian's design.
-- Optional: one persuasive beat aimed at the family (vs. Lucas) — decide later.
+- Optional: one persuasive beat aimed at the family (vs. Lucas) — decide later. *(Surname and track-role are now locked — see above.)*

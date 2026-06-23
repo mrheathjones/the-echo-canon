@@ -50,7 +50,7 @@ _Generated: 2026-06-22 · 52 source files._
 39. Abigail Abby Whitmore  —  `canon/characters/accord/ABIGAIL_ABBY_WHITMORE.md`
 40. Adrian Mercer - The Architect  —  `canon/characters/accord/ADRIAN_MERCER_ARCHITECT.md`
 41. Adrian Mercer - Woodworking And Carvings  —  `canon/characters/accord/ADRIAN_WOODWORKING.md`
-42. Devon Cross — The Counterfeit Brother (LOCKED core; OPEN items noted)  —  `canon/characters/accord/DEVON_CROSS.md`
+42. Devon Cross — The Counterfeit Brother (LOCKED; one optional beat deferred)  —  `canon/characters/accord/DEVON_CROSS.md`
 43. Maya At The Hale House  —  `canon/relationships/MAYA_AT_THE_HALE_HOUSE.md`
 44. The Barn And Pond  —  `canon/locations/THE_BARN_AND_POND.md`
 45. The Founding Trio Timeline  —  `canon/timeline/FOUNDING_TRIO_TIMELINE.md`
@@ -152,7 +152,7 @@ Suggested repo home: `canon/` (top level, alongside the bible).
 ## Still OPEN (action items)
 
 - **Maya's surname** — locked (proposed): **Sinclair** (must NOT be "Whitmore," which collides with the founding family). Adjustable via a single find-replace; finalize before print.
-- **Devon Cross** — sincere Accord young-adult-track recruiter; Book 1's active antagonistic force. Full build in progress (persuasive scene drafted; surname & track-role still open).
+- **Devon Cross** — sincere Accord young-adult-track **Guide**; Book 1's active antagonistic force. Core + surname (**Cross**) + track-role (**Guide**, on Nathan's reach lever; no Adrian line) locked; persuasive scene drafted. Only an optional family-aimed beat remains (deferred).
 
 
 ---
@@ -179,19 +179,7 @@ The series should help readers become braver, more accountable, more patient, mo
 
 The series is not about validating every impulse. It must repeatedly show that Lucas is not always right. He may think he is right, and he may desperately want to be understood, but factually he is often wrong. His growth depends on owning that.
 
-Key lesson structure:
-- Lucas: being misunderstood does not mean you are right.
-- Emma: you do not have to earn your worth.
-- Nolan: manipulation is not connection.
-- Rachel: you cannot protect people from every struggle.
-- Jack: growing up does not mean leaving home behind.
-- Dylan: keep possibility alive without assuming everyone means well.
-- Maya: peace does not come from perfect certainty.
-- Zoe: control is not the same as safety.
-- Mason: freedom requires vulnerability.
-- Eli: understanding is not the same as control.
-- Nathan: forgiveness cannot be replaced by prevention.
-- Adrian: not every human problem can be engineered away.
+> The former per-character **"Key lesson structure"** matrix has been moved out of canon to a private author-intent note (`notes/AUTHOR_INTENT_LESSON_MATRIX.md`) — a one-lesson-per-character list is a preaching liability and must never surface as prose. The truths live, dramatized, in each character's dossier and in the LOCKED CORE THEMES above. Do not re-add the matrix here.
 
 
 ---
@@ -1586,7 +1574,7 @@ Sarah gave Adrian his first carving knife. He still has it, treasured though no 
 
 <!-- source: canon/characters/accord/DEVON_CROSS.md -->
 
-# Devon Cross — The Counterfeit Brother (LOCKED core; OPEN items noted)
+# Devon Cross — The Counterfeit Brother (LOCKED; one optional beat deferred)
 
 Suggested repo home: `canon/characters/accord/`
 
@@ -1599,9 +1587,15 @@ Suggested repo home: `canon/characters/accord/`
 - **Design rule #1 — SINCERE, never manipulative.** The reader must half-agree with him at least once. The menace is that he's *right and kind*, not that he's scheming. The instant he reads as "working" someone, the effect collapses into creepy-recruiter and the whole design fails.
 - **NOT defeated in Book 1.** Left untouched and trusted by the family — the unsettling open note. "Nolan mostly stays in" is the series engine.
 
+## Role & place in the structure (LOCKED)
+
+- Title: a young-adult-track **Guide** — the Accord's word, not "recruiter" (too corporate for a sincere institution). The first human contact for a prospective young-adult-track member: the one who "walked the path and came back" for the kid he used to be.
+- He sits on the **outreach / reach** side of the Accord — **Nathan's lever** in the second clock (`canon/00_SERIES_DECISIONS_LOCKED.md` decision 8; `canon/world/accord/POWER_STRUCTURE.md`). How far the Gray spreads runs through Guides like him; as Nathan heals and the reach accelerates (Phase 1), they are the edge of that spread.
+- **No line to Adrian.** Devon doesn't know the Architect exists. He is shaped by a design he can't see and would never believe flattens anyone — he connects "upward" only through outreach, a fingerprint of Adrian's design (like the campus carvings), never a confidant of it. This is what keeps Adrian off-page in Book 1.
+
 ## Identity
 
-- Devon Cross (surname adjustable). Mid-20s.
+- Devon Cross — surname **locked** (the crossing-over / crossroads / double-cross resonance fits the counterfeit brother). Mid-20s.
 - Warm, present, unhurried; remembers details; makes you feel seen; never pushes; closes by not closing. The anti-salesman.
 - The Accord's **success story** — living proof it "works."
 
@@ -1638,9 +1632,7 @@ Suggested repo home: `canon/characters/accord/`
 
 ## OPEN
 
-- Surname (adjustable).
-- Exact young-adult-track role/title, and how he connects upward to Adrian's design.
-- Optional: one persuasive beat aimed at the family (vs. Lucas) — decide later.
+- Optional: one persuasive beat aimed at the family (vs. Lucas) — decide later. *(Surname and track-role are now locked — see above.)*
 
 
 ---
@@ -1804,7 +1796,7 @@ ACCORD FOUNDERS:
 - Adrian Mercer - The Architect
 
 ACCORD STAFF / FORCES:
-- Devon Cross - young-adult-track recruiter; Book 1 antagonistic force (surname adjustable)
+- Devon Cross - young-adult-track **Guide** (recruiter); Book 1 antagonistic force
 - Ben Carter - cohort Primary Mentor
 - Catherine Park - Senior Mentor / inside dissenter (future ally)
 
@@ -1936,6 +1928,19 @@ The original sanitized review package (`THE_ECHO_REVIEW_PACKAGE.md`, never commi
 - **Standing guardrails (future drafting):** Phase 1 is powered by *partial* self-forgiveness only (Nathan's "cannot fully forgive himself" stays true); Phase 1 acceleration = more reach through the legitimate, pro-family consent gate (`canon/world/accord/ENROLLMENT_AND_CONSENT.md`), never a weakened or bypassed gate — keep "method, not malice" intact.
 - **Confirmed NO CHANGE:** `canon/THEMES.md` Nathan/Adrian lessons stand as the Phase-2 end-lessons the arc arrives at.
 - **Continuity sweep (ages + stale-open cleanup):** reworded decision 1 in `canon/00_SERIES_DECISIONS_LOCKED.md` to state the lock ("Lucas is 13") rather than the migration; corrected the age cascade **Jack ~20 → 21** to match his dossier (`canon/characters/hale-family/JACK_HALE_II.md`, `canon/characters/hale-family/HALE_FAMILY.md`) across `canon/00_SERIES_DECISIONS_LOCKED.md`, `canon/SERIES_IDENTITY.md`, and `canon/SUPERSEDED_ARCHIVED.md`. Reconciled the "Still OPEN" list (Maya's surname = locked-proposed **Sinclair**; **midpoint staging closed** — dramatized in `drafts/scenes/act2a_midpoint.md`, and the `BOOK_1_SPINE.md` midpoint `[OPEN]` flags closed). Verified **Emma = Nolan's twin** is consistent canon across `canon/characters/hale-family/EMMA_HALE.md`, `canon/characters/hale-family/NOLAN_HALE.md`, and `canon/characters/hale-family/HALE_FAMILY.md` (not drift). Flagged the **Phase-2 dramatization debt** in `canon/characters/accord/NATHAN_WHITMORE_CURATOR.md`.
+- Bible regenerated (`MASTER_CANON_BIBLE.md`).
+
+## v7 - Lesson-matrix moved out of canon (de-preach) (2026-06-22)
+
+- **De-preaching cleanup:** moved the per-character **"Key lesson structure"** matrix out of `canon/THEMES.md` into a private author-intent note (`notes/AUTHOR_INTENT_LESSON_MATRIX.md`, deliberately outside `canon/` so it does not roll into `MASTER_CANON_BIBLE.md`). A one-didactic-lesson-per-character list is a preaching liability; the truths remain, dramatized, in the character dossiers and in `canon/THEMES.md`'s LOCKED CORE THEMES. Left a breadcrumb in `canon/THEMES.md` so the matrix isn't re-added. Resolves the journal §10 cleanup item ("confirm the lesson-matrix isn't in any canon/ file").
+- **Reconciles v6's "NO CHANGE to THEMES" note:** v6 confirmed the Nathan/Adrian lesson-lines as the second clock's Phase-2 end-lessons; those two lines moved with the rest of the matrix. The Phase-2 grounding is unaffected — it lives in the engine canon (decisions 8–9, `canon/world/accord/POWER_STRUCTURE.md`, the founders' dossiers), not in the one-liners.
+- Bible regenerated (`MASTER_CANON_BIBLE.md`).
+
+## v8 - Devon Cross surname + track-role LOCKED (2026-06-22)
+
+- **Surname LOCKED:** "Cross" confirmed final (was tagged adjustable) — the crossing-over / crossroads / double-cross resonance fits the counterfeit brother; no scene rename needed. Updated `canon/characters/accord/DEVON_CROSS.md`, `canon/NAME_REGISTRY.md`, and the `canon/00_SERIES_DECISIONS_LOCKED.md` open-items note.
+- **Track-role LOCKED:** young-adult-track **Guide** (the Accord's warm term, not "recruiter"). Seated on the **outreach/reach** side — Nathan's lever in the second clock (decision 8 / `canon/world/accord/POWER_STRUCTURE.md`) — with **no line to Adrian**: shaped by a design he can't see, connecting upward only through outreach (keeps the Architect off-page per the Devon design-rule). Added a "Role & place in the structure" section to the dossier.
+- **Still open for Devon:** only the optional family-aimed persuasive beat (deferred by design).
 - Bible regenerated (`MASTER_CANON_BIBLE.md`).
 
 

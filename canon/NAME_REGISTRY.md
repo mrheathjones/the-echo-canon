@@ -44,6 +44,6 @@ ACCORD FOUNDERS:
 - Adrian Mercer - The Architect
 
 ACCORD STAFF / FORCES:
-- Devon Cross - young-adult-track recruiter; Book 1 antagonistic force (surname adjustable)
+- Devon Cross - young-adult-track **Guide** (recruiter); Book 1 antagonistic force
 - Ben Carter - cohort Primary Mentor
 - Catherine Park - Senior Mentor / inside dissenter (future ally)

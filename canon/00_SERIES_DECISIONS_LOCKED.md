@@ -52,4 +52,4 @@ Suggested repo home: `canon/` (top level, alongside the bible).
 ## Still OPEN (action items)
 
 - **Maya's surname** — locked (proposed): **Sinclair** (must NOT be "Whitmore," which collides with the founding family). Adjustable via a single find-replace; finalize before print.
-- **Devon Cross** — sincere Accord young-adult-track recruiter; Book 1's active antagonistic force. Full build in progress (persuasive scene drafted; surname & track-role still open).
+- **Devon Cross** — sincere Accord young-adult-track **Guide**; Book 1's active antagonistic force. Core + surname (**Cross**) + track-role (**Guide**, on Nathan's reach lever; no Adrian line) locked; persuasive scene drafted. Only an optional family-aimed beat remains (deferred).

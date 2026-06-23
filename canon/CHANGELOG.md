@@ -46,3 +46,16 @@
 - **Confirmed NO CHANGE:** `canon/THEMES.md` Nathan/Adrian lessons stand as the Phase-2 end-lessons the arc arrives at.
 - **Continuity sweep (ages + stale-open cleanup):** reworded decision 1 in `canon/00_SERIES_DECISIONS_LOCKED.md` to state the lock ("Lucas is 13") rather than the migration; corrected the age cascade **Jack ~20 → 21** to match his dossier (`canon/characters/hale-family/JACK_HALE_II.md`, `canon/characters/hale-family/HALE_FAMILY.md`) across `canon/00_SERIES_DECISIONS_LOCKED.md`, `canon/SERIES_IDENTITY.md`, and `canon/SUPERSEDED_ARCHIVED.md`. Reconciled the "Still OPEN" list (Maya's surname = locked-proposed **Sinclair**; **midpoint staging closed** — dramatized in `drafts/scenes/act2a_midpoint.md`, and the `BOOK_1_SPINE.md` midpoint `[OPEN]` flags closed). Verified **Emma = Nolan's twin** is consistent canon across `canon/characters/hale-family/EMMA_HALE.md`, `canon/characters/hale-family/NOLAN_HALE.md`, and `canon/characters/hale-family/HALE_FAMILY.md` (not drift). Flagged the **Phase-2 dramatization debt** in `canon/characters/accord/NATHAN_WHITMORE_CURATOR.md`.
 - Bible regenerated (`MASTER_CANON_BIBLE.md`).
+
+## v7 - Lesson-matrix moved out of canon (de-preach) (2026-06-22)
+
+- **De-preaching cleanup:** moved the per-character **"Key lesson structure"** matrix out of `canon/THEMES.md` into a private author-intent note (`notes/AUTHOR_INTENT_LESSON_MATRIX.md`, deliberately outside `canon/` so it does not roll into `MASTER_CANON_BIBLE.md`). A one-didactic-lesson-per-character list is a preaching liability; the truths remain, dramatized, in the character dossiers and in `canon/THEMES.md`'s LOCKED CORE THEMES. Left a breadcrumb in `canon/THEMES.md` so the matrix isn't re-added. Resolves the journal §10 cleanup item ("confirm the lesson-matrix isn't in any canon/ file").
+- **Reconciles v6's "NO CHANGE to THEMES" note:** v6 confirmed the Nathan/Adrian lesson-lines as the second clock's Phase-2 end-lessons; those two lines moved with the rest of the matrix. The Phase-2 grounding is unaffected — it lives in the engine canon (decisions 8–9, `canon/world/accord/POWER_STRUCTURE.md`, the founders' dossiers), not in the one-liners.
+- Bible regenerated (`MASTER_CANON_BIBLE.md`).
+
+## v8 - Devon Cross surname + track-role LOCKED (2026-06-22)
+
+- **Surname LOCKED:** "Cross" confirmed final (was tagged adjustable) — the crossing-over / crossroads / double-cross resonance fits the counterfeit brother; no scene rename needed. Updated `canon/characters/accord/DEVON_CROSS.md`, `canon/NAME_REGISTRY.md`, and the `canon/00_SERIES_DECISIONS_LOCKED.md` open-items note.
+- **Track-role LOCKED:** young-adult-track **Guide** (the Accord's warm term, not "recruiter"). Seated on the **outreach/reach** side — Nathan's lever in the second clock (decision 8 / `canon/world/accord/POWER_STRUCTURE.md`) — with **no line to Adrian**: shaped by a design he can't see, connecting upward only through outreach (keeps the Architect off-page per the Devon design-rule). Added a "Role & place in the structure" section to the dossier.
+- **Still open for Devon:** only the optional family-aimed persuasive beat (deferred by design).
+- Bible regenerated (`MASTER_CANON_BIBLE.md`).

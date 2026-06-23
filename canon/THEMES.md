@@ -18,16 +18,4 @@ The series should help readers become braver, more accountable, more patient, mo
 
 The series is not about validating every impulse. It must repeatedly show that Lucas is not always right. He may think he is right, and he may desperately want to be understood, but factually he is often wrong. His growth depends on owning that.
 
-Key lesson structure:
-- Lucas: being misunderstood does not mean you are right.
-- Emma: you do not have to earn your worth.
-- Nolan: manipulation is not connection.
-- Rachel: you cannot protect people from every struggle.
-- Jack: growing up does not mean leaving home behind.
-- Dylan: keep possibility alive without assuming everyone means well.
-- Maya: peace does not come from perfect certainty.
-- Zoe: control is not the same as safety.
-- Mason: freedom requires vulnerability.
-- Eli: understanding is not the same as control.
-- Nathan: forgiveness cannot be replaced by prevention.
-- Adrian: not every human problem can be engineered away.
+> The former per-character **"Key lesson structure"** matrix has been moved out of canon to a private author-intent note (`notes/AUTHOR_INTENT_LESSON_MATRIX.md`) — a one-lesson-per-character list is a preaching liability and must never surface as prose. The truths live, dramatized, in each character's dossier and in the LOCKED CORE THEMES above. Do not re-add the matrix here.
