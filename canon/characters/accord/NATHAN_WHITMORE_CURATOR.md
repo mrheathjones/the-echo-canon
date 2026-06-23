@@ -30,5 +30,12 @@ Nathan does not join the Accord because he wants power. He joins because Adrian'
 Relationship with Abby:
 Nathan loves Abby deeply. He does not intentionally indoctrinate her, but expects her to keep up appearances and live within Accord expectations. His desire to protect her can become pressure.
 
-Future arc:
-Nathan may begin healing, rediscovering the value of imperfection, uncertainty, and messiness. This creates eventual tension with Adrian.
+Future arc (the second clock — two stages):
+Nathan's healing is the series engine, and a healing Nathan is more dangerous than a grieving one.
+
+Phase 1 — self-forgiveness, then evangelism. In Book 1 he is hollowed and cautious; he helps those who come to him. As he forgives himself enough to believe he deserves to lead and that the gift is good, he turns evangelical — bring it to everyone. He owns scale, not design (the design is Adrian's), so what his new conviction moves is reach: he takes his foot off the brake and the Gray spreads faster. The healed founder accelerates the harm he can't yet see. Here he and Adrian are still aligned.
+
+Phase 2 — rediscovering the mess. His healing then matures past self-forgiveness into rediscovering the value of imperfection, uncertainty, and messiness. That is what finally lets him see the cost: the Gray flattens the very mess he's relearned to love. He starts to doubt, then turns against the design — and against Adrian, who cannot hold that not-knowing. This tension is what opens the schism. See `canon/00_SERIES_DECISIONS_LOCKED.md`.
+
+Open — Phase-2 dramatization debt:
+The turn must be earned on the page, not asserted. Somewhere in the series Nathan needs his own small version of the garden — a moment where mess *saves* something he loves — before he can credibly turn against the design. If Phase 2 happens purely in summary, it reads as thesis, not change.

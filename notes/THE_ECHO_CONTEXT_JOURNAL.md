@@ -12,7 +12,7 @@ _Last updated: 2026-06-22 (pick-up session — **Act-2A de-preach pass COMPLETE*
 "The Echo" — an **upper-middle-grade**, **illustrated-prose-hybrid** hidden-world fantasy series. Protagonist **Lucas Hale, 13**, neurodivergent (ADHD + dyslexia). The magic system is a way of *perceiving* (not power) and it doubles as Lucas's central flaw. The differentiator vs. typical MG: an **intact, loud, loving family** (the threat is routed through a beloved older brother, not an orphan's absence). Author = GitHub user **mrheathjones**. Repo (public): https://github.com/mrheathjones/the-echo-canon
 
 ## 2. LOCKED DECISIONS (all author-confirmed)
-- **Category:** upper MG, not YA. Ages: Lucas 13; Dylan ~10; Nolan 19 (recent HS grad, adrift — Accord young-adult-track recruit); Emma 19; Jack ~20.
+- **Category:** upper MG, not YA. Ages: Lucas 13; Dylan ~10; Nolan 19 (recent HS grad, adrift — Accord young-adult-track recruit); Emma 19 (Nolan's twin); Jack 21.
 - **Format:** illustrated prose hybrid (prose = family/interiority/adult-tragedy; full-bleed art = the Gray, Echo Weather, manifestations).
 - **POV:** close third, anchored on Lucas; rationed leans to others.
 - **Magic verbs (perception, not power):** CATCH → READ → HOLD → NAME → CHOOSE. System = the theme "being misunderstood doesn't mean you're right" (that's the READ failure mode).

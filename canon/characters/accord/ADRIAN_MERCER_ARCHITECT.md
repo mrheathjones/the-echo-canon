@@ -35,3 +35,6 @@ Adrian does not blame Nathan. He blames the pursuit, the system, the uncontrolle
 
 Relationship with Nathan:
 Adrian and Nathan co-found the Accord. Nathan builds the movement. Adrian builds the machine.
+
+Series role — the second clock:
+Adrian holds the design lever, not the reach lever: he owns what the Gray is and what it's for; how far it spreads is Nathan's. In Phase 1 he welcomes Nathan's evangelism — wider reach reads to him as the design working, so the founders stay aligned. In Phase 2 he becomes the counterweight: his fatal flaw (every problem has a solution) means he cannot hold not-knowing, so when Nathan turns against the design, Adrian holds the line. He anchors the wing that can't hold not-knowing when the Accord splits. See `canon/00_SERIES_DECISIONS_LOCKED.md`.

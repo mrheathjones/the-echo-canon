@@ -77,7 +77,7 @@ Format: **Illustrated prose hybrid.** Prose carries family, interiority, and the
 
 Target audience: **Upper middle grade** (roughly ages 10–13, reading up). Protagonist Lucas is **13**. Crossover appeal for parents, educators, counselors, neurodivergent readers, and older readers who connect with the family and motivational themes.
 
-Age cascade (from aging Lucas to 13): Jack ~20 · Nolan 19 · Emma 19 · Lucas 13 · Dylan ~10. Bigs/Littles intact.
+Age cascade (from aging Lucas to 13): Jack 21 · Nolan 19 · Emma 19 · Lucas 13 · Dylan ~10. Bigs/Littles intact.
 
 Core positioning: a character-driven hidden-world fantasy whose hero happens to have ADHD and dyslexia. Character first, lesson second — never sold as "an ADHD self-help book."
 
@@ -108,9 +108,9 @@ Suggested repo home: `canon/` (top level, alongside the bible).
 
 ## Locked decisions
 
-1. **Category & age — Upper Middle Grade. Lucas aged 11 → 13.**
-   Supersedes the "graphic novel, ages 8–12" vs "MG, ages 10–14" split. Rationale: the material's altitude (founder grief, surveillance, determinism) lives at upper-MG. YA was considered and rejected — YA structurally pushes the teen *away* from family, which would amputate the series' #1 differentiator (the intact Hale family). The fix for "this feels too sophisticated for little kids" was to age the *protagonist*, not the shelf.
-   - **Age cascade:** Jack ~20 · Nolan 19 (recent HS grad, adrift; prime Accord young-adult-track recruit) · Emma 19 (Nolan's twin) · Lucas 13 · Dylan ~10. Bigs/Littles intact.
+1. **Category & age — Upper Middle Grade. Lucas is 13.**
+   Supersedes the "graphic novel, ages 8–12" vs "MG, ages 10–14" split. Rationale: the material's altitude (founder grief, surveillance, determinism) lives at upper-MG. YA was considered and rejected — YA structurally pushes the teen *away* from family, which would amputate the series' #1 differentiator (the intact Hale family). The fix for "this feels too sophisticated for little kids" was to age the *protagonist*, not the shelf. (Migration history — the earlier "11 → 13" age-up — is archived in `canon/SUPERSEDED_ARCHIVED.md`.)
+   - **Age cascade:** Jack 21 (oldest, away at college) · Nolan 19 (recent HS grad, adrift; prime Accord young-adult-track recruit) · Emma 19 (Nolan's twin) · Lucas 13 · Dylan ~10. Bigs/Littles intact.
 
 2. **Format — Illustrated prose hybrid.**
    Prose carries family, interiority, and the adult-tragedy layer; full-bleed illustration carries the visual metaphors (the Gray, Echo Weather, manifestations) at emotional peaks. Form mirrors theme: the art is where Lucas *sees*. Caution: prose raises the preaching risk vs. a pure GN — discipline required (see THEMES rule "do not preach").
@@ -130,6 +130,17 @@ Suggested repo home: `canon/` (top level, alongside the bible).
 7. **Cast trim (Book 1).**
    The four core friends (Maya, Zoe, Mason, Eli) are recruited into the AIP *together*; Abby is the established insider; the rest of the cohort stays light background. No separate cohort to build. Defer the full 10-kid roster and most mentors.
 
+8. **The second clock — the engine after grief (lever-split: Adrian = design, Nathan = scale).**
+   Book 1's clock is the founding grief ("can Nolan come back?"). The *series* engine is what drives once that grief begins to resolve — and the danger is that **a healing founder is more dangerous, not less.** Control of the Gray splits across two levers: **Adrian (the Architect) owns the DESIGN/philosophy** — what the Gray is and what it's for; **Nathan (the Curator) owns SCALE/REACH** — how far it spreads. Nathan's healing runs in two stages:
+   - **Phase 0 (Book 1 / grief era):** hollowed, cautious Nathan reads the mission exactly as Adrian does; the Accord is passive ("we help those who come to us"). Foot on the brake.
+   - **Phase 1 (mid-series — *the second clock*):** Nathan forgives himself *enough* to believe he deserves to lead and that the gift is good → he turns evangelical ("bring it to everyone") → foot off the brake → the Gray spreads faster. "Does Nolan come back?" stops being a fixed question and becomes a **moving deadline traveling toward him.** Nathan and Adrian are still aligned — reach *serves* the design.
+   - **Phase 2 (later):** Nathan's healing matures past self-forgiveness into rediscovering the value of imperfection, uncertainty, and mess → he sees that the Gray flattens the very mess he's relearned to love → he turns against the design. This is the hinge into the schism (decision 9).
+
+   This *sequences* existing canon, it doesn't replace it: the seeded "Nathan rediscovers messiness → tension with Adrian" turn is the **Phase-2 end-state**; Phase 1 is new, inserted before it. See `canon/world/accord/POWER_STRUCTURE.md`, `canon/characters/accord/NATHAN_WHITMORE_CURATOR.md`, `canon/characters/accord/ADRIAN_MERCER_ARCHITECT.md`.
+
+9. **Series endgame shape — the SCHISM.**
+   The endgame is not reform, and not a faction war to win; it's the magic system at institutional scale. As the cost of the Gray surfaces, the Accord **splits between those who can hold not-knowing and those who can't** — the same HOLD choice the friend group makes on the page (`canon/world/echo/ECHO_MECHANICS_RESOLUTION.md`), now propagating person-by-person through the institution the way the Gray itself spreads. Both wings are sympathetic; there is **no villain to defeat.** Nathan's wing eventually = can hold not-knowing; Adrian's wing = can't (he believes every problem has a solution). The Phase-2 turn in decision 8 is what opens the fracture. See `canon/world/accord/POWER_STRUCTURE.md`, `canon/THEMES.md`.
+
 ---
 
 ## Deprecated
@@ -140,9 +151,8 @@ Suggested repo home: `canon/` (top level, alongside the bible).
 
 ## Still OPEN (action items)
 
-- **Maya's surname** — must NOT be "Whitmore" (collides with the founding family). Currently unlocked; needs a new surname.
-- **Devon Cross** — sincere Accord young-adult-track recruiter; Book 1's active antagonistic force. Full build in progress.
-- **Midpoint staging** — the "Lucas is finally *right*, and being right is what ruins him" hinge. Needs staging so his certainty reads as earned and sympathetic. In progress.
+- **Maya's surname** — locked (proposed): **Sinclair** (must NOT be "Whitmore," which collides with the founding family). Adjustable via a single find-replace; finalize before print.
+- **Devon Cross** — sincere Accord young-adult-track recruiter; Book 1's active antagonistic force. Full build in progress (persuasive scene drafted; surname & track-role still open).
 
 
 ---
@@ -412,8 +422,15 @@ These questions often reshape board discussion and change votes because the boar
 
 Adrian's power comes from controlling the evaluative framework. He is viewed as the keeper of the blueprint.
 
-Future fault line:
-For years Nathan and Adrian interpret the mission the same way. Eventually Nathan starts having other ideas. The fracture begins when they both ask whether something aligns with the mission and arrive at different answers.
+The second clock — the lever-split:
+Control of the Gray runs on two levers. Adrian owns the design — what the Gray is, what it's for, the blueprint. Nathan owns scale — how far it reaches. This is the division named above (Adrian shapes philosophy and long-term direction; Nathan leads outreach and the movement), now named for what it does to the series: the founders can drift not by disagreeing about the mission, but by pulling different levers.
+
+Future fault line (two stages):
+For years Nathan and Adrian interpret the mission the same way. The fracture, when it comes, runs in two stages, and the dangerous turn is the first one.
+
+Phase 1 — alignment and acceleration. As Nathan heals enough to forgive himself, he stops treating the gift as a wound to manage and starts treating it as good news to carry. He turns evangelical: bring it to everyone. He takes his foot off the brake and the Gray spreads faster. He and Adrian are still aligned — Adrian welcomes the reach, because his design spreading is, to him, the design working. This is the second clock: "can the lost one come back?" stops sitting still and becomes a deadline moving toward the people who love him.
+
+Phase 2 — the fracture. Nathan's healing matures past self-forgiveness into something larger: he rediscovers the value of imperfection, uncertainty, and mess. From there he sees what the reach costs — the Gray flattens exactly the mess he's relearned to love. He turns against the design. Now when he and Adrian both ask whether something aligns with the mission, they arrive at different answers. That is where the schism begins. See `canon/00_SERIES_DECISIONS_LOCKED.md`.
 
 
 ---
@@ -518,7 +535,7 @@ One-line premise: **Lucas practices the truth on a near-stranger (Abby) and grad
 - **B-story ignites + verbs (training wheels).** A small manifestation, naming-only tier. [LEAD: Eli][set-piece #1, small]
 - **Home interleave.** Nolan visibly calmer; family relieved and grateful. Lucas sees the Gray thicken on him; no one else can. [A-plot] [POV lean: Rachel — show the mother's genuine relief]
 - **Rising / bonds.** A second small problem [LEAD: Zoe]; Zoe's control-flaw cracks when a plan doesn't survive contact.
-- **Midpoint — the true thing that arms the mistake.** Lucas connects it: campus Gray = Abby's flickering = Nolan's calm = one phenomenon. He's *right about the pattern* for the first time. False victory → curdles into dangerous certainty. [set-piece #2, visual] **[OPEN: staging — the hardest hinge]**
+- **Midpoint — the true thing that arms the mistake.** Lucas connects it: campus Gray = Abby's flickering = Nolan's calm = one phenomenon. He's *right about the pattern* for the first time. False victory → curdles into dangerous certainty. [set-piece #2, visual] *(staging settled — dramatized in `drafts/scenes/act2a_midpoint.md`, restaged from inside)*
 
 ### ACT TWO-B — Bad guys close in → All is lost (50–75%)
 - **Certainty hardens.** Lucas stops listening. Confronts Devon; Devon is kind, sincere, immovable — "villain" won't stick.
@@ -537,13 +554,12 @@ One-line premise: **Lucas practices the truth on a near-stranger (Abby) and grad
 
 ## Set-piece index
 1. Small training manifestation — naming-only tier. [LEAD: Eli]
-2. Midpoint revelation (visual). **[OPEN: staging]**
+2. Midpoint revelation (visual). *(staging settled — `drafts/scenes/act2a_midpoint.md`)*
 3. The mistake — Lucas attacks Abby's manifestation. [Echo + A-plot collision]
 4. The garden climax — distributed engine as living mess (Eli's misfire · Zoe refuses to force · Maya names · Mason's vulnerability); Abby chooses; win ≠ calm. [POV lean: Abby] *(drafted & revised — `drafts/scenes/act3_garden_climax.md`)*
 
 ## Open
-- Midpoint staging (the "right-is-what-ruins-him" hinge).
-- Devon Cross — needs a genuinely persuasive scene where the reader half-agrees with him.
+- Devon Cross — needs a genuinely persuasive scene where the reader half-agrees with him. *(A draft exists — `drafts/scenes/act2a_devon_persuasive_scene.md`; Devon's dossier/surname/track-role are still in progress.)*
 
 
 ---
@@ -1417,8 +1433,15 @@ Nathan does not join the Accord because he wants power. He joins because Adrian'
 Relationship with Abby:
 Nathan loves Abby deeply. He does not intentionally indoctrinate her, but expects her to keep up appearances and live within Accord expectations. His desire to protect her can become pressure.
 
-Future arc:
-Nathan may begin healing, rediscovering the value of imperfection, uncertainty, and messiness. This creates eventual tension with Adrian.
+Future arc (the second clock — two stages):
+Nathan's healing is the series engine, and a healing Nathan is more dangerous than a grieving one.
+
+Phase 1 — self-forgiveness, then evangelism. In Book 1 he is hollowed and cautious; he helps those who come to him. As he forgives himself enough to believe he deserves to lead and that the gift is good, he turns evangelical — bring it to everyone. He owns scale, not design (the design is Adrian's), so what his new conviction moves is reach: he takes his foot off the brake and the Gray spreads faster. The healed founder accelerates the harm he can't yet see. Here he and Adrian are still aligned.
+
+Phase 2 — rediscovering the mess. His healing then matures past self-forgiveness into rediscovering the value of imperfection, uncertainty, and messiness. That is what finally lets him see the cost: the Gray flattens the very mess he's relearned to love. He starts to doubt, then turns against the design — and against Adrian, who cannot hold that not-knowing. This tension is what opens the schism. See `canon/00_SERIES_DECISIONS_LOCKED.md`.
+
+Open — Phase-2 dramatization debt:
+The turn must be earned on the page, not asserted. Somewhere in the series Nathan needs his own small version of the garden — a moment where mess *saves* something he loves — before he can credibly turn against the design. If Phase 2 happens purely in summary, it reads as thesis, not change.
 
 
 ---
@@ -1522,6 +1545,9 @@ Adrian does not blame Nathan. He blames the pursuit, the system, the uncontrolle
 
 Relationship with Nathan:
 Adrian and Nathan co-found the Accord. Nathan builds the movement. Adrian builds the machine.
+
+Series role — the second clock:
+Adrian holds the design lever, not the reach lever: he owns what the Gray is and what it's for; how far it spreads is Nathan's. In Phase 1 he welcomes Nathan's evangelism — wider reach reads to him as the design working, so the founders stay aligned. In Phase 2 he becomes the counterweight: his fatal flaw (every problem has a solution) means he cannot hold not-knowing, so when Nathan turns against the design, Adrian holds the line. He anchors the wing that can't hold not-knowing when the Accord splits. See `canon/00_SERIES_DECISIONS_LOCKED.md`.
 
 
 ---
@@ -1848,7 +1874,7 @@ Early versions had a secret double-agent older brother angle. Nolan's current di
 The original direction — **middle-grade graphic novel, ages 8–12** — is archived. Current direction (authoritative: `canon/00_SERIES_DECISIONS_LOCKED.md`):
 
 - Format: **illustrated prose hybrid** (prose for family/interiority/adult tragedy; full-bleed art for the Gray, Echo Weather, manifestations).
-- Audience: **upper middle grade**; Lucas aged **11 → 13** (age cascade applied: Jack ~20, Nolan 19, Emma 19, Lucas 13, Dylan ~10).
+- Audience: **upper middle grade**; Lucas aged **11 → 13** (age cascade applied: Jack 21, Nolan 19, Emma 19, Lucas 13, Dylan ~10).
 - POV: **close third, anchored on Lucas**, with rationed leans.
 - Echo resolution: **Option B (reckoning)** — naming reveals, a costly choice resolves; small Impressions may resolve on naming alone.
 - The Gray: **intended-as-mercy** (supersedes the "blind spots only" softening).
@@ -1900,6 +1926,16 @@ The original sanitized review package (`THE_ECHO_REVIEW_PACKAGE.md`, never commi
 
 - **New scene draft:** `drafts/scenes/act3_nolan_climax.md` — the Act 3 A-plot emotional peak (the post-garden Nolan beat). Lucas does the **opposite of a rescue**: owns his part, names without forcing, leaves the door open, accepts he cannot choose for Nolan. Pays off the withheld "it's about Lucas" recognition (felt, not diagnosed), the store-run / list / "don't tell Mom" threads, and the recoil wounds (victim, "I picked it," "with a list," "the rest of them," the one-sided "us"). **Win ≠ calm:** Nolan still leaves Sunday; one *involuntary* flicker; final image kept human (no system "gray" on the page). Built via a generate→judge→synthesize→adversarial-verify workflow + a hand taste pass.
 - **New canon (series motif LOCKED):** `canon/characters/hale-family/NOLAN_DRIVING_TELL.md` — the **four-mph turn** recorded as a load-bearing series motif / tuning fork for Nolan's interior graying, with three states (hard / careful / involuntary flicker) and rules so the flicker isn't spent carelessly in Book 2+. It is the staged instance of the "heartbeat monitor" tell in `NOLAN_LOVABILITY_GUARDRAILS.md` (guardrail 6); cross-linked from that guardrail.
+- Bible regenerated (`MASTER_CANON_BIBLE.md`).
+
+## v6 - Second clock + schism endgame LOCKED (2026-06-22)
+
+- **Series engine LOCKED — the "second clock" (lever-split):** the post-grief engine is a two-lever split of control over the Gray — **Adrian (Architect) owns DESIGN/philosophy; Nathan (Curator) owns SCALE/REACH.** Logged as decision 8 in `canon/00_SERIES_DECISIONS_LOCKED.md`.
+- **Two-stage healing LOCKED:** Phase 0 (Book 1, passive Accord) → **Phase 1** (Nathan self-forgives *enough* → evangelical → foot off the brake → Gray spreads faster → "does the lost one come back?" becomes a *moving deadline*; founders still aligned) → **Phase 2** (Nathan rediscovers imperfection/uncertainty/mess → sees the cost → turns against the design → fracture with Adrian). The new material is **Phase 1**, inserted *before* the previously seeded turn; the seed lines in `canon/characters/accord/NATHAN_WHITMORE_CURATOR.md` and `canon/world/accord/POWER_STRUCTURE.md` are now the Phase-2 end-state, preserved verbatim. Expanded `canon/world/accord/POWER_STRUCTURE.md`, `canon/characters/accord/NATHAN_WHITMORE_CURATOR.md`, `canon/characters/accord/ADRIAN_MERCER_ARCHITECT.md`.
+- **Series endgame shape LOCKED — the SCHISM:** decision 9 in `canon/00_SERIES_DECISIONS_LOCKED.md`. The Accord splits between those who can HOLD not-knowing and those who can't (`canon/world/echo/ECHO_MECHANICS_RESOLUTION.md`); both wings sympathetic, no villain, the choice propagates person-by-person the way the Gray does. **Resolves the v2 open item "series endgame shape (reform/schism/faction)."**
+- **Standing guardrails (future drafting):** Phase 1 is powered by *partial* self-forgiveness only (Nathan's "cannot fully forgive himself" stays true); Phase 1 acceleration = more reach through the legitimate, pro-family consent gate (`canon/world/accord/ENROLLMENT_AND_CONSENT.md`), never a weakened or bypassed gate — keep "method, not malice" intact.
+- **Confirmed NO CHANGE:** `canon/THEMES.md` Nathan/Adrian lessons stand as the Phase-2 end-lessons the arc arrives at.
+- **Continuity sweep (ages + stale-open cleanup):** reworded decision 1 in `canon/00_SERIES_DECISIONS_LOCKED.md` to state the lock ("Lucas is 13") rather than the migration; corrected the age cascade **Jack ~20 → 21** to match his dossier (`canon/characters/hale-family/JACK_HALE_II.md`, `canon/characters/hale-family/HALE_FAMILY.md`) across `canon/00_SERIES_DECISIONS_LOCKED.md`, `canon/SERIES_IDENTITY.md`, and `canon/SUPERSEDED_ARCHIVED.md`. Reconciled the "Still OPEN" list (Maya's surname = locked-proposed **Sinclair**; **midpoint staging closed** — dramatized in `drafts/scenes/act2a_midpoint.md`, and the `BOOK_1_SPINE.md` midpoint `[OPEN]` flags closed). Verified **Emma = Nolan's twin** is consistent canon across `canon/characters/hale-family/EMMA_HALE.md`, `canon/characters/hale-family/NOLAN_HALE.md`, and `canon/characters/hale-family/HALE_FAMILY.md` (not drift). Flagged the **Phase-2 dramatization debt** in `canon/characters/accord/NATHAN_WHITMORE_CURATOR.md`.
 - Bible regenerated (`MASTER_CANON_BIBLE.md`).
 
 

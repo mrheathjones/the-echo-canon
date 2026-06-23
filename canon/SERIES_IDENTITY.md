@@ -8,7 +8,7 @@ Format: **Illustrated prose hybrid.** Prose carries family, interiority, and the
 
 Target audience: **Upper middle grade** (roughly ages 10–13, reading up). Protagonist Lucas is **13**. Crossover appeal for parents, educators, counselors, neurodivergent readers, and older readers who connect with the family and motivational themes.
 
-Age cascade (from aging Lucas to 13): Jack ~20 · Nolan 19 · Emma 19 · Lucas 13 · Dylan ~10. Bigs/Littles intact.
+Age cascade (from aging Lucas to 13): Jack 21 · Nolan 19 · Emma 19 · Lucas 13 · Dylan ~10. Bigs/Littles intact.
 
 Core positioning: a character-driven hidden-world fantasy whose hero happens to have ADHD and dyslexia. Character first, lesson second — never sold as "an ADHD self-help book."
 

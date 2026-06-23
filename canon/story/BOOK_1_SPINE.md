@@ -39,7 +39,7 @@ One-line premise: **Lucas practices the truth on a near-stranger (Abby) and grad
 - **B-story ignites + verbs (training wheels).** A small manifestation, naming-only tier. [LEAD: Eli][set-piece #1, small]
 - **Home interleave.** Nolan visibly calmer; family relieved and grateful. Lucas sees the Gray thicken on him; no one else can. [A-plot] [POV lean: Rachel — show the mother's genuine relief]
 - **Rising / bonds.** A second small problem [LEAD: Zoe]; Zoe's control-flaw cracks when a plan doesn't survive contact.
-- **Midpoint — the true thing that arms the mistake.** Lucas connects it: campus Gray = Abby's flickering = Nolan's calm = one phenomenon. He's *right about the pattern* for the first time. False victory → curdles into dangerous certainty. [set-piece #2, visual] **[OPEN: staging — the hardest hinge]**
+- **Midpoint — the true thing that arms the mistake.** Lucas connects it: campus Gray = Abby's flickering = Nolan's calm = one phenomenon. He's *right about the pattern* for the first time. False victory → curdles into dangerous certainty. [set-piece #2, visual] *(staging settled — dramatized in `drafts/scenes/act2a_midpoint.md`, restaged from inside)*
 
 ### ACT TWO-B — Bad guys close in → All is lost (50–75%)
 - **Certainty hardens.** Lucas stops listening. Confronts Devon; Devon is kind, sincere, immovable — "villain" won't stick.
@@ -58,10 +58,9 @@ One-line premise: **Lucas practices the truth on a near-stranger (Abby) and grad
 
 ## Set-piece index
 1. Small training manifestation — naming-only tier. [LEAD: Eli]
-2. Midpoint revelation (visual). **[OPEN: staging]**
+2. Midpoint revelation (visual). *(staging settled — `drafts/scenes/act2a_midpoint.md`)*
 3. The mistake — Lucas attacks Abby's manifestation. [Echo + A-plot collision]
 4. The garden climax — distributed engine as living mess (Eli's misfire · Zoe refuses to force · Maya names · Mason's vulnerability); Abby chooses; win ≠ calm. [POV lean: Abby] *(drafted & revised — `drafts/scenes/act3_garden_climax.md`)*
 
 ## Open
-- Midpoint staging (the "right-is-what-ruins-him" hinge).
-- Devon Cross — needs a genuinely persuasive scene where the reader half-agrees with him.
+- Devon Cross — needs a genuinely persuasive scene where the reader half-agrees with him. *(A draft exists — `drafts/scenes/act2a_devon_persuasive_scene.md`; Devon's dossier/surname/track-role are still in progress.)*
