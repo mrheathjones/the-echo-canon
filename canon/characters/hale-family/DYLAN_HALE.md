@@ -1,6 +1,6 @@
 # Dylan Hale
 
-Dylan Hale is 8.
+Dylan Hale is 10.
 
 Core Want: possibility.
 Role: keeper of possibility.
@@ -13,7 +13,7 @@ Dylan wants fun, adventure, and possibility. He believes that if you believe som
 
 He is a little apprehensive about some things, but deep down he is very brave.
 
-Dylan knows exactly who he is at 8. He knows what he likes and does not like and can politely decline. He is matter-of-fact, tells it like it is with humor, and is not trying to be mean.
+Dylan knows exactly who he is at 10. He knows what he likes and does not like and can politely decline. He is matter-of-fact, tells it like it is with humor, and is not trying to be mean.
 
 Social style:
 Dylan is more reserved in public until he assesses the room and catches the vibe. At home he talks constantly because home is safe. He is not afraid to answer or ask questions at school, but he warms up first.

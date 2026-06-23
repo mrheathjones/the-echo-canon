@@ -10,7 +10,7 @@ Suggested repo home: `canon/` (top level, alongside the bible).
 
 1. **Category & age — Upper Middle Grade. Lucas is 13.**
    Supersedes the "graphic novel, ages 8–12" vs "MG, ages 10–14" split. Rationale: the material's altitude (founder grief, surveillance, determinism) lives at upper-MG. YA was considered and rejected — YA structurally pushes the teen *away* from family, which would amputate the series' #1 differentiator (the intact Hale family). The fix for "this feels too sophisticated for little kids" was to age the *protagonist*, not the shelf. (Migration history — the earlier "11 → 13" age-up — is archived in `canon/SUPERSEDED_ARCHIVED.md`.)
-   - **Age cascade:** Jack 21 (oldest, away at college) · Nolan 19 (recent HS grad, adrift; prime Accord young-adult-track recruit) · Emma 19 (Nolan's twin) · Lucas 13 · Dylan ~10. Bigs/Littles intact.
+   - **Age cascade:** Jack 21 (oldest, away at college) · Nolan 19 (recent HS grad, adrift; prime Accord young-adult-track recruit) · Emma 19 (Nolan's twin) · Lucas 13 · Dylan 10 (3-yr gap with Lucas, deliberately preserved). Bigs/Littles intact.
 
 2. **Format — Illustrated prose hybrid.**
    Prose carries family, interiority, and the adult-tragedy layer; full-bleed illustration carries the visual metaphors (the Gray, Echo Weather, manifestations) at emotional peaks. Form mirrors theme: the art is where Lucas *sees*. Caution: prose raises the preaching risk vs. a pure GN — discipline required (see THEMES rule "do not preach").

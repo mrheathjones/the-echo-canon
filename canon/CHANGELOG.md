@@ -73,3 +73,19 @@
 - **Cross-link:** `canon/characters/hale-family/HUMOR_AND_VOICE.md` gains a closing "Sincerity register" line pointing to `AFFECTION_AND_GOODBYES.md`, so the new file is discoverable from the voice doc (roasting is how they talk; the thresholds are where they say it plainly).
 - **Prompt corrected to match:** `notes/ACT1_DRAFTING_PROMPT.md` updated so the Hale-dinner guardrail no longer reads "warmth through teasing, **never** sentiment" (which contradicted the new canon). The button, plant/bank checklist, voice-and-guardrails, pitfalls, and continuity sections now route the goodbye rule + "I love you" slots through `AFFECTION_AND_GOODBYES.md` and hold the teasing↔sincerity contrast. (Standing build guide, not canon.)
 - Bible regenerated (`MASTER_CANON_BIBLE.md`).
+
+## v11 - Gramps/Grams re-parented to Rachel's side (Miller) + Jack Hale rename (2026-06-23)
+
+- **Lineage correction — Gramps & Grams are RACHEL's parents (maternal), not David's.** Surname **Miller**: **Gramps = Jack Miller** (Rachel's father), **Grams = Evelyn Miller** (Rachel's mother) — the kids' **maternal** grandparents. Updated `canon/characters/hale-family/GRAMPS_GRAMS_STORE_RUNS.md` (added the explicit maternal-grandparents line), `canon/characters/hale-family/HALE_FAMILY.md`, and `canon/NAME_REGISTRY.md`. Retires the prior "Jack Hale I / David's father" framing.
+- **Eldest son renamed "Jack Hale II" → "Jack Hale"** (there is no Jack Hale I anymore; he is named after his **maternal grandfather, Jack Miller**). File renamed `JACK_HALE_II.md` → `JACK_HALE.md`; heading, opening line, and naming-story updated (now "David and Rachel named their firstborn after Rachel's dad"). `HALE_FAMILY.md` and `NAME_REGISTRY.md` updated to match.
+- **Reference fix:** `canon/characters/hale-family/NOLAN_DRIVING_TELL.md` — the Gramps reference point now reads "(Jack Miller — see `GRAMPS_GRAMS_STORE_RUNS.md`)".
+- **Prompt synced:** `notes/ACT1_DRAFTING_PROMPT.md` continuity block carries the corrected Miller lineage and "Eldest Jack Hale is named after Gramps." (Standing build guide, not canon.)
+- **Note:** drafted scenes are unaffected — they only reference "Gramps," never the surname or "Jack Hale I/II."
+- Bible regenerated (`MASTER_CANON_BIBLE.md`).
+
+## v12 - Hale dinner scene drafted + Dylan's age resolved to 10 (2026-06-23)
+
+- **New scene draft:** `drafts/scenes/act1_hale_dinner.md` — the Act 1 ordinary-world Hale dinner (the "gate" scene). Close third on Lucas. Banks the warmth bank (spaghettification volley, Gramps's $1,000-tree bit, the empty-seat/food-text ritual), runs the Sunday no-phones law (Gramps observes → Dad enforces → "Good man") with the food-text as the one sanctioned exception, lives "Own It" (Emma's too-far barb at Dylan, owned unprompted), and plants the A-plot **dimming** on Nolan as a single buried micro-beat at the goodbye. No Echo verbs, no thesis line.
+- **Dylan's age RESOLVED → 10** (was the stale "8" in the dossiers; the cascade's "~10" is now firmed to "10"). Rationale: preserve the deliberate **3-year gap** with Lucas (aged up to 13, so Dylan moves up too). Updated `canon/characters/hale-family/DYLAN_HALE.md`, `canon/characters/hale-family/HALE_FAMILY.md`, `canon/SERIES_IDENTITY.md`, `canon/00_SERIES_DECISIONS_LOCKED.md`, `canon/SUPERSEDED_ARCHIVED.md`; the "use 8 / resolve later" note in `notes/ACT1_DRAFTING_PROMPT.md` marked resolved.
+- **PROPOSED (author to confirm):** **"slim"** as Gramps's longtime nickname for Nolan (used in the scene; not yet in `GRAMPS_GRAMS_STORE_RUNS.md`).
+- Bible regenerated (`MASTER_CANON_BIBLE.md`).

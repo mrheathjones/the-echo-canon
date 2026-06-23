@@ -17,7 +17,7 @@ Early versions had a secret double-agent older brother angle. Nolan's current di
 The original direction — **middle-grade graphic novel, ages 8–12** — is archived. Current direction (authoritative: `canon/00_SERIES_DECISIONS_LOCKED.md`):
 
 - Format: **illustrated prose hybrid** (prose for family/interiority/adult tragedy; full-bleed art for the Gray, Echo Weather, manifestations).
-- Audience: **upper middle grade**; Lucas aged **11 → 13** (age cascade applied: Jack 21, Nolan 19, Emma 19, Lucas 13, Dylan ~10).
+- Audience: **upper middle grade**; Lucas aged **11 → 13** (age cascade applied: Jack 21, Nolan 19, Emma 19, Lucas 13, Dylan 10).
 - POV: **close third, anchored on Lucas**, with rationed leans.
 - Echo resolution: **Option B (reckoning)** — naming reveals, a costly choice resolves; small Impressions may resolve on naming alone.
 - The Gray: **intended-as-mercy** (supersedes the "blind spots only" softening).

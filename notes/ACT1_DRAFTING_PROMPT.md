@@ -65,9 +65,9 @@ If this hits the store-run register, Act 1 has a foundation. If it comes out a n
 ---
 
 ## CONTINUITY (use locked canon)
-Bigs = Jack, Nolan, Emma · Littles = Lucas, Dylan. Jack **21, away at college** (food-text recipient, not at the table). Nolan & Emma **19** (twins). Lucas **13**. Gramps = **Jack Hale I**; Grams = **Evelyn**. Recipe joke = **"Hale's Super Secret Recipes."** David fixed seat, Rachel beside him; kids fight over seats; Sunday = no phones.
+Bigs = Jack, Nolan, Emma · Littles = Lucas, Dylan. Jack **21, away at college** (food-text recipient, not at the table). Nolan & Emma **19** (twins). Lucas **13**. Gramps = **Jack Miller**, Rachel's father; Grams = **Evelyn Miller**, Rachel's mother (the kids' maternal grandparents). Eldest **Jack Hale** is named after Gramps. Recipe joke = **"Hale's Super Secret Recipes."** David fixed seat, Rachel beside him; kids fight over seats; Sunday = no phones.
 - **Affection/goodbyes** (`AFFECTION_AND_GOODBYES.md`): hard rule — you always say goodbye leaving (exception: people asleep, very early/late). "I love you" said easily in natural slots — **Mom** freely to all kids + Mom↔Dad; **Dad** to the **Littles** + Mom, **less to the Bigs** (aging-up, not distance). Lucas still gets it; the taper hasn't begun — don't play it early.
-- **Resolve before baking pages:** `HALE_FAMILY.md` says **Dylan is 8**; the decisions cascade says **~10**. Use **8** (match the dossier) and reconcile the cascade on integration.
+- **Dylan's age — RESOLVED:** **Dylan is 10** (3-yr gap with Lucas, deliberately preserved). The old "8" in the dossiers has been corrected to 10 and the cascade firmed (`~10` → `10`).
 - If Gramps is at the dinner, don't reuse **"little guy watches you"** — it's already spent in the Act 3 climax store run.
 
 ---

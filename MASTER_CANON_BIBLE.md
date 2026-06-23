@@ -1,11 +1,11 @@
-<!-- GENERATED FILE — DO NOT EDIT. Rebuilt from canon/ by tools/build_bible.sh on 2026-06-22.
+<!-- GENERATED FILE — DO NOT EDIT. Rebuilt from canon/ by tools/build_bible.sh on 2026-06-23.
      Edit the files under canon/ and re-run the script; hand edits here are overwritten. -->
 
 # The Echo — Master Canon Bible (generated rollup)
 
 _Assembled automatically from the `canon/` source files. **Do not edit by hand** — edit `canon/` and run `tools/build_bible.sh`._
 
-_Generated: 2026-06-22 · 53 source files._
+_Generated: 2026-06-23 · 53 source files._
 
 ## Contents
 
@@ -28,38 +28,38 @@ _Generated: 2026-06-22 · 53 source files._
 17. Nolan Hale  —  `canon/characters/hale-family/NOLAN_HALE.md`
 18. Nolan — Lovability Guardrails (SERIES-WIDE, LOCKED)  —  `canon/characters/hale-family/NOLAN_LOVABILITY_GUARDRAILS.md`
 19. Emma Hale  —  `canon/characters/hale-family/EMMA_HALE.md`
-20. Jack Hale II  —  `canon/characters/hale-family/JACK_HALE_II.md`
-21. Dylan Hale  —  `canon/characters/hale-family/DYLAN_HALE.md`
-22. David Hale  —  `canon/characters/hale-family/DAVID_HALE.md`
-23. Rachel Hale  —  `canon/characters/hale-family/RACHEL_HALE.md`
-24. Hale Family Dinner Culture  —  `canon/characters/hale-family/DINNER_CULTURE.md`
-25. Hale Family Humor And Voice  —  `canon/characters/hale-family/HUMOR_AND_VOICE.md`
-26. Hale Family Value: Own It  —  `canon/characters/hale-family/OWN_IT.md`
-27. The Bigs And The Littles  —  `canon/characters/hale-family/BIGS_AND_LITTLES.md`
-28. Jack Food Text Tradition  —  `canon/characters/hale-family/JACK_FOOD_TEXTS.md`
-29. Gramps, Grams, And Store Runs  —  `canon/characters/hale-family/GRAMPS_GRAMS_STORE_RUNS.md`
-30. Hale Recipes / Recipe Inheritance  —  `canon/characters/hale-family/RECIPE_INHERITANCE.md`
-31. Friend-Group Engine — Distributed Roles (LOCKED)  —  `canon/characters/friend-group/FRIEND_GROUP_ENGINE.md`
-32. Core Friend Group Overview  —  `canon/characters/friend-group/FRIEND_GROUP_OVERVIEW.md`
-33. Maya Sinclair  —  `canon/characters/friend-group/MAYA.md`
-34. Zoe Bennett  —  `canon/characters/friend-group/ZOE.md`
-35. Mason Reed  —  `canon/characters/friend-group/MASON.md`
-36. Eli Sullivan  —  `canon/characters/friend-group/ELI.md`
-37. Nathan Whitmore - The Curator  —  `canon/characters/accord/NATHAN_WHITMORE_CURATOR.md`
-38. Sarah Whitmore  —  `canon/characters/accord/SARAH_WHITMORE.md`
-39. Abigail Abby Whitmore  —  `canon/characters/accord/ABIGAIL_ABBY_WHITMORE.md`
-40. Adrian Mercer - The Architect  —  `canon/characters/accord/ADRIAN_MERCER_ARCHITECT.md`
-41. Adrian Mercer - Woodworking And Carvings  —  `canon/characters/accord/ADRIAN_WOODWORKING.md`
-42. Devon Cross — The Counterfeit Brother (LOCKED; one optional beat deferred)  —  `canon/characters/accord/DEVON_CROSS.md`
-43. Maya At The Hale House  —  `canon/relationships/MAYA_AT_THE_HALE_HOUSE.md`
-44. The Barn And Pond  —  `canon/locations/THE_BARN_AND_POND.md`
-45. The Founding Trio Timeline  —  `canon/timeline/FOUNDING_TRIO_TIMELINE.md`
-46. Graphic Novel Visual Language  —  `canon/VISUAL_LANGUAGE.md`
-47. Canon Name Registry  —  `canon/NAME_REGISTRY.md`
-48. Open Canon Questions  —  `canon/OPEN_QUESTIONS.md`
-49. Superseded / Archived Development Notes  —  `canon/SUPERSEDED_ARCHIVED.md`
-50. Canon Changelog  —  `canon/CHANGELOG.md`
-51. Hale Family Affection And Goodbyes  —  `canon/characters/hale-family/AFFECTION_AND_GOODBYES.md`
+20. Dylan Hale  —  `canon/characters/hale-family/DYLAN_HALE.md`
+21. David Hale  —  `canon/characters/hale-family/DAVID_HALE.md`
+22. Rachel Hale  —  `canon/characters/hale-family/RACHEL_HALE.md`
+23. Hale Family Dinner Culture  —  `canon/characters/hale-family/DINNER_CULTURE.md`
+24. Hale Family Humor And Voice  —  `canon/characters/hale-family/HUMOR_AND_VOICE.md`
+25. Hale Family Value: Own It  —  `canon/characters/hale-family/OWN_IT.md`
+26. The Bigs And The Littles  —  `canon/characters/hale-family/BIGS_AND_LITTLES.md`
+27. Jack Food Text Tradition  —  `canon/characters/hale-family/JACK_FOOD_TEXTS.md`
+28. Gramps, Grams, And Store Runs  —  `canon/characters/hale-family/GRAMPS_GRAMS_STORE_RUNS.md`
+29. Hale Recipes / Recipe Inheritance  —  `canon/characters/hale-family/RECIPE_INHERITANCE.md`
+30. Friend-Group Engine — Distributed Roles (LOCKED)  —  `canon/characters/friend-group/FRIEND_GROUP_ENGINE.md`
+31. Core Friend Group Overview  —  `canon/characters/friend-group/FRIEND_GROUP_OVERVIEW.md`
+32. Maya Sinclair  —  `canon/characters/friend-group/MAYA.md`
+33. Zoe Bennett  —  `canon/characters/friend-group/ZOE.md`
+34. Mason Reed  —  `canon/characters/friend-group/MASON.md`
+35. Eli Sullivan  —  `canon/characters/friend-group/ELI.md`
+36. Nathan Whitmore - The Curator  —  `canon/characters/accord/NATHAN_WHITMORE_CURATOR.md`
+37. Sarah Whitmore  —  `canon/characters/accord/SARAH_WHITMORE.md`
+38. Abigail Abby Whitmore  —  `canon/characters/accord/ABIGAIL_ABBY_WHITMORE.md`
+39. Adrian Mercer - The Architect  —  `canon/characters/accord/ADRIAN_MERCER_ARCHITECT.md`
+40. Adrian Mercer - Woodworking And Carvings  —  `canon/characters/accord/ADRIAN_WOODWORKING.md`
+41. Devon Cross — The Counterfeit Brother (LOCKED; one optional beat deferred)  —  `canon/characters/accord/DEVON_CROSS.md`
+42. Maya At The Hale House  —  `canon/relationships/MAYA_AT_THE_HALE_HOUSE.md`
+43. The Barn And Pond  —  `canon/locations/THE_BARN_AND_POND.md`
+44. The Founding Trio Timeline  —  `canon/timeline/FOUNDING_TRIO_TIMELINE.md`
+45. Graphic Novel Visual Language  —  `canon/VISUAL_LANGUAGE.md`
+46. Canon Name Registry  —  `canon/NAME_REGISTRY.md`
+47. Open Canon Questions  —  `canon/OPEN_QUESTIONS.md`
+48. Superseded / Archived Development Notes  —  `canon/SUPERSEDED_ARCHIVED.md`
+49. Canon Changelog  —  `canon/CHANGELOG.md`
+50. Hale Family Affection And Goodbyes  —  `canon/characters/hale-family/AFFECTION_AND_GOODBYES.md`
+51. Jack Hale  —  `canon/characters/hale-family/JACK_HALE.md`
 52. Nolan's Driving — The Four-MPH Turn (series motif / tuning fork)  —  `canon/characters/hale-family/NOLAN_DRIVING_TELL.md`
 53. Accord Enrollment & Consent (the under-21 gate)  —  `canon/world/accord/ENROLLMENT_AND_CONSENT.md`
 
@@ -78,7 +78,7 @@ Format: **Illustrated prose hybrid.** Prose carries family, interiority, and the
 
 Target audience: **Upper middle grade** (roughly ages 10–13, reading up). Protagonist Lucas is **13**. Crossover appeal for parents, educators, counselors, neurodivergent readers, and older readers who connect with the family and motivational themes.
 
-Age cascade (from aging Lucas to 13): Jack 21 · Nolan 19 · Emma 19 · Lucas 13 · Dylan ~10. Bigs/Littles intact.
+Age cascade (from aging Lucas to 13): Jack 21 · Nolan 19 · Emma 19 · Lucas 13 · Dylan 10 (3-yr gap with Lucas, preserved). Bigs/Littles intact.
 
 Core positioning: a character-driven hidden-world fantasy whose hero happens to have ADHD and dyslexia. Character first, lesson second — never sold as "an ADHD self-help book."
 
@@ -111,7 +111,7 @@ Suggested repo home: `canon/` (top level, alongside the bible).
 
 1. **Category & age — Upper Middle Grade. Lucas is 13.**
    Supersedes the "graphic novel, ages 8–12" vs "MG, ages 10–14" split. Rationale: the material's altitude (founder grief, surveillance, determinism) lives at upper-MG. YA was considered and rejected — YA structurally pushes the teen *away* from family, which would amputate the series' #1 differentiator (the intact Hale family). The fix for "this feels too sophisticated for little kids" was to age the *protagonist*, not the shelf. (Migration history — the earlier "11 → 13" age-up — is archived in `canon/SUPERSEDED_ARCHIVED.md`.)
-   - **Age cascade:** Jack 21 (oldest, away at college) · Nolan 19 (recent HS grad, adrift; prime Accord young-adult-track recruit) · Emma 19 (Nolan's twin) · Lucas 13 · Dylan ~10. Bigs/Littles intact.
+   - **Age cascade:** Jack 21 (oldest, away at college) · Nolan 19 (recent HS grad, adrift; prime Accord young-adult-track recruit) · Emma 19 (Nolan's twin) · Lucas 13 · Dylan 10 (3-yr gap with Lucas, deliberately preserved). Bigs/Littles intact.
 
 2. **Format — Illustrated prose hybrid.**
    Prose carries family, interiority, and the adult-tragedy layer; full-bleed illustration carries the visual metaphors (the Gray, Echo Weather, manifestations) at emotional peaks. Form mirrors theme: the art is where Lucas *sees*. Caution: prose raises the preaching risk vs. a pure GN — discipline required (see THEMES rule "do not preach").
@@ -579,13 +579,13 @@ The Hale family is central to the series. They are not background scenery. They 
 Family members:
 - David Hale - father.
 - Rachel Hale - mother.
-- Jack Hale II - oldest child, 21, away at college.
+- Jack Hale - oldest child, 21, away at college (named after Gramps, Jack Miller).
 - Nolan Hale - 19, Emma's twin.
 - Emma Hale - 19, Nolan's twin.
 - Lucas Hale - 13, protagonist.
-- Dylan Hale - 8, youngest.
-- Gramps - Jack Hale I, David's father.
-- Grams - Evelyn Hale.
+- Dylan Hale - 10, youngest.
+- Gramps - Jack Miller, Rachel's father.
+- Grams - Evelyn Miller, Rachel's mother.
 
 The family is loud, loving, sarcastic, chaotic, loyal, imperfect, and deeply present. They love each other and respect each other even while interrupting, roasting, arguing, and annoying each other.
 
@@ -766,52 +766,11 @@ Nolan sees the pressure Emma puts on herself and tries to remind her it is mostl
 
 ---
 
-<!-- source: canon/characters/hale-family/JACK_HALE_II.md -->
-
-# Jack Hale II
-
-Jack Hale II is the oldest Hale child.
-
-Age: 21.
-
-He is away at college studying history.
-
-Name: named after Gramps, Jack Hale I. David named his firstborn after his father out of respect and love.
-
-Core Want: belonging.
-Fear: being left behind by time / losing home.
-False Belief: moving forward means leaving things behind.
-Strength: perspective.
-Weakness: letting go.
-Theme: growing up does not mean leaving home behind.
-
-Jack is not the “successful oldest sibling” stereotype. He is the first Hale kid forced to leave the nest, and he is not sure he wants to.
-
-College and future:
-Jack studies history. He initially thought he wanted to be a history teacher, but he is also into politics. He is considering taking time after college to travel and create a historical/political podcast or content channel about lesser-known historical and political sites and stories. He has not told his parents yet, but has shared it with Nolan and Emma in the Sibs Chat.
-
-Secret struggle:
-He is apprehensive about growing up, choosing a direction, getting an apartment, getting a job that may take him out of state, and becoming less able to relate to the younger siblings.
-
-Relationship with Lucas and Dylan:
-Lucas and Dylan deeply miss Jack. Lucas sometimes calls Jack with a dumb question just to hear his voice. Jack tries to make online gaming plans with them, but school, work, girls, parties, and college life interfere.
-
-Jack calls Lucas and Dylan “buddy.” It is not condescending. It is a relationship anchor.
-
-Jack at home:
-He misses the chaos, but if he is home too long, the chaos harshes his mellow. His room remains his room during breaks, which he loves because it means he is still part of the family.
-
-Sibs Chat:
-Jack, Nolan, and Emma have a sibling group chat without parents or Littles. Secrets, complaints, life updates, and future plans happen there.
-
-
----
-
 <!-- source: canon/characters/hale-family/DYLAN_HALE.md -->
 
 # Dylan Hale
 
-Dylan Hale is 8.
+Dylan Hale is 10.
 
 Core Want: possibility.
 Role: keeper of possibility.
@@ -824,7 +783,7 @@ Dylan wants fun, adventure, and possibility. He believes that if you believe som
 
 He is a little apprehensive about some things, but deep down he is very brave.
 
-Dylan knows exactly who he is at 8. He knows what he likes and does not like and can politely decline. He is matter-of-fact, tells it like it is with humor, and is not trying to be mean.
+Dylan knows exactly who he is at 10. He knows what he likes and does not like and can politely decline. He is matter-of-fact, tells it like it is with humor, and is not trying to be mean.
 
 Social style:
 Dylan is more reserved in public until he assesses the room and catches the vibe. At home he talks constantly because home is safe. He is not afraid to answer or ask questions at school, but he warms up first.
@@ -1080,8 +1039,9 @@ This tradition should continue into adulthood.
 
 # Gramps, Grams, And Store Runs
 
-Gramps: Jack Hale I. Called Gramps by everyone.
-Grams: Evelyn Hale. Called Grams by everyone.
+Gramps: Jack Miller, Rachel's father. Called Gramps by everyone.
+Grams: Evelyn Miller, Rachel's mother. Called Grams by everyone.
+Gramps and Grams are Rachel's parents — the kids' maternal grandparents.
 
 Naming story:
 David: “We're naming him Jack.”
@@ -1776,13 +1736,13 @@ LOCKED VISUAL PRINCIPLES:
 HALE FAMILY:
 - David Hale
 - Rachel Hale
-- Jack Hale II
+- Jack Hale (named after Gramps, Jack Miller)
 - Nolan Hale
 - Emma Hale
 - Lucas Hale
 - Dylan Hale / Dyl
-- Jack Hale I / Gramps
-- Evelyn Hale / Grams
+- Jack Miller / Gramps (Rachel's father)
+- Evelyn Miller / Grams (Rachel's mother)
 
 FRIEND GROUP (surnames locked — proposed; each is a single find-replace to change):
 - Lucas Hale
@@ -1887,7 +1847,7 @@ Early versions had a secret double-agent older brother angle. Nolan's current di
 The original direction — **middle-grade graphic novel, ages 8–12** — is archived. Current direction (authoritative: `canon/00_SERIES_DECISIONS_LOCKED.md`):
 
 - Format: **illustrated prose hybrid** (prose for family/interiority/adult tragedy; full-bleed art for the Gray, Echo Weather, manifestations).
-- Audience: **upper middle grade**; Lucas aged **11 → 13** (age cascade applied: Jack 21, Nolan 19, Emma 19, Lucas 13, Dylan ~10).
+- Audience: **upper middle grade**; Lucas aged **11 → 13** (age cascade applied: Jack 21, Nolan 19, Emma 19, Lucas 13, Dylan 10).
 - POV: **close third, anchored on Lucas**, with rationed leans.
 - Echo resolution: **Option B (reckoning)** — naming reveals, a costly choice resolves; small Impressions may resolve on naming alone.
 - The Gray: **intended-as-mercy** (supersedes the "blind spots only" softening).
@@ -1978,6 +1938,22 @@ The original sanitized review package (`THE_ECHO_REVIEW_PACKAGE.md`, never commi
 - **Prompt corrected to match:** `notes/ACT1_DRAFTING_PROMPT.md` updated so the Hale-dinner guardrail no longer reads "warmth through teasing, **never** sentiment" (which contradicted the new canon). The button, plant/bank checklist, voice-and-guardrails, pitfalls, and continuity sections now route the goodbye rule + "I love you" slots through `AFFECTION_AND_GOODBYES.md` and hold the teasing↔sincerity contrast. (Standing build guide, not canon.)
 - Bible regenerated (`MASTER_CANON_BIBLE.md`).
 
+## v11 - Gramps/Grams re-parented to Rachel's side (Miller) + Jack Hale rename (2026-06-23)
+
+- **Lineage correction — Gramps & Grams are RACHEL's parents (maternal), not David's.** Surname **Miller**: **Gramps = Jack Miller** (Rachel's father), **Grams = Evelyn Miller** (Rachel's mother) — the kids' **maternal** grandparents. Updated `canon/characters/hale-family/GRAMPS_GRAMS_STORE_RUNS.md` (added the explicit maternal-grandparents line), `canon/characters/hale-family/HALE_FAMILY.md`, and `canon/NAME_REGISTRY.md`. Retires the prior "Jack Hale I / David's father" framing.
+- **Eldest son renamed "Jack Hale II" → "Jack Hale"** (there is no Jack Hale I anymore; he is named after his **maternal grandfather, Jack Miller**). File renamed `JACK_HALE_II.md` → `JACK_HALE.md`; heading, opening line, and naming-story updated (now "David and Rachel named their firstborn after Rachel's dad"). `HALE_FAMILY.md` and `NAME_REGISTRY.md` updated to match.
+- **Reference fix:** `canon/characters/hale-family/NOLAN_DRIVING_TELL.md` — the Gramps reference point now reads "(Jack Miller — see `GRAMPS_GRAMS_STORE_RUNS.md`)".
+- **Prompt synced:** `notes/ACT1_DRAFTING_PROMPT.md` continuity block carries the corrected Miller lineage and "Eldest Jack Hale is named after Gramps." (Standing build guide, not canon.)
+- **Note:** drafted scenes are unaffected — they only reference "Gramps," never the surname or "Jack Hale I/II."
+- Bible regenerated (`MASTER_CANON_BIBLE.md`).
+
+## v12 - Hale dinner scene drafted + Dylan's age resolved to 10 (2026-06-23)
+
+- **New scene draft:** `drafts/scenes/act1_hale_dinner.md` — the Act 1 ordinary-world Hale dinner (the "gate" scene). Close third on Lucas. Banks the warmth bank (spaghettification volley, Gramps's $1,000-tree bit, the empty-seat/food-text ritual), runs the Sunday no-phones law (Gramps observes → Dad enforces → "Good man") with the food-text as the one sanctioned exception, lives "Own It" (Emma's too-far barb at Dylan, owned unprompted), and plants the A-plot **dimming** on Nolan as a single buried micro-beat at the goodbye. No Echo verbs, no thesis line.
+- **Dylan's age RESOLVED → 10** (was the stale "8" in the dossiers; the cascade's "~10" is now firmed to "10"). Rationale: preserve the deliberate **3-year gap** with Lucas (aged up to 13, so Dylan moves up too). Updated `canon/characters/hale-family/DYLAN_HALE.md`, `canon/characters/hale-family/HALE_FAMILY.md`, `canon/SERIES_IDENTITY.md`, `canon/00_SERIES_DECISIONS_LOCKED.md`, `canon/SUPERSEDED_ARCHIVED.md`; the "use 8 / resolve later" note in `notes/ACT1_DRAFTING_PROMPT.md` marked resolved.
+- **PROPOSED (author to confirm):** **"slim"** as Gramps's longtime nickname for Nolan (used in the scene; not yet in `GRAMPS_GRAMS_STORE_RUNS.md`).
+- Bible regenerated (`MASTER_CANON_BIBLE.md`).
+
 
 ---
 
@@ -2004,6 +1980,47 @@ Teasing and sincerity make each other land. A scene that is *all* barbs reads as
 
 ---
 
+<!-- source: canon/characters/hale-family/JACK_HALE.md -->
+
+# Jack Hale
+
+Jack Hale is the oldest Hale child.
+
+Age: 21.
+
+He is away at college studying history.
+
+Name: named after Gramps — Jack Miller, Rachel's father. David and Rachel named their firstborn after Rachel's dad out of respect and love.
+
+Core Want: belonging.
+Fear: being left behind by time / losing home.
+False Belief: moving forward means leaving things behind.
+Strength: perspective.
+Weakness: letting go.
+Theme: growing up does not mean leaving home behind.
+
+Jack is not the “successful oldest sibling” stereotype. He is the first Hale kid forced to leave the nest, and he is not sure he wants to.
+
+College and future:
+Jack studies history. He initially thought he wanted to be a history teacher, but he is also into politics. He is considering taking time after college to travel and create a historical/political podcast or content channel about lesser-known historical and political sites and stories. He has not told his parents yet, but has shared it with Nolan and Emma in the Sibs Chat.
+
+Secret struggle:
+He is apprehensive about growing up, choosing a direction, getting an apartment, getting a job that may take him out of state, and becoming less able to relate to the younger siblings.
+
+Relationship with Lucas and Dylan:
+Lucas and Dylan deeply miss Jack. Lucas sometimes calls Jack with a dumb question just to hear his voice. Jack tries to make online gaming plans with them, but school, work, girls, parties, and college life interfere.
+
+Jack calls Lucas and Dylan “buddy.” It is not condescending. It is a relationship anchor.
+
+Jack at home:
+He misses the chaos, but if he is home too long, the chaos harshes his mellow. His room remains his room during breaks, which he loves because it means he is still part of the family.
+
+Sibs Chat:
+Jack, Nolan, and Emma have a sibling group chat without parents or Littles. Secrets, complaints, life updates, and future plans happen there.
+
+
+---
+
 <!-- source: canon/characters/hale-family/NOLAN_DRIVING_TELL.md -->
 
 # Nolan's Driving — The Four-MPH Turn (series motif / tuning fork)
@@ -2012,7 +2029,7 @@ Suggested repo home: `canon/characters/hale-family/` (alongside `NOLAN_HALE.md` 
 
 **What this is.** How Nolan takes the turn at the bottom of the Hale driveway (and its twin, the corner by the gas station) is the staged, physical readout of his interior graying. It is the load-bearing instance of the "heartbeat monitor" tell named in `NOLAN_LOVABILITY_GUARDRAILS.md` (guardrail 6). Treat it as a **tuning fork**: calibrate every appearance to where Nolan is on the arc, and spend it deliberately — never as set dressing.
 
-**The reference point is Gramps.** The slow, four-mph, both-hands, narrated turn is *Gramps's* turn (Jack Hale I — see `GRAMPS_GRAMS_STORE_RUNS.md`). Nolan driving like Gramps is the alarm, because the reckless brother never drove like Gramps.
+**The reference point is Gramps.** The slow, four-mph, both-hands, narrated turn is *Gramps's* turn (Jack Miller — see `GRAMPS_GRAMS_STORE_RUNS.md`). Nolan driving like Gramps is the alarm, because the reckless brother never drove like Gramps.
 
 ## The three states
 
