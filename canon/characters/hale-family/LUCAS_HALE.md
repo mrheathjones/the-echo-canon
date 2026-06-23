@@ -4,6 +4,12 @@ Lucas Hale is 13 and the protagonist.
 
 He is mixed-race, funny, kind, generous, socially interested, imaginative, awkward at times, insecure, and lacking consistent confidence.
 
+Appearance:
+- Mixed-race; takes after David in looks (cf. the family joke in `DYLAN_HALE.md` — "Lucas looks like David but acts like Rachel").
+- Big brown eyes. Long, curly hair he sometimes wears loose and sometimes in designed braided styles (e.g. stitch braids / cornrows, knotless box braids).
+- **Comfort-first style** — almost always a hoodie with sweats or activewear; never jeans. (Echoes Jack's comfort-first dressing — a sibling/Hale through-line, not a copy.)
+- (Reference photos are the visual touchstone for eyes and hair; this description is the canon of record.)
+
 Neurodivergence:
 - ADHD, not primarily hyperactive; impulsivity and big emotions are major features.
 - Dyslexia, affecting reading and confidence.
