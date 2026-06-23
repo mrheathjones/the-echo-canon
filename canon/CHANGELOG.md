@@ -113,3 +113,9 @@
 - **Lucas's appearance recorded** in `canon/characters/hale-family/LUCAS_HALE.md`: mixed-race, takes after David in looks (per the `DYLAN_HALE.md` family joke); big brown eyes; long curly hair worn loose or in designed braided styles (stitch braids/cornrows, knotless box braids). **Comfort-first** — almost always a hoodie + sweats/activewear, never jeans (echoes Jack's comfort dressing as a Hale through-line). Author supplied reference photos as the visual touchstone for eyes and hair; the written description is the canon of record.
 - Remaining Hale appearances still to build: David, Rachel, Dylan, Gramps, Grams.
 - Bible regenerated (`MASTER_CANON_BIBLE.md`).
+
+## v17 - Nolan's style added (2026-06-23)
+
+- **Nolan's style recorded** in `canon/characters/hale-family/NOLAN_HALE.md` (appended to Appearance): best-dressed of the Hale kids — comfort plus loves to look good (nice jeans, polos, quarter-zips, sweaters); preppy streetwear with a punk/skater edge. Deliberately contrasts the comfort-first/"never jeans" siblings (Jack, Lucas) and tracks with his charisma/room-control and chameleon canon.
+- Remaining Hale appearances still to build: David, Rachel, Dylan, Gramps, Grams.
+- Bible regenerated (`MASTER_CANON_BIBLE.md`).

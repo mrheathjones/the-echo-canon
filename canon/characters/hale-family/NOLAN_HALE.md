@@ -8,6 +8,7 @@ Appearance:
 - Height around 5'8".
 - Slender, athletic build — lean and proportionate: defined abs and some muscle, but not bulky or bodybuilder-built. Built like someone who skates and is outside all the time, not someone who lifts.
 - Dark, thick, wavy/curly hair.
+- **Best sense of style of all the Hale kids.** He likes comfort too, but unlike his comfort-first siblings (Jack, Lucas — both "never jeans") he loves to *look* good: nice jeans, polos, quarter-zips, sweaters. Preppy streetwear with a little punk/skater edge. The put-together look is part of his charisma and room-control — he dresses like someone who has options. (This sets him apart from the cozy-default rest of the family and tracks with his chameleon/adaptable canon.)
 (A reference photo is the visual touchstone for the build; this description is the canon of record.)
 
 Core role: Lucas's complicated mirror and warning.
