@@ -650,6 +650,12 @@ Nolan Hale is 19 and Emma's twin.
 
 Status (Book 1): a recent high-school graduate with no clear next step — skating, hanging out, "figuring it out." Being untethered and at loose ends is exactly what makes the Accord's young-adult track land: it offers direction, and a place to be, to someone who has neither.
 
+Appearance:
+- Height around 5'8".
+- Slender, athletic build — lean and proportionate: defined abs and some muscle, but not bulky or bodybuilder-built. Built like someone who skates and is outside all the time, not someone who lifts.
+- Dark, thick, wavy/curly hair.
+(A reference photo is the visual touchstone for the build; this description is the canon of record.)
+
 Core role: Lucas's complicated mirror and warning.
 
 Traits:
@@ -1051,6 +1057,8 @@ Gramps is sarcastic, practical, dry, funny without trying, and allergic to senti
 
 Gramps and Nolan:
 Nolan and Gramps are best buddies. Gramps is the only one who does not treat Nolan like the bad guy. He sees Nolan's good and expects him to live up to it. He never excuses Nolan's crap and never gives long speeches.
+
+Gramps's nickname for Nolan is **"slim"** — from when Nolan was the skinny one growing up; it stuck. Affectionate, dry, Gramps-only.
 
 Gramps communicates in quick remarks:
 - “You're smarter than that.”
@@ -1737,7 +1745,7 @@ HALE FAMILY:
 - David Hale
 - Rachel Hale
 - Jack Hale (named after Gramps, Jack Miller)
-- Nolan Hale
+- Nolan Hale / "slim" (Gramps's nickname for him)
 - Emma Hale
 - Lucas Hale
 - Dylan Hale / Dyl
@@ -1952,6 +1960,12 @@ The original sanitized review package (`THE_ECHO_REVIEW_PACKAGE.md`, never commi
 - **New scene draft:** `drafts/scenes/act1_hale_dinner.md` — the Act 1 ordinary-world Hale dinner (the "gate" scene). Close third on Lucas. Banks the warmth bank (spaghettification volley, Gramps's $1,000-tree bit, the empty-seat/food-text ritual), runs the Sunday no-phones law (Gramps observes → Dad enforces → "Good man") with the food-text as the one sanctioned exception, lives "Own It" (Emma's too-far barb at Dylan, owned unprompted), and plants the A-plot **dimming** on Nolan as a single buried micro-beat at the goodbye. No Echo verbs, no thesis line.
 - **Dylan's age RESOLVED → 10** (was the stale "8" in the dossiers; the cascade's "~10" is now firmed to "10"). Rationale: preserve the deliberate **3-year gap** with Lucas (aged up to 13, so Dylan moves up too). Updated `canon/characters/hale-family/DYLAN_HALE.md`, `canon/characters/hale-family/HALE_FAMILY.md`, `canon/SERIES_IDENTITY.md`, `canon/00_SERIES_DECISIONS_LOCKED.md`, `canon/SUPERSEDED_ARCHIVED.md`; the "use 8 / resolve later" note in `notes/ACT1_DRAFTING_PROMPT.md` marked resolved.
 - **PROPOSED (author to confirm):** **"slim"** as Gramps's longtime nickname for Nolan (used in the scene; not yet in `GRAMPS_GRAMS_STORE_RUNS.md`).
+- Bible regenerated (`MASTER_CANON_BIBLE.md`).
+
+## v13 - "Slim" nickname LOCKED + Nolan appearance recorded (2026-06-23)
+
+- **"Slim" LOCKED** as Gramps's affectionate, Gramps-only nickname for Nolan (from his skinny-kid years). Written into `canon/characters/hale-family/GRAMPS_GRAMS_STORE_RUNS.md` and `canon/NAME_REGISTRY.md`. Clears the PROPOSED flag from v12.
+- **Nolan's appearance recorded** in `canon/characters/hale-family/NOLAN_HALE.md`: ~5'8"; slender athletic build (defined abs, some muscle, proportionate — not bulky/bodybuilder; "skater outside all the time," not "lifts"); dark thick wavy/curly hair. Author supplied a reference photo as the visual touchstone for the build; the written description is the canon of record.
 - Bible regenerated (`MASTER_CANON_BIBLE.md`).
 
 

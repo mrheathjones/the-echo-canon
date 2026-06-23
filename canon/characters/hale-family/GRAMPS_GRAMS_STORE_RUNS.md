@@ -1,7 +1,8 @@
 # Gramps, Grams, And Store Runs
 
-Gramps: Jack Hale I. Called Gramps by everyone.
-Grams: Evelyn Hale. Called Grams by everyone.
+Gramps: Jack Miller, Rachel's father. Called Gramps by everyone.
+Grams: Evelyn Miller, Rachel's mother. Called Grams by everyone.
+Gramps and Grams are Rachel's parents — the kids' maternal grandparents.
 
 Naming story:
 David: “We're naming him Jack.”
@@ -11,6 +12,8 @@ Gramps is sarcastic, practical, dry, funny without trying, and allergic to senti
 
 Gramps and Nolan:
 Nolan and Gramps are best buddies. Gramps is the only one who does not treat Nolan like the bad guy. He sees Nolan's good and expects him to live up to it. He never excuses Nolan's crap and never gives long speeches.
+
+Gramps's nickname for Nolan is **"slim"** — from when Nolan was the skinny one growing up; it stuck. Affectionate, dry, Gramps-only.
 
 Gramps communicates in quick remarks:
 - “You're smarter than that.”

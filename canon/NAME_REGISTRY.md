@@ -3,13 +3,13 @@
 HALE FAMILY:
 - David Hale
 - Rachel Hale
-- Jack Hale II
-- Nolan Hale
+- Jack Hale (named after Gramps, Jack Miller)
+- Nolan Hale / "slim" (Gramps's nickname for him)
 - Emma Hale
 - Lucas Hale
 - Dylan Hale / Dyl
-- Jack Hale I / Gramps
-- Evelyn Hale / Grams
+- Jack Miller / Gramps (Rachel's father)
+- Evelyn Miller / Grams (Rachel's mother)
 
 FRIEND GROUP (surnames locked — proposed; each is a single find-replace to change):
 - Lucas Hale

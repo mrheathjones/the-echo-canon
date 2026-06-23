@@ -4,6 +4,12 @@ Nolan Hale is 19 and Emma's twin.
 
 Status (Book 1): a recent high-school graduate with no clear next step — skating, hanging out, "figuring it out." Being untethered and at loose ends is exactly what makes the Accord's young-adult track land: it offers direction, and a place to be, to someone who has neither.
 
+Appearance:
+- Height around 5'8".
+- Slender, athletic build — lean and proportionate: defined abs and some muscle, but not bulky or bodybuilder-built. Built like someone who skates and is outside all the time, not someone who lifts.
+- Dark, thick, wavy/curly hair.
+(A reference photo is the visual touchstone for the build; this description is the canon of record.)
+
 Core role: Lucas's complicated mirror and warning.
 
 Traits:

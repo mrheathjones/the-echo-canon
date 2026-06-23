@@ -89,3 +89,9 @@
 - **Dylan's age RESOLVED → 10** (was the stale "8" in the dossiers; the cascade's "~10" is now firmed to "10"). Rationale: preserve the deliberate **3-year gap** with Lucas (aged up to 13, so Dylan moves up too). Updated `canon/characters/hale-family/DYLAN_HALE.md`, `canon/characters/hale-family/HALE_FAMILY.md`, `canon/SERIES_IDENTITY.md`, `canon/00_SERIES_DECISIONS_LOCKED.md`, `canon/SUPERSEDED_ARCHIVED.md`; the "use 8 / resolve later" note in `notes/ACT1_DRAFTING_PROMPT.md` marked resolved.
 - **PROPOSED (author to confirm):** **"slim"** as Gramps's longtime nickname for Nolan (used in the scene; not yet in `GRAMPS_GRAMS_STORE_RUNS.md`).
 - Bible regenerated (`MASTER_CANON_BIBLE.md`).
+
+## v13 - "Slim" nickname LOCKED + Nolan appearance recorded (2026-06-23)
+
+- **"Slim" LOCKED** as Gramps's affectionate, Gramps-only nickname for Nolan (from his skinny-kid years). Written into `canon/characters/hale-family/GRAMPS_GRAMS_STORE_RUNS.md` and `canon/NAME_REGISTRY.md`. Clears the PROPOSED flag from v12.
+- **Nolan's appearance recorded** in `canon/characters/hale-family/NOLAN_HALE.md`: ~5'8"; slender athletic build (defined abs, some muscle, proportionate — not bulky/bodybuilder; "skater outside all the time," not "lifts"); dark thick wavy/curly hair. Author supplied a reference photo as the visual touchstone for the build; the written description is the canon of record.
+- Bible regenerated (`MASTER_CANON_BIBLE.md`).
