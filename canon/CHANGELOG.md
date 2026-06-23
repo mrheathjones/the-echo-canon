@@ -125,3 +125,10 @@
 - **Dylan's appearance recorded** in `canon/characters/hale-family/DYLAN_HALE.md`: mixed-race, takes after Rachel in looks (per the family joke); hair is **wavy, not curly** — only curls up a little when wet (the full curls belong to Lucas — a deliberate sibling distinction). **Easygoing about clothes / doesn't care about fashion** — comfortable by default, will wear jeans only if he has to, loves comfy slip-ons (Crocs); fits his authentic, matter-of-fact core. Author supplied a reference photo as the visual touchstone; the written description is the canon of record.
 - Remaining Hale appearances still to build: David, Rachel, Gramps, Grams.
 - Bible regenerated (`MASTER_CANON_BIBLE.md`).
+
+## v19 - David's appearance + the family's racial makeup made explicit (2026-06-23)
+
+- **David's appearance recorded** in `canon/characters/hale-family/DAVID_HALE.md`: **Black man, 41**, ~5'9" ("5'10 on a good day"), average build now but visibly formerly-athletic. Wide-ranging, appearance-conscious style — semi-pro/casual for work (nice jeans, collared shirt/Henley, jacket); slacks-button-up-tie but **never a full suit** for weddings/funerals; nice jeans + nice shirt for date nights; sweats/athletic + plain tee as the everyday default. **Always** wears jewelry (1–2 necklaces, watch, bracelet, wedding ring), a hat, and sneakers — a hat/sneaker head. **Backstory recorded:** appearance matters to him because he grew up poor and couldn't afford nice clothes as a kid.
+- **Family racial makeup now explicit:** David is Black → this is the basis for the kids being **mixed-race** (already canon via `LUCAS_HALE.md`). Rachel's background still unspecified in canon (build when a reference comes in).
+- Remaining Hale appearances still to build: Rachel, Gramps, Grams.
+- Bible regenerated (`MASTER_CANON_BIBLE.md`).

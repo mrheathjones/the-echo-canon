@@ -2,6 +2,20 @@
 
 David Hale is the father of the Hale family.
 
+Appearance:
+- Black man, 41. Around 5'9" ("5'10 on a good day").
+- Average build for his age — but he was very athletic when he was younger and you can still see it on him.
+- (David being Black is what makes the kids mixed-race; cf. `LUCAS_HALE.md`.)
+
+Style (wide range — appearance matters to him):
+- **Work:** semi-professional/casual — nice jeans, a collared shirt or Henley, a nice jacket.
+- **Occasions (weddings/funerals):** slacks, button-up, tie — but **never a full suit**.
+- **Date nights:** nice jeans, a nice shirt.
+- **Default/everyday:** sweatpants or athletic pants/shorts, a clean plain t-shirt.
+- **Always:** some jewelry (1–2 necklaces, a watch, a bracelet, his wedding ring), a hat, and sneakers. He's a hat-and-sneaker head with a decent collection of both.
+- **Why it matters to him:** he grew up poor and couldn't afford nice clothes as a kid; looking good now is partly about that. (Character backstory, not just wardrobe.)
+- (A reference photo is the visual touchstone; this description is the canon of record.)
+
 Core role: movement, legacy, knowledge, family traditions.
 
 Known traits:
