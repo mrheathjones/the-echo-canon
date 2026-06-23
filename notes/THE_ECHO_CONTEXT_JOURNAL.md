@@ -86,6 +86,7 @@ NEXT TO DRAFT/FIX: see §10.
 - **Local clone (working):** `/Users/heath/Downloads/the-echo-local` — canon under `canon/`, scenes under `drafts/scenes/`, tools under `tools/`, journal at `notes/THE_ECHO_CONTEXT_JOURNAL.md`.
 - Scenes drafted so far: `drafts/scenes/act1_brother_store_run.md`, `act2a_abby_seed.md`, `act2a_devon_persuasive_scene.md`, `act2a_midpoint.md`, `act3_garden_climax.md`, `act2b_recoil.md`, `act2b_maya_eli_correction.md`, `act3_nolan_climax.md`.
 - (Old cloud-sandbox paths under `/mnt/…` and `/home/claude/…` are from the original build session and no longer apply.)
+- `notes/ACT1_DRAFTING_PROMPT.md` — standing Act-1 build guide / drafting prompt (write the Hale dinner first).
 
 ## 10. OPEN ITEMS / DECISIONS PENDING
 - ✅ **Prior sessions:** Book 1 **skeleton drafted** (8 load-bearing scenes; see §5) and **all accepted review fixes W1–W10 discharged** (§4). Spine proven end-to-end.
