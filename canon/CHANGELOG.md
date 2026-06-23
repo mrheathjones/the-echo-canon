@@ -139,3 +139,9 @@
 - **Confirms the family makeup:** Rachel white + David Black → the kids are mixed-race (already canon via `LUCAS_HALE.md`). All Hale racial backgrounds now explicit.
 - Remaining Hale appearances still to build: Gramps, Grams (maternal grandparents).
 - Bible regenerated (`MASTER_CANON_BIBLE.md`).
+
+## v21 - Rachel's trauma source clarified (Grams, not Gramps) (2026-06-23)
+
+- **Rachel's trauma refined** in `canon/characters/hale-family/RACHEL_HALE.md`: source is mainly her relationship with her **mother (Grams/Evelyn)** growing up, plus an **older sibling kept deliberately off-page** ("we don't bring it up"). **Gramps (Jack Miller) is explicitly NOT part of it** — keeps him consistent as the warm safe harbor (esp. for Nolan). Rachel & Grams have mended *some* of it but can only do **controlled doses**; Rachel **bites her tongue / fakes it to keep the peace**. Replaces the older, looser "parents, older brother, and older sister have unresolved issues with her" line that wrongly implicated Gramps and over-specified the siblings.
+- **Cross-note added** to `canon/characters/hale-family/GRAMPS_GRAMS_STORE_RUNS.md` ("Grams and Rachel — handle with care"): the complicated history is Grams's side; surface warmth is real, history sits underneath; don't villainize Grams; Gramps stays unentangled. Resolves the tension flagged last session (warm grandparents vs. Rachel limiting exposure).
+- Bible regenerated (`MASTER_CANON_BIBLE.md`).

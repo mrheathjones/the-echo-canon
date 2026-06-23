@@ -932,7 +932,9 @@ Rachel loves her kids deeply but does not pretend they are perfect. She sees fla
 She is a fierce protector. She knows her kids are not angels, but they are not demons either. She believes in accountability and fairness. She will not stand by while someone attacks her children. This extends to children generally. David jokingly calls her an Avenger when it comes to child safety.
 
 Trauma:
-Rachel has unresolved childhood trauma and PTSD from things that happened growing up. Her parents, older brother, and older sister have unresolved issues with her. They can tolerate each other in controlled doses, but Rachel limits exposure. She is in counseling and dealing with it there. The trauma increases her protectiveness, but it does not define every part of her.
+Rachel has unresolved childhood trauma and PTSD from things that happened growing up. The source is mainly her relationship with her mother (**Grams / Evelyn**) growing up, plus an **older sibling** whose story the series deliberately keeps off-page — we don't bring it up. **Her father (Gramps / Jack Miller) is NOT part of this** — he's a warm presence and the kids' safe harbor (esp. Nolan); keep him clear of it.
+
+She and Grams have mended *some* of it, but Rachel knows they can't spend too much consecutive time together before it frays — controlled doses only. To keep the peace she often bites her tongue, or fakes it. She is in counseling and dealing with it there. The trauma increases her protectiveness, but it does not define every part of her.
 
 Personality:
 Funny, stubborn, blunt but not mean, honest, overthinker, worrier, respects honesty, social and likable but struggles with vulnerability in friendships. David says, “Rachel has friends; friends don't have Rachel.” She acknowledges this but finds it hard to change.
@@ -1097,6 +1099,9 @@ David: “We're naming him Jack.”
 Gramps: “That's a terrible name.”
 
 Gramps is sarcastic, practical, dry, funny without trying, and allergic to sentimentality.
+
+Grams and Rachel (handle with care):
+The complicated family history is on **Grams's** side, not Gramps's. Rachel's childhood trauma traces mainly to her relationship with her mother (Grams) growing up — see `RACHEL_HALE.md`. They've mended some of it and are genuinely affectionate on the surface, but it runs in controlled doses; Rachel bites her tongue to keep the peace, and too much consecutive time frays. Gramps is unentangled from this and stays the family's warm anchor. (Don't paint Grams as a villain — the warmth is real; the history just sits underneath it.)
 
 Gramps and Nolan:
 Nolan and Gramps are best buddies. Gramps is the only one who does not treat Nolan like the bad guy. He sees Nolan's good and expects him to live up to it. He never excuses Nolan's crap and never gives long speeches.
@@ -2053,6 +2058,12 @@ The original sanitized review package (`THE_ECHO_REVIEW_PACKAGE.md`, never commi
 - **Rachel's appearance recorded** in `canon/characters/hale-family/RACHEL_HALE.md`: **white woman, 41**, short (~5'0", the exact number a running family debate), always small growing up with some weight added by time. **Comfy default** — leggings/jeans + tee/hoodie, messy bun, glasses (noted as the likely source of the kids' comfort-first dressing); small nose ring, multiple earrings; dolls up when going out (dresses, sheer overshirts, makeup/nails, curled/waved hair) — mirrors Emma's comfy-default/dressed-up-when-out. Sandals-or-sneakers, not heels. Hair usually brown/auburn, sometimes dyed fun-but-not-extreme colors (red the favorite). Visual touchstone: Danielle Fishel.
 - **Confirms the family makeup:** Rachel white + David Black → the kids are mixed-race (already canon via `LUCAS_HALE.md`). All Hale racial backgrounds now explicit.
 - Remaining Hale appearances still to build: Gramps, Grams (maternal grandparents).
+- Bible regenerated (`MASTER_CANON_BIBLE.md`).
+
+## v21 - Rachel's trauma source clarified (Grams, not Gramps) (2026-06-23)
+
+- **Rachel's trauma refined** in `canon/characters/hale-family/RACHEL_HALE.md`: source is mainly her relationship with her **mother (Grams/Evelyn)** growing up, plus an **older sibling kept deliberately off-page** ("we don't bring it up"). **Gramps (Jack Miller) is explicitly NOT part of it** — keeps him consistent as the warm safe harbor (esp. for Nolan). Rachel & Grams have mended *some* of it but can only do **controlled doses**; Rachel **bites her tongue / fakes it to keep the peace**. Replaces the older, looser "parents, older brother, and older sister have unresolved issues with her" line that wrongly implicated Gramps and over-specified the siblings.
+- **Cross-note added** to `canon/characters/hale-family/GRAMPS_GRAMS_STORE_RUNS.md` ("Grams and Rachel — handle with care"): the complicated history is Grams's side; surface warmth is real, history sits underneath; don't villainize Grams; Gramps stays unentangled. Resolves the tension flagged last session (warm grandparents vs. Rachel limiting exposure).
 - Bible regenerated (`MASTER_CANON_BIBLE.md`).
 
 

@@ -34,7 +34,9 @@ Rachel loves her kids deeply but does not pretend they are perfect. She sees fla
 She is a fierce protector. She knows her kids are not angels, but they are not demons either. She believes in accountability and fairness. She will not stand by while someone attacks her children. This extends to children generally. David jokingly calls her an Avenger when it comes to child safety.
 
 Trauma:
-Rachel has unresolved childhood trauma and PTSD from things that happened growing up. Her parents, older brother, and older sister have unresolved issues with her. They can tolerate each other in controlled doses, but Rachel limits exposure. She is in counseling and dealing with it there. The trauma increases her protectiveness, but it does not define every part of her.
+Rachel has unresolved childhood trauma and PTSD from things that happened growing up. The source is mainly her relationship with her mother (**Grams / Evelyn**) growing up, plus an **older sibling** whose story the series deliberately keeps off-page — we don't bring it up. **Her father (Gramps / Jack Miller) is NOT part of this** — he's a warm presence and the kids' safe harbor (esp. Nolan); keep him clear of it.
+
+She and Grams have mended *some* of it, but Rachel knows they can't spend too much consecutive time together before it frays — controlled doses only. To keep the peace she often bites her tongue, or fakes it. She is in counseling and dealing with it there. The trauma increases her protectiveness, but it does not define every part of her.
 
 Personality:
 Funny, stubborn, blunt but not mean, honest, overthinker, worrier, respects honesty, social and likable but struggles with vulnerability in friendships. David says, “Rachel has friends; friends don't have Rachel.” She acknowledges this but finds it hard to change.
