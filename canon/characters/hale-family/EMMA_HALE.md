@@ -2,6 +2,13 @@
 
 Emma Hale is 19 and Nolan's twin.
 
+Appearance:
+- Mixed-race, consistent with the family (cf. `LUCAS_HALE.md`). Slender build.
+- Hair almost always in long braids (box braids), sometimes with a few colored threads woven in — her low-maintenance default.
+- Default look is comfy/cozy: oversized knits, loungewear, and little to no makeup day-to-day.
+- The tell is the exception: when she's going "out" for the day she'll actually dress up and do fuller makeup. The contrast — comfy-by-default vs. put-together when it counts — fits her "dressing up / photoshoots" streak (see Interests).
+- (A reference photo is the visual touchstone for hair and vibe; this description is the canon of record.)
+
 Future career: Registered Nurse.
 
 Core Want: worth.
