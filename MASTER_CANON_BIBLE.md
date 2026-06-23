@@ -1094,6 +1094,12 @@ Gramps: Jack Miller, Rachel's father. Called Gramps by everyone.
 Grams: Evelyn Miller, Rachel's mother. Called Grams by everyone.
 Gramps and Grams are Rachel's parents — the kids' maternal grandparents.
 
+Appearance:
+Both are older, white, and a little on the heavier side — average for their ages — with the warmth of a Mr. and Mrs. Claus if you squinted. Both wear glasses.
+- **Gramps:** unfussy and the same most days — jeans, comfy shoes, and a colored checkered shirt (usually a blue or green — almost never the stereotypical red/black, and not necessarily flannel) worn open over a plain t-shirt. White/silver hair and a trim white beard help the Santa-if-you-squint read. His look matches the man: practical, comfortable, allergic to fuss.
+- **Grams:** a little more trendy than Gramps, but age-appropriate — soft knit cardigans and tops, a scarf she actually picked, comfortable stylish flats; silver hair she keeps done. Put-together without trying to look younger than she is.
+(These descriptions fit the author's brief; adjust freely. A reference image is the touchstone for the Claus-ish warmth.)
+
 Naming story:
 David: “We're naming him Jack.”
 Gramps: “That's a terrible name.”
@@ -2064,6 +2070,11 @@ The original sanitized review package (`THE_ECHO_REVIEW_PACKAGE.md`, never commi
 
 - **Rachel's trauma refined** in `canon/characters/hale-family/RACHEL_HALE.md`: source is mainly her relationship with her **mother (Grams/Evelyn)** growing up, plus an **older sibling kept deliberately off-page** ("we don't bring it up"). **Gramps (Jack Miller) is explicitly NOT part of it** — keeps him consistent as the warm safe harbor (esp. for Nolan). Rachel & Grams have mended *some* of it but can only do **controlled doses**; Rachel **bites her tongue / fakes it to keep the peace**. Replaces the older, looser "parents, older brother, and older sister have unresolved issues with her" line that wrongly implicated Gramps and over-specified the siblings.
 - **Cross-note added** to `canon/characters/hale-family/GRAMPS_GRAMS_STORE_RUNS.md` ("Grams and Rachel — handle with care"): the complicated history is Grams's side; surface warmth is real, history sits underneath; don't villainize Grams; Gramps stays unentangled. Resolves the tension flagged last session (warm grandparents vs. Rachel limiting exposure).
+- Bible regenerated (`MASTER_CANON_BIBLE.md`).
+
+## v22 - Gramps & Grams appearances recorded (2026-06-23)
+
+- **Gramps & Grams appearances recorded** in `canon/characters/hale-family/GRAMPS_GRAMS_STORE_RUNS.md` (author delegated the specifics within a brief): both older, white, a little heavier (average for their ages), faint Mr./Mrs. Claus warmth, both in glasses. **Gramps** — jeans, comfy shoes, a colored checkered shirt (usually **blue or green**, almost never red/black, not necessarily flannel) worn open over a plain tee; white/silver hair + trim white beard. **Grams** — a little trendier but age-appropriate (knit cardigans/tops, a scarf, comfortable stylish flats, silver hair kept done). Flagged as fitting-the-brief/adjustable. **Completes appearances for all immediate Hales + maternal grandparents.**
 - Bible regenerated (`MASTER_CANON_BIBLE.md`).
 
 

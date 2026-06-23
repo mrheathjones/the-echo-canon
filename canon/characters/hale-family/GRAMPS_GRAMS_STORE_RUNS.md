@@ -4,6 +4,12 @@ Gramps: Jack Miller, Rachel's father. Called Gramps by everyone.
 Grams: Evelyn Miller, Rachel's mother. Called Grams by everyone.
 Gramps and Grams are Rachel's parents — the kids' maternal grandparents.
 
+Appearance:
+Both are older, white, and a little on the heavier side — average for their ages — with the warmth of a Mr. and Mrs. Claus if you squinted. Both wear glasses.
+- **Gramps:** unfussy and the same most days — jeans, comfy shoes, and a colored checkered shirt (usually a blue or green — almost never the stereotypical red/black, and not necessarily flannel) worn open over a plain t-shirt. White/silver hair and a trim white beard help the Santa-if-you-squint read. His look matches the man: practical, comfortable, allergic to fuss.
+- **Grams:** a little more trendy than Gramps, but age-appropriate — soft knit cardigans and tops, a scarf she actually picked, comfortable stylish flats; silver hair she keeps done. Put-together without trying to look younger than she is.
+(These descriptions fit the author's brief; adjust freely. A reference image is the touchstone for the Claus-ish warmth.)
+
 Naming story:
 David: “We're naming him Jack.”
 Gramps: “That's a terrible name.”
