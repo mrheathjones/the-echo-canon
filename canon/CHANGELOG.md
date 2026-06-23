@@ -132,3 +132,10 @@
 - **Family racial makeup now explicit:** David is Black → this is the basis for the kids being **mixed-race** (already canon via `LUCAS_HALE.md`). Rachel's background still unspecified in canon (build when a reference comes in).
 - Remaining Hale appearances still to build: Rachel, Gramps, Grams.
 - Bible regenerated (`MASTER_CANON_BIBLE.md`).
+
+## v20 - Rachel's appearance recorded (2026-06-23)
+
+- **Rachel's appearance recorded** in `canon/characters/hale-family/RACHEL_HALE.md`: **white woman, 41**, short (~5'0", the exact number a running family debate), always small growing up with some weight added by time. **Comfy default** — leggings/jeans + tee/hoodie, messy bun, glasses (noted as the likely source of the kids' comfort-first dressing); small nose ring, multiple earrings; dolls up when going out (dresses, sheer overshirts, makeup/nails, curled/waved hair) — mirrors Emma's comfy-default/dressed-up-when-out. Sandals-or-sneakers, not heels. Hair usually brown/auburn, sometimes dyed fun-but-not-extreme colors (red the favorite). Visual touchstone: Danielle Fishel.
+- **Confirms the family makeup:** Rachel white + David Black → the kids are mixed-race (already canon via `LUCAS_HALE.md`). All Hale racial backgrounds now explicit.
+- Remaining Hale appearances still to build: Gramps, Grams (maternal grandparents).
+- Bible regenerated (`MASTER_CANON_BIBLE.md`).

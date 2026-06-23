@@ -2,6 +2,15 @@
 
 Rachel Hale is the mother of the Hale family.
 
+Appearance:
+- White woman, 41. Short — about 5'0", though the exact number is a running family debate. She was always small growing up; time has added some weight.
+- **Default style is comfy** — almost always leggings or jeans with a t-shirt or hoodie, hair in a messy bun, glasses. (This comfy default is most likely where the Hale kids get theirs.)
+- Small nose ring; multiple earrings.
+- **Going out, she dolls up:** nice dresses, sheer overshirts, makeup and nails done, hair curled or waved, nice jeans if the occasion calls. (Mirrors Emma's comfy-by-default / dressed-up-when-out — a mother/daughter echo.)
+- A sandals-or-sneakers person, not a heels person.
+- Hair usually brown/auburn; she sometimes dyes it fun-but-not-extreme colors, with some shade of **red** the favorite.
+- Visual touchstone: think Danielle Fishel. (A reference photo is the visual touchstone; this description is the canon of record.)
+
 Career:
 Rachel works as a Senior Office Manager at a medium-sized financial company. She does not have a college degree because she had children relatively young, but she has been with the company forever and worked her way up. She oversees day-to-day administrative, financial, and operational functions; coordinates staff below her; bridges her boss and the rest of the staff; and is indispensable.
 
