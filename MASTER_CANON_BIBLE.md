@@ -792,6 +792,12 @@ Nolan sees the pressure Emma puts on herself and tries to remind her it is mostl
 
 Dylan Hale is 10.
 
+Appearance:
+- Mixed-race; takes after Rachel in looks (cf. the family joke below — "Dylan looks like Rachel but acts like David").
+- Hair is wavy, nowhere near as curly as Lucas's — it only curls up a little when wet. The full curls belong to Lucas; that's a deliberate sibling distinction.
+- Easygoing about clothes — doesn't really care about fashion. Comfortable by default; will wear jeans if he has to but doesn't prefer them. Loves comfy slip-on shoes (Crocs). His not-caring fits his authentic, matter-of-fact, "knows exactly who he is" core.
+- (A reference photo is the visual touchstone for hair and face; this description is the canon of record.)
+
 Core Want: possibility.
 Role: keeper of possibility.
 Theme: stay yourself.
@@ -2004,6 +2010,12 @@ The original sanitized review package (`THE_ECHO_REVIEW_PACKAGE.md`, never commi
 
 - **Nolan's style recorded** in `canon/characters/hale-family/NOLAN_HALE.md` (appended to Appearance): best-dressed of the Hale kids — comfort plus loves to look good (nice jeans, polos, quarter-zips, sweaters); preppy streetwear with a punk/skater edge. Deliberately contrasts the comfort-first/"never jeans" siblings (Jack, Lucas) and tracks with his charisma/room-control and chameleon canon.
 - Remaining Hale appearances still to build: David, Rachel, Dylan, Gramps, Grams.
+- Bible regenerated (`MASTER_CANON_BIBLE.md`).
+
+## v18 - Dylan's appearance recorded (2026-06-23)
+
+- **Dylan's appearance recorded** in `canon/characters/hale-family/DYLAN_HALE.md`: mixed-race, takes after Rachel in looks (per the family joke); hair is **wavy, not curly** — only curls up a little when wet (the full curls belong to Lucas — a deliberate sibling distinction). **Easygoing about clothes / doesn't care about fashion** — comfortable by default, will wear jeans only if he has to, loves comfy slip-ons (Crocs); fits his authentic, matter-of-fact core. Author supplied a reference photo as the visual touchstone; the written description is the canon of record.
+- Remaining Hale appearances still to build: David, Rachel, Gramps, Grams.
 - Bible regenerated (`MASTER_CANON_BIBLE.md`).
 
 

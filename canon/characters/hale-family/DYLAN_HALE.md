@@ -2,6 +2,12 @@
 
 Dylan Hale is 10.
 
+Appearance:
+- Mixed-race; takes after Rachel in looks (cf. the family joke below — "Dylan looks like Rachel but acts like David").
+- Hair is wavy, nowhere near as curly as Lucas's — it only curls up a little when wet. The full curls belong to Lucas; that's a deliberate sibling distinction.
+- Easygoing about clothes — doesn't really care about fashion. Comfortable by default; will wear jeans if he has to but doesn't prefer them. Loves comfy slip-on shoes (Crocs). His not-caring fits his authentic, matter-of-fact, "knows exactly who he is" core.
+- (A reference photo is the visual touchstone for hair and face; this description is the canon of record.)
+
 Core Want: possibility.
 Role: keeper of possibility.
 Theme: stay yourself.
