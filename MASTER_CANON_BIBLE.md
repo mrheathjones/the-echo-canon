@@ -5,7 +5,7 @@
 
 _Assembled automatically from the `canon/` source files. **Do not edit by hand** — edit `canon/` and run `tools/build_bible.sh`._
 
-_Generated: 2026-06-22 · 52 source files._
+_Generated: 2026-06-22 · 53 source files._
 
 ## Contents
 
@@ -59,8 +59,9 @@ _Generated: 2026-06-22 · 52 source files._
 48. Open Canon Questions  —  `canon/OPEN_QUESTIONS.md`
 49. Superseded / Archived Development Notes  —  `canon/SUPERSEDED_ARCHIVED.md`
 50. Canon Changelog  —  `canon/CHANGELOG.md`
-51. Nolan's Driving — The Four-MPH Turn (series motif / tuning fork)  —  `canon/characters/hale-family/NOLAN_DRIVING_TELL.md`
-52. Accord Enrollment & Consent (the under-21 gate)  —  `canon/world/accord/ENROLLMENT_AND_CONSENT.md`
+51. Hale Family Affection And Goodbyes  —  `canon/characters/hale-family/AFFECTION_AND_GOODBYES.md`
+52. Nolan's Driving — The Four-MPH Turn (series motif / tuning fork)  —  `canon/characters/hale-family/NOLAN_DRIVING_TELL.md`
+53. Accord Enrollment & Consent (the under-21 gate)  —  `canon/world/accord/ENROLLMENT_AND_CONSENT.md`
 
 
 ---
@@ -1004,6 +1005,8 @@ Lucas and Nolan mirror each other:
 - Nolan reacts by joking, provoking, teasing, and controlling the room.
 
 Both must learn that intent and impact are not the same.
+
+Sincerity register: the family's spoken affection — the goodbye rule and the "I love you" slots — is detailed in `AFFECTION_AND_GOODBYES.md`. Roasting is how they talk; the thresholds are where they say it plainly.
 
 
 ---
@@ -1967,6 +1970,36 @@ The original sanitized review package (`THE_ECHO_REVIEW_PACKAGE.md`, never commi
 - **"Abby may warrant her own book" recorded** (both external reviews raised it): noted as a forward series-roadmap consideration (specific book/slot undecided) in a new "Series roadmap (forward — not yet locked)" section of `canon/00_SERIES_DECISIONS_LOCKED.md`, with the substantive note in `canon/characters/accord/ABIGAIL_ABBY_WHITMORE.md` → Series role beyond Book 1.
 - **Minor:** refreshed the stale Devon line in the spine's "## Open" (surname + track-role are locked; only the optional family beat remains).
 - Bible regenerated (`MASTER_CANON_BIBLE.md`).
+
+## v10 - Hale affection/goodbye canon + Act-1 prompt guardrail correction (2026-06-22)
+
+- **New canon:** `canon/characters/hale-family/AFFECTION_AND_GOODBYES.md` — the family's spoken affection. Records the **LOCKED goodbye rule** (you always say goodbye when you leave; exception only when people are asleep / very early or late) and the **"I love you" texture** (said easily in natural slots — leaving, hanging up, goodnight: **Rachel** freely to all kids + Mom↔Dad; **David** to the **Littles** + Mom, **less to the Bigs** as aging-up texture, not distance; Lucas's taper **has not begun** — don't play it early). Carries the **teasing-default-but-not-unsentimental** guardrail (the contrast between barbs and a doorway "love you" is the point) and flags the goodbye as a **deliberate-spend motif** — handled like the **driving tell** (`NOLAN_DRIVING_TELL.md`): a broken/half-meant goodbye lands as a rule breaking, so don't waste the first one on a small moment.
+- **Cross-link:** `canon/characters/hale-family/HUMOR_AND_VOICE.md` gains a closing "Sincerity register" line pointing to `AFFECTION_AND_GOODBYES.md`, so the new file is discoverable from the voice doc (roasting is how they talk; the thresholds are where they say it plainly).
+- **Prompt corrected to match:** `notes/ACT1_DRAFTING_PROMPT.md` updated so the Hale-dinner guardrail no longer reads "warmth through teasing, **never** sentiment" (which contradicted the new canon). The button, plant/bank checklist, voice-and-guardrails, pitfalls, and continuity sections now route the goodbye rule + "I love you" slots through `AFFECTION_AND_GOODBYES.md` and hold the teasing↔sincerity contrast. (Standing build guide, not canon.)
+- Bible regenerated (`MASTER_CANON_BIBLE.md`).
+
+
+---
+
+<!-- source: canon/characters/hale-family/AFFECTION_AND_GOODBYES.md -->
+
+# Hale Family Affection And Goodbyes
+
+The Hales talk through teasing, but they are not unsentimental. Roasting is the default register *inside* a conversation; sincerity has its own protected slots — and one hard rule.
+
+## LOCKED RULE — the goodbye
+You always say goodbye when you leave. Every time. The only exception is very early or very late when people are asleep. Slipping out without a goodbye is not a Hale thing to do — when it happens, it registers.
+
+> **Series note (handle like the driving tell):** this is a load-bearing rule, not just warmth. A family law about *always* saying goodbye is a tuning fork for a series in which a brother drifts away — a broken, skipped, or half-meant goodbye lands with the weight of a rule breaking, not just a sad exit. Spend it deliberately; do not waste the first broken goodbye on a small moment. Cf. `NOLAN_DRIVING_TELL.md`.
+
+## "I love you" — who says it, and when
+Said often and easily, in natural slots: leaving, getting off the phone, goodnight.
+- **Rachel (Mom)** says it freely — to all the kids, and Mom↔Dad.
+- **David (Dad)** says it to the **Littles** (Lucas, Dylan) and to Mom. He says it **less often to the Bigs** (Jack, Nolan, Emma) — this is **aging-up texture, not distance**: the casual "love you" naturally thins as the older kids grow, and nothing is wrong between them.
+- **Lucas** is still a Little and still gets it — but he is just reaching the age where Dad's frequency may begin to slowly taper. **That tapering has not begun yet.** (Available as quiet coming-of-age texture later; not yet a beat — do not play it early.)
+
+## Craft guardrail — the contrast is the point
+Teasing and sincerity make each other land. A scene that is *all* barbs reads as a sitcom; a scene that is *all* sentiment reads as a different family. The Hale move is a table full of roasting, and then "love you" in the doorway, meant. The teasing keeps the sincerity from going saccharine; the sincerity proves the teasing was affection all along. When something is genuinely serious, the jokes disappear (see `HUMOR_AND_VOICE.md`).
 
 
 ---

@@ -18,3 +18,5 @@ Lucas and Nolan mirror each other:
 - Nolan reacts by joking, provoking, teasing, and controlling the room.
 
 Both must learn that intent and impact are not the same.
+
+Sincerity register: the family's spoken affection — the goodbye rule and the "I love you" slots — is detailed in `AFFECTION_AND_GOODBYES.md`. Roasting is how they talk; the thresholds are where they say it plainly.
