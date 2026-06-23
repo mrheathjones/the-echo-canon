@@ -101,3 +101,9 @@
 - **Emma's appearance recorded** in `canon/characters/hale-family/EMMA_HALE.md`: mixed-race (consistent with the family per `LUCAS_HALE.md`), slender; hair almost always in long box braids (sometimes a few colored threads), comfy/cozy default (oversized knits, loungewear), little-to-no makeup day-to-day — dressing up + fuller makeup only when going "out" (ties to her existing "dressing up / photoshoots" interest). Author supplied a reference photo as the visual touchstone; the written description is the canon of record.
 - Note: the family being **mixed-race** was already canon (`LUCAS_HALE.md`), which keeps Emma's braids and Nolan's wavy hair consistent siblings. Remaining Hale appearances (David, Rachel, Lucas, Dylan, Jack, Gramps, Grams) still to be built as references come in.
 - Bible regenerated (`MASTER_CANON_BIBLE.md`).
+
+## v15 - Jack's appearance recorded (2026-06-23)
+
+- **Jack's appearance recorded** in `canon/characters/hale-family/JACK_HALE.md`: mixed-race (per the family); hair similar to Nolan's (dark, thick, wavy/curly, usually longer/tousled), full often-scruffy beard, glasses; small-gauge ear gauges and a couple of tattoos. **Comfort-first style** — "cozy boy" / "chill guy" / soft-grunge: hoodies, layered flannel/overshirt over a tee, sweatpants; never jeans-and-a-collared-shirt. Linked to his core want (belonging/home). Author supplied a reference photo as the visual touchstone; the written description is the canon of record.
+- Remaining Hale appearances still to build: David, Rachel, Lucas, Dylan, Gramps, Grams.
+- Bible regenerated (`MASTER_CANON_BIBLE.md`).

@@ -1981,6 +1981,12 @@ The original sanitized review package (`THE_ECHO_REVIEW_PACKAGE.md`, never commi
 - Note: the family being **mixed-race** was already canon (`LUCAS_HALE.md`), which keeps Emma's braids and Nolan's wavy hair consistent siblings. Remaining Hale appearances (David, Rachel, Lucas, Dylan, Jack, Gramps, Grams) still to be built as references come in.
 - Bible regenerated (`MASTER_CANON_BIBLE.md`).
 
+## v15 - Jack's appearance recorded (2026-06-23)
+
+- **Jack's appearance recorded** in `canon/characters/hale-family/JACK_HALE.md`: mixed-race (per the family); hair similar to Nolan's (dark, thick, wavy/curly, usually longer/tousled), full often-scruffy beard, glasses; small-gauge ear gauges and a couple of tattoos. **Comfort-first style** — "cozy boy" / "chill guy" / soft-grunge: hoodies, layered flannel/overshirt over a tee, sweatpants; never jeans-and-a-collared-shirt. Linked to his core want (belonging/home). Author supplied a reference photo as the visual touchstone; the written description is the canon of record.
+- Remaining Hale appearances still to build: David, Rachel, Lucas, Dylan, Gramps, Grams.
+- Bible regenerated (`MASTER_CANON_BIBLE.md`).
+
 
 ---
 
@@ -2016,6 +2022,13 @@ Jack Hale is the oldest Hale child.
 Age: 21.
 
 He is away at college studying history.
+
+Appearance:
+- Mixed-race, consistent with the family (cf. `LUCAS_HALE.md`).
+- Hair similar to Nolan's — dark, thick, wavy/curly — usually a bit longer and more tousled. Full beard, often scruffy. Wears glasses.
+- Small-gauge ear gauges and a couple of tattoos.
+- **Comfort-first style ("cozy boy" / "chill guy" / soft-grunge):** hoodies, a layered flannel or open overshirt/jacket over a t-shirt, sweatpants. Never the jeans-and-a-collared-shirt look — dressing "up" is not a Jack thing. The cozy aesthetic mirrors his core want (belonging / home) — he literally wears comfort.
+- (A reference photo is the visual touchstone; this description is the canon of record.)
 
 Name: named after Gramps — Jack Miller, Rachel's father. David and Rachel named their firstborn after Rachel's dad out of respect and love.
 

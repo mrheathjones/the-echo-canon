@@ -1,12 +1,19 @@
-# Jack Hale II
+# Jack Hale
 
-Jack Hale II is the oldest Hale child.
+Jack Hale is the oldest Hale child.
 
 Age: 21.
 
 He is away at college studying history.
 
-Name: named after Gramps, Jack Hale I. David named his firstborn after his father out of respect and love.
+Appearance:
+- Mixed-race, consistent with the family (cf. `LUCAS_HALE.md`).
+- Hair similar to Nolan's — dark, thick, wavy/curly — usually a bit longer and more tousled. Full beard, often scruffy. Wears glasses.
+- Small-gauge ear gauges and a couple of tattoos.
+- **Comfort-first style ("cozy boy" / "chill guy" / soft-grunge):** hoodies, a layered flannel or open overshirt/jacket over a t-shirt, sweatpants. Never the jeans-and-a-collared-shirt look — dressing "up" is not a Jack thing. The cozy aesthetic mirrors his core want (belonging / home) — he literally wears comfort.
+- (A reference photo is the visual touchstone; this description is the canon of record.)
+
+Name: named after Gramps — Jack Miller, Rachel's father. David and Rachel named their firstborn after Rachel's dad out of respect and love.
 
 Core Want: belonging.
 Fear: being left behind by time / losing home.
