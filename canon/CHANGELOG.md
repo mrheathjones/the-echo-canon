@@ -59,3 +59,10 @@
 - **Track-role LOCKED:** young-adult-track **Guide** (the Accord's warm term, not "recruiter"). Seated on the **outreach/reach** side — Nathan's lever in the second clock (decision 8 / `canon/world/accord/POWER_STRUCTURE.md`) — with **no line to Adrian**: shaped by a design he can't see, connecting upward only through outreach (keeps the Architect off-page per the Devon design-rule). Added a "Role & place in the structure" section to the dossier.
 - **Still open for Devon:** only the optional family-aimed persuasive beat (deferred by design).
 - Bible regenerated (`MASTER_CANON_BIBLE.md`).
+
+## v9 - Endgame-protecting obligations: Nathan-mess seed + Abby's-own-book recorded (2026-06-22)
+
+- **Phase-2 dramatization debt promoted to a standing Book-1 obligation** (external-review note): Book 1 must **seed Nathan's relationship to mess early** — a small on-page flicker of him delighting in something unflattened — so his series-long Phase-2 turn reads as a *return*, not a thesis. Recorded in `canon/story/BOOK_1_SPINE.md` (new "Standing obligations" section), upgraded in `canon/characters/accord/NATHAN_WHITMORE_CURATOR.md`, and cross-referenced from `canon/00_SERIES_DECISIONS_LOCKED.md` decision 8.
+- **"Abby may warrant her own book" recorded** (both external reviews raised it): noted as a forward series-roadmap consideration (specific book/slot undecided) in a new "Series roadmap (forward — not yet locked)" section of `canon/00_SERIES_DECISIONS_LOCKED.md`, with the substantive note in `canon/characters/accord/ABIGAIL_ABBY_WHITMORE.md` → Series role beyond Book 1.
+- **Minor:** refreshed the stale Devon line in the spine's "## Open" (surname + track-role are locked; only the optional family beat remains).
+- Bible regenerated (`MASTER_CANON_BIBLE.md`).

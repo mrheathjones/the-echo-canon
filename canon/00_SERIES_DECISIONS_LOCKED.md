@@ -37,6 +37,7 @@ Suggested repo home: `canon/` (top level, alongside the bible).
    - **Phase 2 (later):** Nathan's healing matures past self-forgiveness into rediscovering the value of imperfection, uncertainty, and mess → he sees that the Gray flattens the very mess he's relearned to love → he turns against the design. This is the hinge into the schism (decision 9).
 
    This *sequences* existing canon, it doesn't replace it: the seeded "Nathan rediscovers messiness → tension with Adrian" turn is the **Phase-2 end-state**; Phase 1 is new, inserted before it. See `canon/world/accord/POWER_STRUCTURE.md`, `canon/characters/accord/NATHAN_WHITMORE_CURATOR.md`, `canon/characters/accord/ADRIAN_MERCER_ARCHITECT.md`.
+   - **Standing Book-1 obligation (protects the endgame):** Book 1 must *seed Nathan's relationship to mess* early so the Phase-2 turn reads as a **return**, not a thesis — see `canon/story/BOOK_1_SPINE.md` → Standing obligations.
 
 9. **Series endgame shape — the SCHISM.**
    The endgame is not reform, and not a faction war to win; it's the magic system at institutional scale. As the cost of the Gray surfaces, the Accord **splits between those who can hold not-knowing and those who can't** — the same HOLD choice the friend group makes on the page (`canon/world/echo/ECHO_MECHANICS_RESOLUTION.md`), now propagating person-by-person through the institution the way the Gray itself spreads. Both wings are sympathetic; there is **no villain to defeat.** Nathan's wing eventually = can hold not-knowing; Adrian's wing = can't (he believes every problem has a solution). The Phase-2 turn in decision 8 is what opens the fracture. See `canon/world/accord/POWER_STRUCTURE.md`, `canon/THEMES.md`.
@@ -53,3 +54,11 @@ Suggested repo home: `canon/` (top level, alongside the bible).
 
 - **Maya's surname** — locked (proposed): **Sinclair** (must NOT be "Whitmore," which collides with the founding family). Adjustable via a single find-replace; finalize before print.
 - **Devon Cross** — sincere Accord young-adult-track **Guide**; Book 1's active antagonistic force. Core + surname (**Cross**) + track-role (**Guide**, on Nathan's reach lever; no Adrian line) locked; persuasive scene drafted. Only an optional family-aimed beat remains (deferred).
+
+---
+
+## Series roadmap (forward — not yet locked)
+
+Forward directions recorded so they don't evaporate; none is a locked structural commitment yet.
+
+- **Abby may warrant her own book.** Both external reviews independently flagged Abby as strong enough to anchor her own book — she's *Lucas if he'd grown up inside the Accord*, and her arc (rebelling against certainty, not knowing what she wants, inside a culture obsessed with alignment) is a natural multi-book spine. Specific book/slot undecided. See `canon/characters/accord/ABIGAIL_ABBY_WHITMORE.md` → Series role beyond Book 1.

@@ -62,5 +62,11 @@ One-line premise: **Lucas practices the truth on a near-stranger (Abby) and grad
 3. The mistake — Lucas attacks Abby's manifestation. [Echo + A-plot collision]
 4. The garden climax — distributed engine as living mess (Eli's misfire · Zoe refuses to force · Maya names · Mason's vulnerability); Abby chooses; win ≠ calm. [POV lean: Abby] *(drafted & revised — `drafts/scenes/act3_garden_climax.md`)*
 
+## Standing obligations (must-plant seeds)
+
+Cross-book setups Book 1 must carry even though they pay off later — so the payoff is *earned*, not asserted:
+
+- **Seed Nathan's relationship to mess (protects the endgame).** Book 1 must plant, at least once and on-page, a small genuine moment of Nathan delighting in something unflattened / imperfect / alive — a flicker of the man under the Curator, currently suppressed by grief and control. This is the root of his series-long **Phase-2 turn** (`canon/00_SERIES_DECISIONS_LOCKED.md` decision 8): when he later rediscovers the value of mess and turns against the design, it must read as a *return* to something he already had, not a thesis the plot invents. Candidate homes: an Abby beat; a brief Nathan appearance at the campus/cohort; any unguarded moment off the Curator's stage. Full note: `canon/characters/accord/NATHAN_WHITMORE_CURATOR.md` → Standing obligation.
+
 ## Open
-- Devon Cross — needs a genuinely persuasive scene where the reader half-agrees with him. *(A draft exists — `drafts/scenes/act2a_devon_persuasive_scene.md`; Devon's dossier/surname/track-role are still in progress.)*
+- Devon Cross — persuasive scene drafted (`drafts/scenes/act2a_devon_persuasive_scene.md`); surname (**Cross**) + track-role (**Guide**) locked; only an optional family-aimed beat remains (deferred).

@@ -137,6 +137,7 @@ Suggested repo home: `canon/` (top level, alongside the bible).
    - **Phase 2 (later):** Nathan's healing matures past self-forgiveness into rediscovering the value of imperfection, uncertainty, and mess → he sees that the Gray flattens the very mess he's relearned to love → he turns against the design. This is the hinge into the schism (decision 9).
 
    This *sequences* existing canon, it doesn't replace it: the seeded "Nathan rediscovers messiness → tension with Adrian" turn is the **Phase-2 end-state**; Phase 1 is new, inserted before it. See `canon/world/accord/POWER_STRUCTURE.md`, `canon/characters/accord/NATHAN_WHITMORE_CURATOR.md`, `canon/characters/accord/ADRIAN_MERCER_ARCHITECT.md`.
+   - **Standing Book-1 obligation (protects the endgame):** Book 1 must *seed Nathan's relationship to mess* early so the Phase-2 turn reads as a **return**, not a thesis — see `canon/story/BOOK_1_SPINE.md` → Standing obligations.
 
 9. **Series endgame shape — the SCHISM.**
    The endgame is not reform, and not a faction war to win; it's the magic system at institutional scale. As the cost of the Gray surfaces, the Accord **splits between those who can hold not-knowing and those who can't** — the same HOLD choice the friend group makes on the page (`canon/world/echo/ECHO_MECHANICS_RESOLUTION.md`), now propagating person-by-person through the institution the way the Gray itself spreads. Both wings are sympathetic; there is **no villain to defeat.** Nathan's wing eventually = can hold not-knowing; Adrian's wing = can't (he believes every problem has a solution). The Phase-2 turn in decision 8 is what opens the fracture. See `canon/world/accord/POWER_STRUCTURE.md`, `canon/THEMES.md`.
@@ -153,6 +154,14 @@ Suggested repo home: `canon/` (top level, alongside the bible).
 
 - **Maya's surname** — locked (proposed): **Sinclair** (must NOT be "Whitmore," which collides with the founding family). Adjustable via a single find-replace; finalize before print.
 - **Devon Cross** — sincere Accord young-adult-track **Guide**; Book 1's active antagonistic force. Core + surname (**Cross**) + track-role (**Guide**, on Nathan's reach lever; no Adrian line) locked; persuasive scene drafted. Only an optional family-aimed beat remains (deferred).
+
+---
+
+## Series roadmap (forward — not yet locked)
+
+Forward directions recorded so they don't evaporate; none is a locked structural commitment yet.
+
+- **Abby may warrant her own book.** Both external reviews independently flagged Abby as strong enough to anchor her own book — she's *Lucas if he'd grown up inside the Accord*, and her arc (rebelling against certainty, not knowing what she wants, inside a culture obsessed with alignment) is a natural multi-book spine. Specific book/slot undecided. See `canon/characters/accord/ABIGAIL_ABBY_WHITMORE.md` → Series role beyond Book 1.
 
 
 ---
@@ -546,8 +555,14 @@ One-line premise: **Lucas practices the truth on a near-stranger (Abby) and grad
 3. The mistake — Lucas attacks Abby's manifestation. [Echo + A-plot collision]
 4. The garden climax — distributed engine as living mess (Eli's misfire · Zoe refuses to force · Maya names · Mason's vulnerability); Abby chooses; win ≠ calm. [POV lean: Abby] *(drafted & revised — `drafts/scenes/act3_garden_climax.md`)*
 
+## Standing obligations (must-plant seeds)
+
+Cross-book setups Book 1 must carry even though they pay off later — so the payoff is *earned*, not asserted:
+
+- **Seed Nathan's relationship to mess (protects the endgame).** Book 1 must plant, at least once and on-page, a small genuine moment of Nathan delighting in something unflattened / imperfect / alive — a flicker of the man under the Curator, currently suppressed by grief and control. This is the root of his series-long **Phase-2 turn** (`canon/00_SERIES_DECISIONS_LOCKED.md` decision 8): when he later rediscovers the value of mess and turns against the design, it must read as a *return* to something he already had, not a thesis the plot invents. Candidate homes: an Abby beat; a brief Nathan appearance at the campus/cohort; any unguarded moment off the Curator's stage. Full note: `canon/characters/accord/NATHAN_WHITMORE_CURATOR.md` → Standing obligation.
+
 ## Open
-- Devon Cross — needs a genuinely persuasive scene where the reader half-agrees with him. *(A draft exists — `drafts/scenes/act2a_devon_persuasive_scene.md`; Devon's dossier/surname/track-role are still in progress.)*
+- Devon Cross — persuasive scene drafted (`drafts/scenes/act2a_devon_persuasive_scene.md`); surname (**Cross**) + track-role (**Guide**) locked; only an optional family-aimed beat remains (deferred).
 
 
 ---
@@ -1428,8 +1443,8 @@ Phase 1 — self-forgiveness, then evangelism. In Book 1 he is hollowed and caut
 
 Phase 2 — rediscovering the mess. His healing then matures past self-forgiveness into rediscovering the value of imperfection, uncertainty, and messiness. That is what finally lets him see the cost: the Gray flattens the very mess he's relearned to love. He starts to doubt, then turns against the design — and against Adrian, who cannot hold that not-knowing. This tension is what opens the schism. See `canon/00_SERIES_DECISIONS_LOCKED.md`.
 
-Open — Phase-2 dramatization debt:
-The turn must be earned on the page, not asserted. Somewhere in the series Nathan needs his own small version of the garden — a moment where mess *saves* something he loves — before he can credibly turn against the design. If Phase 2 happens purely in summary, it reads as thesis, not change.
+Standing obligation (seed in Book 1) — the Phase-2 dramatization debt:
+The Phase-2 turn must be **earned on the page, not asserted — and the earning starts in Book 1.** Book 1 carries a standing obligation to **seed Nathan's relationship to mess early**: at least one small, genuine, on-page moment where Nathan shows real delight in something unflattened / imperfect / alive — a flicker of the man under the Curator, currently suppressed by grief and control. Plant it so his eventual turn reads as a *return* to something he already had, not a thesis the plot invents. Later in the series he then needs his own version of the garden — a moment where mess *saves* something he loves — before he can credibly turn against the design. If Phase 2 happens purely in summary, it reads as thesis, not change. (See `canon/story/BOOK_1_SPINE.md` → Standing obligations; `canon/00_SERIES_DECISIONS_LOCKED.md` decision 8.)
 
 
 ---
@@ -1490,6 +1505,9 @@ Abby may become Lucas if Lucas had grown up inside the Accord. She knows its str
 
 Nathan's fear:
 Her rebellion risks making Nathan relive the fear that a reckless decision will cost him another loved one.
+
+Series role beyond Book 1 (both external reviews):
+Two independent reviews flagged that Abby is strong enough — and structurally distinct enough — to carry **her own book.** She is, in effect, *Lucas if he'd grown up inside the Accord* (above): she knows its strengths and weaknesses from the inside, and her core movement — rebelling not against rules but against *certainty*, refusing to pretend she knows what she wants, inside a culture obsessed with alignment — is a natural multi-book spine. Recorded so the option doesn't evaporate; the specific book/slot is **not yet decided** (forward consideration — see `canon/00_SERIES_DECISIONS_LOCKED.md` → Series roadmap).
 
 
 ---
@@ -1941,6 +1959,13 @@ The original sanitized review package (`THE_ECHO_REVIEW_PACKAGE.md`, never commi
 - **Surname LOCKED:** "Cross" confirmed final (was tagged adjustable) — the crossing-over / crossroads / double-cross resonance fits the counterfeit brother; no scene rename needed. Updated `canon/characters/accord/DEVON_CROSS.md`, `canon/NAME_REGISTRY.md`, and the `canon/00_SERIES_DECISIONS_LOCKED.md` open-items note.
 - **Track-role LOCKED:** young-adult-track **Guide** (the Accord's warm term, not "recruiter"). Seated on the **outreach/reach** side — Nathan's lever in the second clock (decision 8 / `canon/world/accord/POWER_STRUCTURE.md`) — with **no line to Adrian**: shaped by a design he can't see, connecting upward only through outreach (keeps the Architect off-page per the Devon design-rule). Added a "Role & place in the structure" section to the dossier.
 - **Still open for Devon:** only the optional family-aimed persuasive beat (deferred by design).
+- Bible regenerated (`MASTER_CANON_BIBLE.md`).
+
+## v9 - Endgame-protecting obligations: Nathan-mess seed + Abby's-own-book recorded (2026-06-22)
+
+- **Phase-2 dramatization debt promoted to a standing Book-1 obligation** (external-review note): Book 1 must **seed Nathan's relationship to mess early** — a small on-page flicker of him delighting in something unflattened — so his series-long Phase-2 turn reads as a *return*, not a thesis. Recorded in `canon/story/BOOK_1_SPINE.md` (new "Standing obligations" section), upgraded in `canon/characters/accord/NATHAN_WHITMORE_CURATOR.md`, and cross-referenced from `canon/00_SERIES_DECISIONS_LOCKED.md` decision 8.
+- **"Abby may warrant her own book" recorded** (both external reviews raised it): noted as a forward series-roadmap consideration (specific book/slot undecided) in a new "Series roadmap (forward — not yet locked)" section of `canon/00_SERIES_DECISIONS_LOCKED.md`, with the substantive note in `canon/characters/accord/ABIGAIL_ABBY_WHITMORE.md` → Series role beyond Book 1.
+- **Minor:** refreshed the stale Devon line in the spine's "## Open" (surname + track-role are locked; only the optional family beat remains).
 - Bible regenerated (`MASTER_CANON_BIBLE.md`).
 
 

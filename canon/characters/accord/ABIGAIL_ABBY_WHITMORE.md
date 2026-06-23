@@ -20,3 +20,6 @@ Abby may become Lucas if Lucas had grown up inside the Accord. She knows its str
 
 Nathan's fear:
 Her rebellion risks making Nathan relive the fear that a reckless decision will cost him another loved one.
+
+Series role beyond Book 1 (both external reviews):
+Two independent reviews flagged that Abby is strong enough — and structurally distinct enough — to carry **her own book.** She is, in effect, *Lucas if he'd grown up inside the Accord* (above): she knows its strengths and weaknesses from the inside, and her core movement — rebelling not against rules but against *certainty*, refusing to pretend she knows what she wants, inside a culture obsessed with alignment — is a natural multi-book spine. Recorded so the option doesn't evaporate; the specific book/slot is **not yet decided** (forward consideration — see `canon/00_SERIES_DECISIONS_LOCKED.md` → Series roadmap).
